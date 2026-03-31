@@ -1,0 +1,2001 @@
+backlogs,college_category,country_of_residence,university_ranking,internship_count,specialization,industry,placement_status,gpa_bin,aptitude_bin,communication_bin,internship_quality_bin
+2,Tier 1,Germany,100-300,1,Cybersecurity,Tech,Placed,average,good,good,poor
+3,Tier 2,UK,100-300,0,Core CS,Consulting,Not Placed,good,average,average,poor
+0,Tier 1,Canada,100-300,0,Core CS,Healthcare,Placed,good,excellent,good,poor
+1,Tier 1,India,100-300,3,Cloud,Manufacturing,Placed,good,good,good,poor
+1,Tier 2,Germany,100-300,0,Core CS,Finance,Placed,average,average,average,poor
+1,Tier 1,Germany,300+,1,Core CS,Other,Not Placed,good,average,average,poor
+0,Tier 3,Canada,Top 100,1,Cybersecurity,Healthcare,Placed,good,good,excellent,average
+1,Tier 3,USA,Top 100,0,Cybersecurity,Tech,Not Placed,average,good,average,poor
+0,Tier 2,India,300+,1,Cybersecurity,Finance,Not Placed,average,good,poor,poor
+0,Tier 1,Germany,Top 100,2,Cybersecurity,Finance,Placed,average,good,average,poor
+0,Tier 3,Canada,300+,2,Cloud,Consulting,Not Placed,average,good,average,poor
+1,Tier 1,India,300+,0,Cybersecurity,Finance,Placed,good,good,poor,poor
+0,Tier 2,Canada,100-300,1,Data Science,Other,Placed,average,excellent,average,average
+0,Tier 2,Canada,Top 100,1,Data Science,Tech,Placed,good,excellent,good,good
+1,Tier 1,India,Top 100,2,AI/ML,Consulting,Placed,good,average,average,good
+3,Tier 2,India,300+,1,Core CS,Consulting,Placed,average,good,average,poor
+0,Tier 2,USA,300+,1,Core CS,Tech,Placed,good,good,good,poor
+1,Tier 3,Canada,Top 100,3,AI/ML,Tech,Placed,good,good,good,poor
+2,Tier 1,Canada,100-300,1,Cybersecurity,Tech,Placed,good,excellent,good,poor
+4,Tier 3,USA,100-300,1,Core CS,Other,Not Placed,good,average,average,average
+0,Tier 2,USA,Top 100,2,AI/ML,Healthcare,Placed,good,average,poor,poor
+0,Tier 2,UK,100-300,1,Cybersecurity,Finance,Placed,good,excellent,good,average
+0,Tier 2,UK,100-300,2,Cloud,Manufacturing,Placed,good,poor,good,good
+3,Tier 1,India,300+,2,Data Science,Healthcare,Not Placed,good,good,good,poor
+1,Tier 2,Germany,100-300,0,AI/ML,Manufacturing,Placed,average,average,excellent,good
+0,Tier 1,Germany,Top 100,0,Data Science,Consulting,Placed,good,average,excellent,poor
+1,Tier 2,Germany,Top 100,4,Core CS,Finance,Placed,average,average,average,poor
+1,Tier 2,Germany,100-300,4,AI/ML,Healthcare,Placed,average,excellent,poor,poor
+0,Tier 3,UK,300+,1,Data Science,Finance,Placed,good,good,average,poor
+2,Tier 3,UK,100-300,1,Core CS,Other,Placed,good,excellent,good,poor
+3,Tier 3,Germany,300+,3,AI/ML,Consulting,Not Placed,average,poor,poor,poor
+2,Tier 2,Germany,300+,2,AI/ML,Finance,Not Placed,average,excellent,good,poor
+2,Tier 2,USA,300+,2,AI/ML,Healthcare,Not Placed,good,poor,average,average
+1,Tier 3,USA,Top 100,2,Cloud,Other,Not Placed,good,excellent,good,poor
+2,Tier 1,USA,100-300,4,AI/ML,Consulting,Placed,good,excellent,good,average
+2,Tier 1,Canada,300+,0,Core CS,Tech,Not Placed,poor,excellent,good,poor
+0,Tier 3,Canada,100-300,2,Cybersecurity,Other,Placed,good,excellent,average,poor
+1,Tier 2,USA,300+,0,Core CS,Finance,Not Placed,good,average,good,poor
+1,Tier 2,Germany,300+,2,AI/ML,Finance,Placed,average,good,good,poor
+0,Tier 1,Germany,100-300,0,Core CS,Other,Placed,good,average,average,average
+0,Tier 2,Canada,300+,1,Data Science,Finance,Placed,average,good,average,poor
+1,Tier 3,India,100-300,1,Cybersecurity,Healthcare,Placed,good,average,good,poor
+1,Tier 3,USA,100-300,2,Cybersecurity,Consulting,Placed,average,good,good,poor
+1,Tier 2,Canada,100-300,0,AI/ML,Finance,Not Placed,average,average,good,poor
+0,Tier 1,India,Top 100,2,AI/ML,Tech,Placed,good,good,good,excellent
+1,Tier 3,USA,300+,2,Core CS,Manufacturing,Placed,average,good,excellent,good
+0,Tier 1,UK,300+,1,Cloud,Healthcare,Placed,average,excellent,excellent,average
+0,Tier 3,Canada,100-300,2,Cloud,Manufacturing,Placed,good,average,average,good
+0,Tier 3,USA,Top 100,5,Core CS,Tech,Placed,good,good,average,average
+4,Tier 2,Germany,100-300,1,Cloud,Manufacturing,Placed,good,excellent,poor,good
+1,Tier 2,Germany,Top 100,2,Data Science,Finance,Placed,good,good,poor,average
+1,Tier 1,UK,100-300,5,AI/ML,Healthcare,Placed,average,average,good,poor
+2,Tier 2,Canada,300+,3,Data Science,Tech,Placed,average,good,average,poor
+3,Tier 2,UK,300+,2,Core CS,Other,Not Placed,average,average,poor,poor
+0,Tier 3,Germany,Top 100,1,Core CS,Finance,Placed,average,good,excellent,poor
+2,Tier 3,Canada,100-300,0,Data Science,Manufacturing,Placed,good,average,excellent,poor
+2,Tier 2,India,300+,1,Cloud,Consulting,Placed,average,excellent,excellent,average
+0,Tier 3,Germany,100-300,1,Data Science,Other,Placed,good,good,excellent,poor
+1,Tier 2,Canada,100-300,0,Core CS,Finance,Placed,good,good,average,average
+2,Tier 3,India,100-300,2,AI/ML,Healthcare,Placed,average,excellent,poor,good
+2,Tier 3,India,100-300,1,Cloud,Other,Placed,average,good,excellent,average
+1,Tier 2,UK,100-300,1,Cloud,Tech,Placed,average,excellent,excellent,poor
+1,Tier 2,India,300+,1,Core CS,Finance,Not Placed,good,average,poor,poor
+2,Tier 1,India,100-300,0,Cybersecurity,Other,Placed,good,good,poor,poor
+2,Tier 2,Canada,100-300,2,AI/ML,Consulting,Not Placed,good,good,poor,poor
+1,Tier 3,USA,100-300,0,Cybersecurity,Healthcare,Not Placed,average,average,poor,poor
+0,Tier 3,India,300+,1,Cybersecurity,Tech,Placed,good,average,average,poor
+1,Tier 2,Canada,100-300,0,Cloud,Finance,Placed,good,good,excellent,good
+0,Tier 2,India,Top 100,1,Cloud,Healthcare,Placed,average,excellent,average,average
+0,Tier 2,UK,300+,4,AI/ML,Other,Placed,excellent,poor,good,good
+1,Tier 1,UK,100-300,1,Cloud,Manufacturing,Placed,good,average,average,poor
+0,Tier 2,USA,100-300,0,Data Science,Healthcare,Not Placed,average,average,average,poor
+0,Tier 2,India,100-300,1,Data Science,Consulting,Placed,good,good,good,average
+0,Tier 1,Canada,Top 100,0,Data Science,Manufacturing,Placed,good,good,average,average
+2,Tier 1,India,Top 100,0,Cybersecurity,Manufacturing,Placed,good,good,average,poor
+2,Tier 1,Canada,300+,2,Core CS,Other,Not Placed,average,good,average,average
+1,Tier 2,Germany,Top 100,2,Data Science,Consulting,Placed,good,good,average,average
+4,Tier 1,UK,300+,2,Core CS,Finance,Not Placed,average,good,good,poor
+1,Tier 2,India,Top 100,4,AI/ML,Manufacturing,Placed,average,average,average,poor
+1,Tier 2,USA,Top 100,2,Cloud,Healthcare,Not Placed,average,excellent,average,poor
+3,Tier 1,Germany,100-300,1,AI/ML,Finance,Not Placed,average,poor,poor,average
+0,Tier 1,India,100-300,2,Cloud,Healthcare,Placed,good,excellent,good,average
+0,Tier 3,India,300+,2,Core CS,Tech,Placed,good,good,average,good
+2,Tier 2,India,300+,3,Cybersecurity,Healthcare,Placed,good,average,average,average
+2,Tier 2,India,300+,0,Core CS,Finance,Not Placed,good,good,poor,poor
+2,Tier 1,USA,Top 100,5,Data Science,Manufacturing,Placed,good,average,average,poor
+1,Tier 3,UK,300+,2,Data Science,Healthcare,Placed,good,poor,poor,average
+0,Tier 2,Germany,300+,1,Data Science,Consulting,Placed,average,excellent,average,poor
+0,Tier 2,Canada,100-300,1,Core CS,Other,Placed,good,good,average,poor
+1,Tier 1,UK,300+,1,Cloud,Finance,Not Placed,average,excellent,good,poor
+0,Tier 2,Germany,300+,0,Core CS,Consulting,Placed,good,excellent,excellent,poor
+1,Tier 1,Germany,Top 100,3,AI/ML,Tech,Placed,poor,good,excellent,poor
+1,Tier 3,India,100-300,3,AI/ML,Manufacturing,Placed,average,good,excellent,average
+1,Tier 2,UK,100-300,1,AI/ML,Healthcare,Placed,good,good,average,poor
+0,Tier 2,Germany,Top 100,1,Cloud,Consulting,Placed,good,good,excellent,poor
+0,Tier 3,Canada,300+,1,Core CS,Finance,Placed,good,good,average,poor
+2,Tier 3,UK,300+,0,Cloud,Tech,Placed,good,good,average,poor
+1,Tier 1,USA,300+,1,Cybersecurity,Tech,Placed,good,average,good,poor
+2,Tier 3,Canada,300+,1,Data Science,Tech,Not Placed,good,average,good,poor
+2,Tier 1,India,300+,1,Cybersecurity,Manufacturing,Not Placed,average,average,average,good
+2,Tier 2,UK,100-300,1,Cybersecurity,Manufacturing,Not Placed,average,good,excellent,poor
+0,Tier 2,UK,Top 100,2,Data Science,Other,Placed,good,poor,average,poor
+1,Tier 2,USA,100-300,1,Cloud,Other,Placed,average,excellent,good,poor
+5,Tier 1,UK,300+,2,AI/ML,Healthcare,Not Placed,average,average,average,poor
+1,Tier 3,Germany,100-300,2,Data Science,Finance,Placed,average,good,average,good
+1,Tier 3,Germany,100-300,3,AI/ML,Tech,Placed,good,average,average,poor
+2,Tier 3,Canada,100-300,2,Core CS,Manufacturing,Placed,average,good,average,poor
+0,Tier 2,Canada,100-300,2,Core CS,Tech,Placed,good,excellent,average,poor
+1,Tier 3,UK,100-300,1,Cloud,Healthcare,Placed,good,average,good,good
+0,Tier 2,India,300+,0,Data Science,Other,Placed,good,poor,excellent,average
+2,Tier 1,Germany,300+,1,Cybersecurity,Other,Not Placed,good,good,good,poor
+2,Tier 1,USA,300+,2,Cybersecurity,Other,Not Placed,average,excellent,average,average
+2,Tier 3,UK,300+,2,Cloud,Tech,Not Placed,poor,good,average,poor
+0,Tier 3,UK,300+,1,Cybersecurity,Finance,Placed,good,good,poor,poor
+1,Tier 3,India,300+,0,Core CS,Healthcare,Placed,good,good,good,good
+1,Tier 3,India,300+,1,AI/ML,Consulting,Placed,good,excellent,poor,good
+3,Tier 1,Canada,100-300,2,Core CS,Finance,Placed,good,average,excellent,good
+2,Tier 2,USA,Top 100,1,Core CS,Finance,Placed,average,excellent,average,poor
+0,Tier 3,Germany,100-300,2,Cloud,Finance,Placed,good,good,poor,poor
+0,Tier 2,USA,100-300,0,Core CS,Finance,Placed,average,good,excellent,poor
+2,Tier 1,Germany,300+,0,Data Science,Other,Not Placed,average,average,average,good
+1,Tier 2,Canada,300+,2,Data Science,Tech,Not Placed,good,good,average,poor
+2,Tier 2,Germany,100-300,2,Data Science,Healthcare,Not Placed,average,good,poor,average
+1,Tier 2,USA,Top 100,0,Data Science,Tech,Placed,average,excellent,good,poor
+0,Tier 2,India,300+,0,Cybersecurity,Manufacturing,Placed,average,excellent,average,poor
+0,Tier 3,Canada,300+,0,Data Science,Consulting,Not Placed,average,average,average,poor
+1,Tier 3,Canada,300+,0,AI/ML,Consulting,Not Placed,average,excellent,excellent,poor
+0,Tier 1,India,100-300,2,Core CS,Consulting,Placed,good,good,average,poor
+0,Tier 2,India,100-300,5,Cloud,Other,Placed,good,good,good,poor
+2,Tier 3,Germany,300+,1,Cloud,Consulting,Not Placed,average,good,good,poor
+1,Tier 1,UK,Top 100,0,Core CS,Other,Placed,average,excellent,good,average
+2,Tier 2,UK,Top 100,4,Cybersecurity,Healthcare,Placed,good,good,poor,good
+2,Tier 2,USA,100-300,0,Cybersecurity,Consulting,Not Placed,average,good,good,poor
+1,Tier 1,UK,Top 100,0,Cloud,Tech,Placed,good,average,average,average
+2,Tier 2,UK,300+,0,Cloud,Other,Not Placed,average,good,average,poor
+1,Tier 1,USA,300+,0,Cloud,Manufacturing,Placed,good,good,good,good
+1,Tier 1,USA,300+,2,Data Science,Manufacturing,Placed,good,excellent,good,average
+1,Tier 3,UK,100-300,0,Data Science,Finance,Not Placed,good,good,average,poor
+1,Tier 2,Canada,Top 100,1,Cloud,Finance,Placed,good,average,excellent,average
+2,Tier 1,India,Top 100,2,Cybersecurity,Manufacturing,Placed,average,excellent,good,average
+1,Tier 1,USA,Top 100,1,Data Science,Finance,Placed,average,excellent,good,poor
+0,Tier 1,Germany,Top 100,1,Cloud,Manufacturing,Placed,good,excellent,good,good
+0,Tier 2,UK,Top 100,0,Cybersecurity,Tech,Placed,average,excellent,good,poor
+5,Tier 2,Canada,300+,0,Cybersecurity,Manufacturing,Not Placed,average,good,average,poor
+1,Tier 3,Germany,100-300,1,AI/ML,Manufacturing,Placed,good,excellent,good,average
+0,Tier 1,USA,Top 100,3,Core CS,Manufacturing,Placed,average,good,good,poor
+0,Tier 3,Canada,100-300,2,AI/ML,Consulting,Placed,average,average,average,poor
+1,Tier 3,USA,300+,1,AI/ML,Manufacturing,Not Placed,average,excellent,good,poor
+0,Tier 1,USA,100-300,4,Core CS,Tech,Placed,average,excellent,good,poor
+1,Tier 2,Germany,100-300,2,Cloud,Tech,Placed,average,excellent,excellent,average
+0,Tier 2,India,100-300,2,Cloud,Healthcare,Placed,good,average,good,poor
+1,Tier 2,Germany,300+,1,Data Science,Other,Placed,average,good,poor,average
+0,Tier 1,India,300+,1,Cloud,Healthcare,Placed,good,good,average,poor
+2,Tier 3,UK,300+,1,Cybersecurity,Healthcare,Not Placed,good,good,good,poor
+1,Tier 2,USA,100-300,1,AI/ML,Consulting,Not Placed,good,good,good,poor
+1,Tier 2,UK,100-300,0,Core CS,Manufacturing,Not Placed,average,good,average,average
+1,Tier 3,USA,300+,1,Cloud,Other,Placed,good,good,average,excellent
+3,Tier 1,Germany,100-300,2,AI/ML,Consulting,Not Placed,average,good,excellent,poor
+1,Tier 3,India,Top 100,0,Data Science,Healthcare,Placed,good,good,poor,average
+0,Tier 2,India,Top 100,4,Data Science,Finance,Placed,average,good,poor,poor
+0,Tier 1,India,100-300,1,Cybersecurity,Consulting,Placed,average,good,average,poor
+0,Tier 1,UK,100-300,2,Cloud,Healthcare,Not Placed,average,excellent,excellent,average
+2,Tier 1,Canada,300+,3,Cloud,Tech,Not Placed,good,average,average,poor
+0,Tier 3,Germany,300+,1,Cybersecurity,Other,Not Placed,good,excellent,good,poor
+0,Tier 2,Germany,Top 100,2,Core CS,Healthcare,Not Placed,average,average,good,poor
+2,Tier 3,UK,300+,3,Data Science,Tech,Placed,good,average,average,poor
+0,Tier 2,USA,300+,1,AI/ML,Finance,Not Placed,average,good,average,poor
+0,Tier 1,UK,100-300,3,Core CS,Finance,Placed,good,good,good,average
+2,Tier 2,Canada,Top 100,2,Data Science,Other,Placed,average,excellent,good,poor
+2,Tier 1,USA,300+,3,Cloud,Finance,Placed,good,good,average,average
+0,Tier 1,Canada,100-300,1,Cloud,Other,Placed,average,good,good,average
+3,Tier 2,India,100-300,0,Cybersecurity,Finance,Not Placed,good,average,good,average
+1,Tier 1,USA,300+,1,AI/ML,Manufacturing,Not Placed,average,average,excellent,poor
+0,Tier 2,Canada,100-300,3,Data Science,Healthcare,Placed,average,excellent,poor,good
+1,Tier 2,Germany,100-300,1,Core CS,Consulting,Placed,good,average,good,average
+0,Tier 2,India,100-300,1,Cloud,Healthcare,Not Placed,average,good,poor,poor
+1,Tier 1,Canada,100-300,2,Data Science,Consulting,Not Placed,average,poor,good,poor
+0,Tier 1,Germany,100-300,1,Data Science,Finance,Placed,average,poor,good,average
+3,Tier 1,USA,Top 100,2,Cybersecurity,Other,Placed,good,average,good,poor
+0,Tier 2,USA,Top 100,0,Data Science,Tech,Placed,average,average,excellent,average
+1,Tier 2,India,300+,5,Core CS,Manufacturing,Placed,good,average,poor,good
+3,Tier 2,Germany,300+,1,Core CS,Healthcare,Placed,good,excellent,average,good
+1,Tier 1,USA,100-300,0,AI/ML,Tech,Placed,good,average,good,poor
+2,Tier 3,Germany,100-300,1,Cybersecurity,Consulting,Placed,average,good,average,average
+1,Tier 1,Canada,300+,3,AI/ML,Tech,Not Placed,good,good,average,average
+1,Tier 3,USA,100-300,3,Data Science,Healthcare,Not Placed,average,poor,average,poor
+1,Tier 1,Germany,Top 100,0,Core CS,Finance,Placed,good,good,average,poor
+0,Tier 2,India,100-300,1,Cloud,Consulting,Not Placed,average,excellent,average,poor
+2,Tier 1,India,300+,1,Data Science,Finance,Not Placed,average,good,good,average
+0,Tier 2,India,100-300,2,Cybersecurity,Healthcare,Placed,good,excellent,poor,poor
+0,Tier 1,India,300+,2,Data Science,Consulting,Placed,average,poor,poor,poor
+0,Tier 2,UK,100-300,1,Cybersecurity,Manufacturing,Placed,good,excellent,excellent,average
+4,Tier 3,Germany,100-300,2,AI/ML,Consulting,Not Placed,poor,excellent,good,poor
+0,Tier 1,UK,100-300,1,Cloud,Consulting,Placed,good,excellent,average,poor
+0,Tier 1,USA,Top 100,2,Cybersecurity,Healthcare,Placed,average,average,poor,good
+1,Tier 1,Germany,100-300,0,Cloud,Manufacturing,Not Placed,average,average,average,poor
+4,Tier 2,UK,100-300,0,AI/ML,Other,Not Placed,average,poor,average,poor
+3,Tier 2,Canada,100-300,3,Cybersecurity,Other,Not Placed,average,excellent,average,average
+1,Tier 1,India,100-300,3,Core CS,Other,Not Placed,poor,good,average,poor
+2,Tier 2,Germany,Top 100,1,Core CS,Healthcare,Not Placed,average,good,good,poor
+1,Tier 2,USA,Top 100,0,Data Science,Healthcare,Placed,average,average,average,poor
+2,Tier 3,UK,100-300,2,Cybersecurity,Other,Not Placed,average,average,good,average
+0,Tier 2,India,300+,0,AI/ML,Consulting,Not Placed,good,excellent,average,average
+4,Tier 1,UK,100-300,1,Data Science,Tech,Placed,average,good,good,poor
+4,Tier 2,Germany,300+,0,Data Science,Manufacturing,Placed,good,average,good,average
+3,Tier 2,UK,300+,1,Cloud,Manufacturing,Placed,good,good,average,poor
+0,Tier 1,UK,300+,3,Core CS,Finance,Placed,good,excellent,average,average
+2,Tier 3,India,300+,0,Core CS,Consulting,Not Placed,average,good,average,average
+2,Tier 3,Germany,300+,2,AI/ML,Tech,Placed,good,good,good,average
+3,Tier 3,USA,100-300,1,Cloud,Finance,Not Placed,average,good,average,average
+0,Tier 2,India,300+,1,AI/ML,Other,Placed,good,excellent,average,poor
+0,Tier 1,UK,300+,2,Core CS,Manufacturing,Not Placed,good,good,average,poor
+1,Tier 3,India,100-300,2,AI/ML,Manufacturing,Placed,average,good,average,poor
+4,Tier 2,Canada,100-300,0,Core CS,Consulting,Not Placed,average,average,good,poor
+3,Tier 1,USA,300+,1,Cloud,Other,Placed,good,excellent,excellent,good
+1,Tier 3,USA,300+,2,AI/ML,Other,Placed,average,excellent,good,average
+1,Tier 2,Germany,100-300,1,AI/ML,Tech,Not Placed,good,average,average,poor
+2,Tier 2,Canada,300+,1,Cloud,Finance,Placed,average,excellent,excellent,average
+3,Tier 3,India,100-300,1,Cloud,Manufacturing,Not Placed,average,excellent,average,poor
+1,Tier 2,Canada,300+,0,Cybersecurity,Finance,Placed,good,average,good,average
+2,Tier 1,USA,100-300,4,AI/ML,Tech,Placed,poor,excellent,excellent,average
+1,Tier 1,Germany,Top 100,0,Core CS,Healthcare,Not Placed,average,good,good,poor
+1,Tier 1,Germany,300+,0,Cybersecurity,Other,Placed,good,average,average,poor
+1,Tier 3,Canada,100-300,1,Core CS,Consulting,Placed,good,good,poor,poor
+0,Tier 1,USA,Top 100,1,Core CS,Consulting,Placed,average,good,average,poor
+1,Tier 1,UK,100-300,2,AI/ML,Manufacturing,Placed,average,poor,average,good
+0,Tier 3,USA,100-300,1,Cloud,Finance,Placed,good,average,good,good
+1,Tier 2,USA,100-300,0,AI/ML,Tech,Placed,average,average,excellent,poor
+0,Tier 2,Canada,300+,0,Cloud,Other,Not Placed,good,good,poor,average
+3,Tier 3,USA,100-300,1,AI/ML,Healthcare,Not Placed,average,average,poor,poor
+3,Tier 2,USA,Top 100,1,AI/ML,Consulting,Not Placed,good,average,good,poor
+1,Tier 2,USA,300+,0,Cybersecurity,Manufacturing,Placed,average,good,poor,poor
+1,Tier 3,India,300+,1,Cybersecurity,Manufacturing,Not Placed,good,excellent,average,good
+0,Tier 3,UK,300+,0,Cybersecurity,Tech,Not Placed,average,good,poor,average
+2,Tier 3,India,100-300,1,AI/ML,Healthcare,Not Placed,poor,average,average,average
+2,Tier 3,India,100-300,1,AI/ML,Consulting,Not Placed,good,excellent,good,average
+3,Tier 3,UK,100-300,1,Cybersecurity,Consulting,Not Placed,poor,good,poor,poor
+0,Tier 3,India,100-300,4,Cybersecurity,Other,Placed,average,good,good,poor
+1,Tier 3,Canada,300+,3,Cybersecurity,Finance,Placed,average,poor,poor,poor
+3,Tier 3,Germany,300+,3,Cloud,Finance,Not Placed,average,average,good,poor
+2,Tier 2,Germany,300+,2,Cloud,Tech,Not Placed,average,good,average,poor
+3,Tier 2,Canada,100-300,1,AI/ML,Finance,Not Placed,average,good,good,poor
+1,Tier 2,UK,300+,2,Core CS,Other,Placed,good,good,excellent,good
+1,Tier 2,Canada,Top 100,0,AI/ML,Tech,Placed,good,average,excellent,poor
+1,Tier 2,Canada,100-300,1,Core CS,Other,Placed,good,good,average,poor
+0,Tier 1,UK,100-300,2,Data Science,Other,Placed,good,good,average,average
+1,Tier 2,Germany,100-300,3,Data Science,Finance,Not Placed,average,average,poor,poor
+2,Tier 3,India,100-300,1,Core CS,Consulting,Placed,average,excellent,poor,poor
+0,Tier 2,Canada,300+,2,Data Science,Finance,Placed,good,good,average,poor
+1,Tier 3,UK,300+,2,AI/ML,Manufacturing,Placed,good,excellent,good,average
+4,Tier 3,USA,100-300,0,Data Science,Healthcare,Not Placed,poor,good,average,poor
+0,Tier 2,Canada,300+,2,Data Science,Manufacturing,Not Placed,average,good,good,poor
+1,Tier 2,UK,300+,4,Core CS,Other,Placed,good,good,good,poor
+2,Tier 2,UK,300+,3,Cloud,Manufacturing,Placed,good,average,excellent,poor
+0,Tier 2,UK,Top 100,0,AI/ML,Finance,Placed,average,average,average,poor
+1,Tier 2,USA,300+,3,AI/ML,Tech,Placed,average,average,excellent,average
+0,Tier 3,India,300+,3,Core CS,Tech,Placed,good,excellent,average,poor
+1,Tier 1,USA,100-300,1,AI/ML,Tech,Placed,good,good,excellent,poor
+1,Tier 1,Germany,300+,2,Core CS,Finance,Placed,good,excellent,poor,poor
+2,Tier 1,Germany,100-300,1,AI/ML,Finance,Not Placed,average,average,poor,poor
+1,Tier 1,USA,300+,2,Cloud,Manufacturing,Not Placed,good,average,average,average
+2,Tier 2,India,100-300,4,AI/ML,Consulting,Placed,good,excellent,excellent,good
+0,Tier 1,UK,100-300,5,AI/ML,Finance,Placed,average,average,poor,poor
+0,Tier 2,Canada,100-300,3,Data Science,Consulting,Placed,good,average,poor,average
+1,Tier 2,UK,100-300,1,Cloud,Other,Placed,good,good,good,poor
+3,Tier 2,UK,300+,4,AI/ML,Manufacturing,Placed,good,good,poor,poor
+0,Tier 3,USA,Top 100,1,Core CS,Healthcare,Placed,good,excellent,average,poor
+0,Tier 1,USA,300+,0,Cloud,Healthcare,Placed,good,excellent,good,poor
+0,Tier 3,Canada,100-300,1,Core CS,Finance,Placed,average,good,good,average
+0,Tier 2,UK,100-300,3,AI/ML,Tech,Placed,good,good,good,poor
+4,Tier 1,India,300+,0,Data Science,Healthcare,Not Placed,average,good,poor,poor
+2,Tier 2,USA,300+,0,Core CS,Other,Not Placed,average,good,excellent,poor
+1,Tier 2,Canada,300+,3,Cybersecurity,Manufacturing,Placed,good,good,poor,poor
+3,Tier 2,Germany,300+,0,AI/ML,Consulting,Not Placed,average,good,good,poor
+2,Tier 1,Germany,300+,2,Cybersecurity,Healthcare,Placed,good,good,average,average
+0,Tier 2,India,Top 100,2,Data Science,Consulting,Placed,good,average,poor,average
+2,Tier 1,Canada,100-300,0,Core CS,Healthcare,Not Placed,good,average,good,poor
+2,Tier 1,USA,100-300,2,Cybersecurity,Tech,Placed,average,excellent,good,average
+0,Tier 1,UK,100-300,1,Core CS,Consulting,Not Placed,average,good,average,poor
+2,Tier 3,India,Top 100,2,Cloud,Manufacturing,Placed,good,good,average,good
+1,Tier 3,Canada,100-300,2,Core CS,Consulting,Placed,good,poor,good,poor
+1,Tier 1,India,100-300,1,Cybersecurity,Consulting,Placed,good,good,poor,average
+1,Tier 2,Canada,300+,0,Core CS,Tech,Placed,good,good,average,average
+1,Tier 1,India,300+,2,Data Science,Healthcare,Placed,good,excellent,good,poor
+2,Tier 1,UK,100-300,2,Cloud,Other,Not Placed,average,average,good,poor
+4,Tier 2,Canada,Top 100,2,Cloud,Tech,Placed,good,good,good,average
+0,Tier 2,Germany,100-300,1,AI/ML,Manufacturing,Not Placed,average,excellent,good,poor
+1,Tier 3,UK,300+,1,Cybersecurity,Healthcare,Placed,average,poor,good,average
+3,Tier 3,Canada,100-300,0,Cloud,Manufacturing,Not Placed,poor,good,average,poor
+0,Tier 2,USA,100-300,1,Cybersecurity,Finance,Placed,average,poor,average,poor
+0,Tier 1,Germany,Top 100,0,Cybersecurity,Tech,Placed,good,average,excellent,poor
+5,Tier 1,UK,Top 100,0,Cloud,Finance,Not Placed,poor,good,good,poor
+1,Tier 2,USA,100-300,1,AI/ML,Consulting,Placed,average,good,average,poor
+2,Tier 3,Germany,100-300,1,Cloud,Healthcare,Placed,good,excellent,average,poor
+1,Tier 3,Canada,Top 100,0,AI/ML,Manufacturing,Not Placed,average,poor,average,poor
+1,Tier 3,Canada,300+,2,Core CS,Healthcare,Not Placed,average,good,good,poor
+1,Tier 3,UK,300+,2,Data Science,Finance,Placed,good,average,excellent,average
+3,Tier 1,India,Top 100,3,Data Science,Healthcare,Not Placed,average,excellent,good,average
+1,Tier 2,USA,300+,0,AI/ML,Consulting,Not Placed,good,average,good,average
+1,Tier 2,Germany,300+,2,Cybersecurity,Tech,Placed,good,average,average,poor
+3,Tier 1,Canada,300+,0,Core CS,Manufacturing,Not Placed,average,excellent,good,poor
+1,Tier 1,USA,100-300,1,AI/ML,Consulting,Placed,good,good,good,poor
+3,Tier 3,Canada,100-300,2,Core CS,Other,Placed,average,excellent,good,average
+0,Tier 3,USA,100-300,3,Cloud,Manufacturing,Placed,good,good,poor,poor
+1,Tier 2,Canada,100-300,1,Core CS,Other,Not Placed,good,excellent,good,poor
+2,Tier 2,UK,300+,2,Cybersecurity,Other,Placed,good,excellent,average,poor
+1,Tier 1,Germany,300+,1,Cloud,Tech,Placed,good,excellent,excellent,poor
+1,Tier 3,USA,300+,0,Data Science,Consulting,Placed,average,excellent,average,average
+0,Tier 1,USA,Top 100,2,Data Science,Healthcare,Placed,good,excellent,good,average
+2,Tier 3,UK,Top 100,0,Cybersecurity,Consulting,Not Placed,average,good,good,poor
+0,Tier 1,India,100-300,2,Cloud,Tech,Placed,good,average,good,good
+0,Tier 3,UK,300+,1,Data Science,Other,Not Placed,average,average,good,average
+1,Tier 3,Germany,300+,0,Cloud,Tech,Placed,good,excellent,average,average
+3,Tier 3,Canada,300+,0,Cybersecurity,Manufacturing,Not Placed,average,poor,average,poor
+1,Tier 1,UK,300+,3,Cybersecurity,Consulting,Placed,good,poor,good,poor
+0,Tier 1,Canada,300+,3,Cloud,Consulting,Placed,good,poor,average,average
+0,Tier 2,Canada,300+,2,AI/ML,Tech,Placed,good,good,excellent,poor
+0,Tier 3,Germany,Top 100,0,AI/ML,Other,Placed,average,average,good,poor
+1,Tier 3,USA,300+,0,Data Science,Finance,Placed,good,good,good,poor
+1,Tier 1,Germany,100-300,2,Data Science,Consulting,Not Placed,average,poor,average,poor
+2,Tier 2,India,300+,2,Data Science,Finance,Not Placed,average,good,good,average
+0,Tier 3,Canada,300+,1,Core CS,Finance,Placed,good,good,excellent,poor
+0,Tier 1,Canada,100-300,4,Cloud,Tech,Placed,good,good,good,poor
+1,Tier 2,Germany,100-300,1,Core CS,Manufacturing,Not Placed,good,average,average,poor
+1,Tier 1,USA,Top 100,2,AI/ML,Other,Placed,average,good,good,poor
+3,Tier 2,Germany,300+,1,Data Science,Consulting,Not Placed,average,good,average,good
+0,Tier 1,Germany,100-300,2,AI/ML,Healthcare,Placed,good,good,average,poor
+1,Tier 2,India,300+,2,Core CS,Healthcare,Not Placed,average,good,excellent,average
+0,Tier 2,USA,300+,0,Data Science,Other,Placed,good,poor,good,average
+1,Tier 2,USA,300+,2,Core CS,Other,Placed,good,poor,average,poor
+1,Tier 2,Germany,100-300,2,AI/ML,Manufacturing,Placed,good,good,good,average
+3,Tier 3,Germany,100-300,1,Cloud,Tech,Not Placed,average,good,average,poor
+2,Tier 2,India,300+,2,Cybersecurity,Tech,Not Placed,good,good,poor,poor
+0,Tier 2,USA,100-300,3,Core CS,Finance,Placed,average,good,good,poor
+3,Tier 2,USA,Top 100,2,Cloud,Finance,Placed,average,good,excellent,poor
+0,Tier 2,Canada,100-300,1,Cybersecurity,Tech,Placed,average,excellent,average,average
+1,Tier 2,USA,300+,0,Cloud,Tech,Not Placed,good,good,average,poor
+2,Tier 2,India,100-300,0,Cloud,Manufacturing,Placed,average,good,good,poor
+1,Tier 2,Canada,100-300,0,Cybersecurity,Other,Not Placed,average,good,poor,poor
+2,Tier 3,UK,300+,1,Data Science,Healthcare,Placed,average,average,poor,average
+1,Tier 2,Germany,300+,2,Core CS,Tech,Placed,good,average,good,good
+1,Tier 3,USA,100-300,4,Cybersecurity,Tech,Placed,good,good,good,poor
+1,Tier 3,Germany,300+,3,Data Science,Manufacturing,Not Placed,average,good,excellent,poor
+1,Tier 1,UK,100-300,0,Data Science,Tech,Not Placed,good,excellent,average,poor
+3,Tier 3,USA,100-300,1,Cloud,Manufacturing,Not Placed,average,average,excellent,poor
+2,Tier 1,UK,300+,1,AI/ML,Manufacturing,Not Placed,average,excellent,poor,average
+1,Tier 2,India,100-300,4,Data Science,Finance,Placed,good,poor,poor,average
+0,Tier 3,Germany,300+,2,Data Science,Consulting,Not Placed,good,good,average,good
+1,Tier 1,USA,300+,1,Core CS,Other,Placed,good,average,average,poor
+2,Tier 2,Canada,100-300,0,Cloud,Other,Not Placed,average,excellent,excellent,average
+1,Tier 2,Germany,300+,3,Cloud,Finance,Placed,good,average,excellent,average
+0,Tier 2,USA,Top 100,3,Data Science,Other,Placed,average,good,average,poor
+0,Tier 3,Canada,300+,1,Core CS,Healthcare,Placed,good,good,poor,poor
+2,Tier 2,Canada,100-300,2,Data Science,Consulting,Placed,average,poor,good,poor
+0,Tier 1,UK,300+,2,Data Science,Tech,Placed,average,good,excellent,poor
+2,Tier 2,Canada,300+,0,AI/ML,Consulting,Not Placed,average,excellent,average,poor
+1,Tier 2,India,300+,3,Cloud,Consulting,Placed,average,excellent,average,poor
+2,Tier 1,USA,100-300,1,AI/ML,Tech,Placed,good,average,average,poor
+0,Tier 2,Canada,100-300,1,Core CS,Consulting,Placed,good,good,poor,average
+3,Tier 3,India,300+,1,Core CS,Finance,Placed,average,excellent,excellent,poor
+2,Tier 2,UK,300+,2,Core CS,Healthcare,Not Placed,average,poor,average,poor
+3,Tier 1,USA,Top 100,1,Cybersecurity,Tech,Placed,good,good,good,poor
+1,Tier 1,Germany,Top 100,2,Cloud,Tech,Not Placed,poor,good,average,average
+1,Tier 3,India,100-300,0,Core CS,Other,Placed,excellent,excellent,average,poor
+1,Tier 2,India,300+,2,AI/ML,Other,Placed,average,good,average,average
+1,Tier 2,USA,100-300,1,Data Science,Consulting,Placed,good,good,good,poor
+1,Tier 3,Germany,300+,3,Core CS,Finance,Placed,average,excellent,good,poor
+0,Tier 1,UK,Top 100,0,Cloud,Tech,Placed,good,average,excellent,poor
+2,Tier 3,USA,300+,2,Cloud,Other,Not Placed,good,good,poor,poor
+0,Tier 2,UK,100-300,0,Cybersecurity,Manufacturing,Placed,good,average,average,average
+1,Tier 2,UK,300+,0,Cybersecurity,Tech,Placed,good,average,average,average
+0,Tier 2,Canada,Top 100,1,Core CS,Finance,Placed,good,average,good,poor
+0,Tier 1,India,300+,2,Core CS,Consulting,Placed,average,average,average,poor
+0,Tier 2,UK,100-300,2,Cybersecurity,Consulting,Placed,average,good,good,average
+0,Tier 1,Germany,300+,0,Data Science,Finance,Placed,average,excellent,excellent,poor
+0,Tier 1,Germany,Top 100,2,Core CS,Consulting,Placed,good,good,good,poor
+0,Tier 1,Germany,300+,2,Cloud,Consulting,Placed,average,average,good,good
+0,Tier 1,Germany,300+,1,Cloud,Tech,Placed,good,excellent,good,average
+0,Tier 3,USA,300+,1,AI/ML,Tech,Placed,good,excellent,excellent,poor
+1,Tier 2,India,100-300,0,AI/ML,Healthcare,Not Placed,average,average,good,poor
+1,Tier 2,Germany,100-300,1,Cybersecurity,Manufacturing,Placed,good,excellent,average,poor
+2,Tier 2,USA,100-300,2,Data Science,Tech,Placed,average,excellent,excellent,poor
+2,Tier 3,India,100-300,1,Cybersecurity,Healthcare,Placed,average,excellent,average,average
+0,Tier 3,India,100-300,0,Cybersecurity,Tech,Placed,average,good,good,poor
+5,Tier 1,Germany,300+,2,Cybersecurity,Consulting,Not Placed,average,average,excellent,average
+0,Tier 3,Germany,300+,3,Core CS,Tech,Placed,good,excellent,good,average
+2,Tier 1,Canada,300+,3,Data Science,Manufacturing,Placed,average,good,excellent,average
+1,Tier 1,India,Top 100,0,AI/ML,Consulting,Placed,good,good,average,poor
+1,Tier 3,India,300+,1,Cybersecurity,Tech,Placed,good,good,average,poor
+0,Tier 1,Canada,Top 100,1,Cloud,Manufacturing,Placed,good,excellent,poor,average
+1,Tier 2,Canada,Top 100,2,Data Science,Finance,Placed,good,good,excellent,average
+4,Tier 2,Germany,Top 100,0,AI/ML,Tech,Not Placed,average,good,good,poor
+2,Tier 2,Canada,300+,2,Cybersecurity,Finance,Not Placed,average,excellent,average,poor
+3,Tier 3,India,300+,0,Data Science,Other,Placed,good,excellent,average,average
+3,Tier 3,USA,300+,0,Cybersecurity,Other,Not Placed,average,average,excellent,poor
+0,Tier 2,Canada,100-300,0,AI/ML,Healthcare,Placed,good,excellent,excellent,poor
+0,Tier 2,Canada,Top 100,2,Core CS,Other,Not Placed,average,poor,poor,poor
+0,Tier 3,UK,Top 100,1,Data Science,Other,Placed,good,average,good,average
+1,Tier 1,India,300+,1,Cloud,Manufacturing,Placed,good,poor,excellent,average
+2,Tier 3,India,100-300,3,Data Science,Other,Not Placed,good,average,good,poor
+0,Tier 1,Canada,300+,0,Core CS,Finance,Placed,good,good,average,average
+2,Tier 1,Canada,300+,0,Core CS,Manufacturing,Not Placed,average,average,good,poor
+1,Tier 1,Germany,300+,0,Core CS,Consulting,Not Placed,average,excellent,excellent,poor
+0,Tier 2,Canada,Top 100,2,Cloud,Other,Placed,good,poor,average,average
+0,Tier 3,India,100-300,1,Data Science,Other,Placed,good,excellent,good,good
+2,Tier 3,UK,300+,0,Core CS,Tech,Not Placed,good,good,poor,poor
+2,Tier 3,India,300+,0,Data Science,Healthcare,Not Placed,average,average,average,poor
+2,Tier 3,USA,300+,1,Cybersecurity,Manufacturing,Not Placed,average,average,good,poor
+0,Tier 1,UK,300+,1,Cloud,Consulting,Placed,average,good,poor,poor
+0,Tier 3,Canada,300+,2,AI/ML,Other,Placed,good,average,average,poor
+3,Tier 3,India,Top 100,1,Cloud,Healthcare,Not Placed,average,good,poor,poor
+0,Tier 3,Canada,Top 100,3,Core CS,Tech,Placed,good,good,good,poor
+1,Tier 3,India,300+,3,Core CS,Tech,Placed,average,excellent,average,poor
+2,Tier 2,India,Top 100,1,Core CS,Healthcare,Not Placed,poor,excellent,good,poor
+0,Tier 2,Canada,300+,3,Data Science,Tech,Placed,good,excellent,poor,average
+0,Tier 3,UK,Top 100,1,AI/ML,Consulting,Placed,good,poor,average,poor
+4,Tier 1,Germany,100-300,1,Cybersecurity,Other,Placed,average,average,good,poor
+1,Tier 1,USA,300+,2,Data Science,Tech,Not Placed,average,average,good,average
+2,Tier 3,India,Top 100,1,AI/ML,Finance,Not Placed,average,good,good,poor
+2,Tier 2,Canada,100-300,4,Cybersecurity,Finance,Placed,good,good,poor,good
+0,Tier 3,UK,100-300,4,AI/ML,Consulting,Placed,average,excellent,good,good
+0,Tier 3,Canada,300+,4,Cybersecurity,Finance,Placed,average,average,excellent,poor
+0,Tier 1,Canada,300+,2,AI/ML,Tech,Placed,good,average,poor,average
+0,Tier 1,Canada,100-300,2,AI/ML,Manufacturing,Placed,average,poor,good,poor
+3,Tier 2,USA,300+,2,Cybersecurity,Consulting,Not Placed,average,good,excellent,poor
+0,Tier 2,Germany,300+,1,Cloud,Finance,Placed,average,excellent,average,average
+4,Tier 3,USA,100-300,0,Data Science,Manufacturing,Not Placed,average,excellent,average,poor
+1,Tier 3,India,Top 100,0,Data Science,Manufacturing,Placed,average,average,average,average
+2,Tier 2,Canada,300+,1,Cybersecurity,Healthcare,Not Placed,average,average,average,poor
+1,Tier 1,USA,300+,3,AI/ML,Consulting,Placed,average,average,excellent,poor
+2,Tier 2,India,Top 100,0,Core CS,Consulting,Placed,average,average,poor,good
+3,Tier 3,UK,300+,1,AI/ML,Other,Not Placed,average,good,good,poor
+2,Tier 1,Canada,300+,4,Data Science,Finance,Placed,average,average,good,poor
+1,Tier 3,India,300+,0,AI/ML,Healthcare,Placed,average,good,good,poor
+2,Tier 3,India,300+,1,Core CS,Manufacturing,Not Placed,good,poor,average,average
+1,Tier 3,UK,300+,2,Data Science,Finance,Placed,good,average,good,poor
+0,Tier 3,UK,100-300,2,Cloud,Other,Placed,good,poor,good,average
+2,Tier 3,UK,100-300,2,Cybersecurity,Other,Placed,good,average,average,poor
+2,Tier 3,India,Top 100,0,AI/ML,Healthcare,Not Placed,average,poor,poor,poor
+2,Tier 2,Canada,300+,1,Data Science,Healthcare,Placed,average,excellent,average,poor
+2,Tier 1,USA,Top 100,1,Core CS,Manufacturing,Not Placed,average,good,good,average
+1,Tier 2,India,Top 100,2,Core CS,Manufacturing,Placed,good,excellent,excellent,poor
+1,Tier 2,India,100-300,3,AI/ML,Manufacturing,Placed,good,good,good,average
+0,Tier 2,Canada,100-300,0,AI/ML,Tech,Placed,good,average,average,poor
+2,Tier 2,UK,300+,2,Cloud,Consulting,Not Placed,average,good,good,poor
+0,Tier 1,Germany,100-300,2,Data Science,Finance,Placed,good,good,average,good
+0,Tier 2,India,300+,1,Data Science,Healthcare,Placed,good,excellent,good,good
+0,Tier 3,Germany,100-300,0,Data Science,Manufacturing,Not Placed,good,poor,average,average
+1,Tier 2,USA,300+,1,Cloud,Healthcare,Placed,good,good,excellent,poor
+2,Tier 2,India,300+,5,AI/ML,Manufacturing,Placed,good,excellent,average,poor
+3,Tier 2,Germany,100-300,1,Cloud,Finance,Not Placed,average,excellent,poor,average
+3,Tier 3,Canada,100-300,1,Cybersecurity,Tech,Placed,good,good,good,poor
+2,Tier 2,Germany,100-300,2,Core CS,Manufacturing,Placed,average,average,excellent,average
+2,Tier 1,USA,100-300,3,Data Science,Healthcare,Placed,average,average,poor,average
+2,Tier 1,Germany,300+,1,Cybersecurity,Manufacturing,Placed,good,average,good,average
+1,Tier 1,Canada,300+,3,AI/ML,Finance,Not Placed,average,excellent,good,poor
+1,Tier 1,UK,100-300,1,AI/ML,Manufacturing,Not Placed,average,good,average,average
+1,Tier 1,Canada,300+,4,Cybersecurity,Consulting,Placed,average,good,average,poor
+2,Tier 2,USA,300+,0,Cloud,Healthcare,Not Placed,average,excellent,excellent,average
+2,Tier 2,Germany,300+,1,Cloud,Other,Placed,good,average,excellent,poor
+4,Tier 2,Canada,300+,2,AI/ML,Finance,Not Placed,poor,excellent,good,poor
+1,Tier 2,UK,100-300,2,AI/ML,Tech,Placed,average,average,excellent,poor
+1,Tier 1,USA,100-300,1,AI/ML,Finance,Placed,average,good,excellent,poor
+1,Tier 2,India,300+,1,Cybersecurity,Finance,Not Placed,good,poor,poor,average
+0,Tier 2,UK,100-300,1,Core CS,Tech,Not Placed,average,average,average,poor
+2,Tier 2,UK,Top 100,0,Data Science,Healthcare,Placed,average,average,good,poor
+1,Tier 2,USA,Top 100,1,Cybersecurity,Tech,Not Placed,average,good,good,average
+1,Tier 2,USA,300+,1,Cloud,Manufacturing,Placed,average,good,average,poor
+2,Tier 1,Germany,100-300,1,Cloud,Finance,Placed,good,average,average,poor
+0,Tier 2,USA,100-300,3,Cybersecurity,Tech,Placed,good,good,good,average
+2,Tier 1,Germany,300+,3,Cloud,Healthcare,Not Placed,poor,good,excellent,poor
+3,Tier 3,Germany,100-300,0,Cloud,Manufacturing,Placed,good,average,average,poor
+0,Tier 2,Germany,300+,0,AI/ML,Healthcare,Not Placed,good,excellent,average,poor
+2,Tier 3,UK,100-300,2,Cloud,Consulting,Placed,average,good,excellent,good
+0,Tier 2,Germany,300+,1,Data Science,Finance,Not Placed,good,excellent,good,poor
+1,Tier 2,Germany,300+,2,Data Science,Tech,Not Placed,good,good,poor,poor
+1,Tier 1,Canada,300+,0,Data Science,Tech,Not Placed,average,good,average,poor
+1,Tier 2,Canada,300+,2,AI/ML,Healthcare,Placed,good,excellent,average,poor
+0,Tier 2,UK,300+,2,Cybersecurity,Tech,Placed,average,good,average,poor
+1,Tier 3,Germany,Top 100,2,Data Science,Other,Not Placed,average,poor,average,poor
+0,Tier 1,Canada,300+,3,Cybersecurity,Tech,Placed,average,excellent,good,average
+0,Tier 2,Germany,300+,0,Cybersecurity,Finance,Placed,good,good,good,poor
+0,Tier 1,UK,100-300,2,AI/ML,Other,Placed,average,excellent,excellent,average
+5,Tier 2,USA,300+,4,Core CS,Healthcare,Not Placed,poor,excellent,poor,poor
+3,Tier 2,Canada,300+,1,Data Science,Tech,Placed,good,average,poor,poor
+1,Tier 2,UK,300+,3,Cybersecurity,Finance,Not Placed,average,good,poor,poor
+1,Tier 2,Canada,Top 100,1,Cloud,Tech,Not Placed,average,good,good,poor
+1,Tier 2,Germany,100-300,0,Cybersecurity,Healthcare,Placed,average,good,good,good
+1,Tier 2,UK,100-300,1,Data Science,Consulting,Not Placed,average,average,good,poor
+1,Tier 3,Germany,300+,0,Cybersecurity,Finance,Placed,average,good,average,average
+2,Tier 1,UK,100-300,0,Cloud,Other,Not Placed,good,excellent,good,poor
+1,Tier 1,USA,100-300,5,Cybersecurity,Manufacturing,Placed,good,good,average,average
+1,Tier 2,Germany,300+,0,Cybersecurity,Healthcare,Placed,average,good,good,good
+1,Tier 2,Germany,100-300,2,Core CS,Healthcare,Placed,good,good,excellent,poor
+0,Tier 1,Canada,Top 100,1,AI/ML,Finance,Placed,average,excellent,average,poor
+0,Tier 2,Canada,300+,3,AI/ML,Consulting,Placed,average,average,good,average
+1,Tier 2,Canada,300+,1,Cybersecurity,Healthcare,Not Placed,average,average,excellent,poor
+0,Tier 2,Canada,100-300,0,Core CS,Healthcare,Placed,good,excellent,good,poor
+0,Tier 3,India,100-300,2,Cybersecurity,Consulting,Not Placed,average,average,good,poor
+3,Tier 2,UK,300+,1,Cloud,Other,Not Placed,average,good,good,poor
+2,Tier 1,USA,100-300,0,Core CS,Consulting,Not Placed,good,poor,good,poor
+0,Tier 1,USA,100-300,1,Core CS,Consulting,Not Placed,good,average,poor,poor
+0,Tier 3,Germany,300+,2,Cybersecurity,Tech,Placed,good,average,excellent,poor
+1,Tier 3,Canada,Top 100,0,Data Science,Manufacturing,Placed,good,average,average,excellent
+1,Tier 1,Germany,100-300,1,Core CS,Healthcare,Placed,good,good,good,poor
+1,Tier 3,USA,300+,4,Data Science,Healthcare,Placed,good,average,average,poor
+0,Tier 1,UK,100-300,2,AI/ML,Healthcare,Placed,average,average,good,average
+1,Tier 2,USA,100-300,1,Cloud,Other,Not Placed,good,good,average,poor
+1,Tier 1,USA,Top 100,2,Data Science,Healthcare,Placed,average,good,good,poor
+4,Tier 2,Germany,100-300,1,Core CS,Tech,Not Placed,average,good,good,poor
+0,Tier 2,UK,Top 100,4,Cybersecurity,Finance,Placed,average,poor,excellent,poor
+3,Tier 2,Germany,100-300,5,AI/ML,Consulting,Placed,good,excellent,poor,good
+0,Tier 2,Canada,Top 100,1,AI/ML,Tech,Placed,good,poor,poor,poor
+0,Tier 3,USA,100-300,5,Cybersecurity,Finance,Placed,good,excellent,average,average
+1,Tier 2,Germany,100-300,3,Data Science,Manufacturing,Placed,good,good,excellent,poor
+0,Tier 3,UK,100-300,2,Cloud,Other,Placed,good,average,poor,poor
+0,Tier 2,Germany,Top 100,4,Cybersecurity,Healthcare,Placed,good,average,poor,poor
+1,Tier 3,Germany,100-300,1,AI/ML,Tech,Not Placed,poor,average,excellent,poor
+1,Tier 1,USA,100-300,1,Core CS,Healthcare,Not Placed,average,excellent,poor,average
+0,Tier 3,USA,100-300,1,Core CS,Manufacturing,Placed,average,average,good,average
+3,Tier 1,UK,300+,1,Data Science,Manufacturing,Placed,good,average,average,good
+2,Tier 3,Canada,100-300,2,Cybersecurity,Manufacturing,Not Placed,average,good,average,average
+2,Tier 1,Germany,100-300,1,AI/ML,Healthcare,Placed,average,good,average,poor
+0,Tier 3,Canada,Top 100,2,Core CS,Manufacturing,Placed,good,good,average,average
+4,Tier 2,Canada,300+,2,AI/ML,Manufacturing,Not Placed,average,good,average,average
+2,Tier 1,UK,100-300,4,Data Science,Manufacturing,Placed,average,good,average,good
+2,Tier 3,India,Top 100,2,Cybersecurity,Consulting,Placed,average,excellent,average,average
+0,Tier 2,UK,Top 100,2,Cybersecurity,Finance,Placed,average,good,good,average
+2,Tier 1,Germany,100-300,5,Data Science,Finance,Placed,good,good,good,poor
+2,Tier 1,Germany,Top 100,0,Core CS,Other,Placed,good,good,average,good
+1,Tier 1,USA,300+,2,Core CS,Other,Not Placed,good,good,excellent,average
+0,Tier 1,Germany,300+,1,Core CS,Healthcare,Placed,average,good,good,poor
+2,Tier 2,USA,100-300,1,Core CS,Consulting,Placed,average,excellent,average,average
+2,Tier 2,UK,100-300,5,Data Science,Other,Placed,good,excellent,good,good
+1,Tier 2,Germany,100-300,0,Cybersecurity,Other,Not Placed,poor,excellent,average,poor
+1,Tier 3,Canada,100-300,2,Core CS,Manufacturing,Not Placed,average,average,good,poor
+3,Tier 3,India,300+,1,Core CS,Consulting,Not Placed,average,poor,good,poor
+2,Tier 2,Canada,Top 100,0,Core CS,Manufacturing,Not Placed,poor,excellent,good,poor
+0,Tier 3,Germany,Top 100,2,Cloud,Other,Placed,good,good,poor,poor
+0,Tier 3,USA,100-300,3,AI/ML,Other,Placed,good,poor,average,poor
+1,Tier 3,UK,300+,2,Data Science,Other,Placed,good,average,good,poor
+4,Tier 3,Germany,Top 100,2,AI/ML,Consulting,Not Placed,average,good,average,poor
+1,Tier 3,UK,100-300,1,Cybersecurity,Manufacturing,Not Placed,average,good,good,poor
+3,Tier 3,Germany,Top 100,3,AI/ML,Manufacturing,Not Placed,good,good,good,average
+1,Tier 2,Germany,100-300,3,Core CS,Healthcare,Placed,good,average,excellent,average
+1,Tier 1,USA,100-300,1,Core CS,Finance,Not Placed,average,good,average,poor
+0,Tier 1,Germany,300+,1,Cybersecurity,Consulting,Placed,good,average,average,poor
+1,Tier 2,Germany,300+,5,Cybersecurity,Finance,Placed,good,poor,average,poor
+2,Tier 3,UK,100-300,0,Cloud,Healthcare,Placed,good,good,good,poor
+0,Tier 2,USA,300+,3,Data Science,Manufacturing,Placed,average,excellent,good,average
+2,Tier 3,USA,Top 100,2,Core CS,Healthcare,Placed,good,excellent,excellent,poor
+0,Tier 2,Germany,300+,1,Core CS,Manufacturing,Placed,good,good,good,good
+0,Tier 1,Canada,100-300,1,Cloud,Tech,Placed,good,good,average,good
+1,Tier 3,USA,Top 100,1,Core CS,Healthcare,Placed,average,poor,poor,average
+2,Tier 1,UK,300+,2,Core CS,Tech,Not Placed,average,average,average,poor
+1,Tier 2,UK,300+,2,AI/ML,Tech,Placed,good,excellent,good,average
+2,Tier 2,Germany,300+,0,AI/ML,Tech,Placed,good,excellent,average,average
+3,Tier 2,Canada,100-300,0,AI/ML,Tech,Placed,good,good,good,poor
+2,Tier 1,UK,Top 100,4,Core CS,Consulting,Placed,good,excellent,excellent,poor
+0,Tier 2,India,100-300,3,Core CS,Tech,Placed,good,average,good,poor
+1,Tier 1,Canada,300+,0,AI/ML,Finance,Not Placed,average,excellent,good,poor
+2,Tier 3,Canada,Top 100,2,Cybersecurity,Consulting,Placed,good,excellent,poor,poor
+1,Tier 2,Canada,300+,1,Cloud,Other,Placed,average,excellent,good,poor
+1,Tier 1,Canada,300+,0,Data Science,Consulting,Placed,average,good,average,poor
+0,Tier 1,Canada,Top 100,2,Cloud,Tech,Placed,good,excellent,average,average
+0,Tier 3,Germany,300+,0,Cloud,Finance,Not Placed,good,good,good,average
+2,Tier 1,Canada,300+,0,Cloud,Finance,Not Placed,average,poor,average,poor
+0,Tier 1,USA,300+,0,Data Science,Tech,Not Placed,average,good,poor,average
+1,Tier 3,Canada,300+,1,Core CS,Finance,Not Placed,average,good,average,poor
+0,Tier 3,Germany,Top 100,1,Cybersecurity,Healthcare,Placed,good,good,average,good
+0,Tier 2,Germany,Top 100,1,Cloud,Manufacturing,Placed,good,average,average,poor
+2,Tier 2,USA,100-300,4,Cybersecurity,Finance,Placed,average,good,good,poor
+2,Tier 2,Canada,100-300,1,Core CS,Manufacturing,Placed,average,average,average,good
+1,Tier 3,USA,Top 100,4,Cloud,Manufacturing,Placed,good,excellent,average,average
+1,Tier 2,Canada,300+,0,Data Science,Healthcare,Placed,good,excellent,excellent,poor
+1,Tier 2,Germany,100-300,2,AI/ML,Consulting,Not Placed,good,good,good,average
+1,Tier 3,USA,Top 100,4,Data Science,Consulting,Placed,good,excellent,average,poor
+0,Tier 1,USA,300+,1,Cybersecurity,Manufacturing,Placed,good,excellent,good,poor
+5,Tier 3,USA,300+,3,Data Science,Finance,Not Placed,good,excellent,average,poor
+2,Tier 1,India,300+,2,Core CS,Tech,Placed,good,good,average,poor
+0,Tier 2,Germany,100-300,1,Data Science,Consulting,Not Placed,average,excellent,poor,poor
+1,Tier 1,India,300+,2,AI/ML,Manufacturing,Placed,good,good,good,average
+3,Tier 2,Canada,100-300,1,Cybersecurity,Healthcare,Placed,poor,good,average,poor
+0,Tier 2,Canada,300+,1,Cloud,Manufacturing,Placed,average,average,good,good
+1,Tier 2,India,100-300,3,AI/ML,Finance,Placed,good,average,poor,good
+0,Tier 2,USA,100-300,4,Core CS,Tech,Placed,average,good,good,average
+0,Tier 3,USA,Top 100,2,Cybersecurity,Other,Placed,good,excellent,average,average
+3,Tier 2,Canada,Top 100,2,Cybersecurity,Consulting,Placed,good,excellent,poor,poor
+0,Tier 2,UK,Top 100,1,Core CS,Healthcare,Not Placed,good,good,good,average
+2,Tier 1,UK,300+,1,Core CS,Other,Placed,good,good,good,poor
+0,Tier 3,India,100-300,3,Cloud,Other,Placed,good,excellent,good,poor
+1,Tier 1,India,300+,0,AI/ML,Manufacturing,Not Placed,average,poor,average,poor
+2,Tier 2,USA,100-300,1,AI/ML,Tech,Not Placed,good,good,poor,poor
+1,Tier 3,India,300+,2,AI/ML,Manufacturing,Placed,good,poor,poor,poor
+0,Tier 3,India,100-300,1,Data Science,Other,Not Placed,good,good,good,poor
+1,Tier 3,UK,100-300,2,Cybersecurity,Finance,Placed,good,excellent,good,good
+1,Tier 2,UK,Top 100,0,Cloud,Healthcare,Not Placed,good,excellent,good,poor
+2,Tier 3,Germany,300+,1,Cybersecurity,Tech,Placed,average,poor,poor,poor
+0,Tier 3,Germany,300+,1,AI/ML,Other,Placed,good,average,average,poor
+2,Tier 3,India,100-300,1,Data Science,Healthcare,Placed,good,poor,average,average
+1,Tier 2,USA,300+,4,Cybersecurity,Consulting,Placed,average,excellent,good,poor
+1,Tier 3,USA,300+,4,Cybersecurity,Consulting,Placed,good,good,excellent,average
+0,Tier 3,USA,300+,1,Data Science,Consulting,Placed,good,average,average,average
+1,Tier 3,UK,100-300,3,Data Science,Consulting,Placed,poor,average,good,poor
+0,Tier 1,India,Top 100,0,AI/ML,Tech,Placed,good,good,good,poor
+3,Tier 2,Germany,100-300,2,Core CS,Tech,Placed,average,excellent,excellent,poor
+1,Tier 2,USA,300+,2,Data Science,Healthcare,Placed,good,good,good,poor
+2,Tier 3,USA,100-300,1,Data Science,Manufacturing,Not Placed,average,excellent,good,poor
+2,Tier 2,Germany,300+,1,Data Science,Finance,Not Placed,average,average,average,average
+1,Tier 1,UK,Top 100,1,Data Science,Tech,Not Placed,average,good,average,poor
+2,Tier 3,UK,300+,4,Cloud,Manufacturing,Placed,poor,poor,excellent,poor
+1,Tier 3,India,100-300,3,Cloud,Tech,Placed,good,poor,excellent,poor
+1,Tier 2,UK,100-300,2,AI/ML,Healthcare,Placed,average,excellent,excellent,poor
+0,Tier 3,Germany,100-300,4,AI/ML,Finance,Placed,average,good,excellent,poor
+3,Tier 2,India,300+,3,Data Science,Healthcare,Not Placed,good,average,poor,average
+2,Tier 1,Germany,300+,0,AI/ML,Manufacturing,Not Placed,poor,good,poor,poor
+1,Tier 3,USA,Top 100,1,Cybersecurity,Manufacturing,Placed,good,good,good,average
+1,Tier 1,India,100-300,3,Core CS,Manufacturing,Placed,average,excellent,average,poor
+3,Tier 2,Canada,300+,1,Cloud,Healthcare,Not Placed,average,average,average,poor
+1,Tier 2,India,300+,1,Data Science,Healthcare,Placed,good,good,average,poor
+0,Tier 1,UK,100-300,0,AI/ML,Tech,Placed,average,good,good,poor
+1,Tier 3,India,300+,1,Cybersecurity,Consulting,Placed,average,excellent,good,average
+1,Tier 3,Germany,300+,3,Data Science,Finance,Not Placed,average,good,average,poor
+4,Tier 2,Germany,300+,1,AI/ML,Other,Not Placed,good,average,good,average
+1,Tier 3,USA,100-300,1,AI/ML,Tech,Not Placed,average,average,excellent,poor
+2,Tier 2,Germany,300+,0,Data Science,Other,Not Placed,good,good,average,poor
+1,Tier 3,UK,300+,3,Core CS,Finance,Placed,average,good,good,poor
+2,Tier 1,USA,100-300,1,AI/ML,Healthcare,Not Placed,good,average,average,poor
+0,Tier 1,Canada,Top 100,1,Cybersecurity,Healthcare,Placed,average,excellent,excellent,average
+0,Tier 2,Germany,Top 100,2,Cloud,Other,Placed,good,good,average,poor
+1,Tier 3,Canada,100-300,2,Cybersecurity,Healthcare,Placed,average,excellent,average,poor
+2,Tier 2,Canada,300+,0,Core CS,Other,Not Placed,average,average,average,poor
+0,Tier 3,Canada,100-300,2,Data Science,Manufacturing,Placed,good,good,average,average
+0,Tier 3,USA,100-300,2,Cybersecurity,Other,Not Placed,average,excellent,good,good
+1,Tier 2,India,100-300,2,Cybersecurity,Finance,Placed,good,average,good,poor
+2,Tier 1,India,300+,2,Cybersecurity,Finance,Placed,average,good,excellent,average
+1,Tier 1,UK,300+,3,Cloud,Consulting,Placed,average,excellent,good,average
+1,Tier 1,USA,100-300,3,AI/ML,Other,Placed,average,excellent,good,poor
+3,Tier 3,India,300+,3,Core CS,Other,Not Placed,average,average,average,poor
+0,Tier 1,UK,300+,2,AI/ML,Consulting,Placed,good,average,average,good
+3,Tier 1,USA,300+,1,Cybersecurity,Tech,Not Placed,good,good,average,poor
+1,Tier 2,Canada,300+,2,AI/ML,Healthcare,Not Placed,average,average,good,poor
+3,Tier 2,UK,300+,1,Data Science,Tech,Not Placed,average,good,excellent,poor
+1,Tier 2,UK,300+,1,Cloud,Tech,Placed,average,excellent,excellent,poor
+0,Tier 2,UK,100-300,0,Core CS,Healthcare,Not Placed,average,poor,average,poor
+1,Tier 1,UK,100-300,2,Cybersecurity,Finance,Placed,good,excellent,good,good
+3,Tier 3,India,100-300,0,Core CS,Healthcare,Placed,good,poor,good,average
+0,Tier 1,India,300+,1,Cybersecurity,Other,Not Placed,good,excellent,good,average
+0,Tier 1,Canada,300+,2,AI/ML,Other,Not Placed,average,poor,good,average
+0,Tier 2,Canada,300+,0,Core CS,Consulting,Placed,good,poor,average,poor
+2,Tier 2,Canada,300+,0,AI/ML,Manufacturing,Not Placed,average,excellent,excellent,poor
+4,Tier 1,India,Top 100,3,Cloud,Finance,Not Placed,good,excellent,poor,poor
+1,Tier 2,USA,300+,1,Cybersecurity,Consulting,Placed,average,average,poor,poor
+3,Tier 1,Canada,300+,1,Cloud,Finance,Not Placed,average,excellent,average,poor
+0,Tier 2,UK,300+,3,AI/ML,Other,Not Placed,good,average,average,poor
+0,Tier 1,India,100-300,2,Cloud,Consulting,Placed,good,good,poor,average
+0,Tier 2,India,Top 100,0,AI/ML,Healthcare,Placed,good,average,excellent,poor
+1,Tier 2,Germany,300+,0,Data Science,Manufacturing,Not Placed,average,poor,excellent,poor
+1,Tier 2,India,300+,1,Cybersecurity,Finance,Placed,good,excellent,excellent,poor
+2,Tier 3,USA,300+,4,Core CS,Other,Not Placed,good,average,good,poor
+1,Tier 3,USA,100-300,1,Core CS,Manufacturing,Not Placed,good,good,excellent,average
+1,Tier 2,Canada,Top 100,2,Cybersecurity,Healthcare,Placed,average,good,average,average
+0,Tier 2,India,300+,3,AI/ML,Finance,Placed,good,good,average,poor
+0,Tier 3,Canada,300+,0,AI/ML,Finance,Placed,good,excellent,poor,good
+1,Tier 2,UK,Top 100,0,Core CS,Consulting,Placed,good,poor,good,average
+0,Tier 2,USA,100-300,0,Cloud,Other,Not Placed,good,average,poor,poor
+0,Tier 1,UK,300+,0,AI/ML,Manufacturing,Placed,good,good,average,average
+1,Tier 2,India,Top 100,0,Cybersecurity,Tech,Placed,good,excellent,average,poor
+2,Tier 3,India,300+,2,Cloud,Tech,Placed,good,good,average,good
+1,Tier 3,Germany,100-300,1,Core CS,Manufacturing,Not Placed,average,average,poor,average
+4,Tier 1,Germany,300+,2,AI/ML,Manufacturing,Not Placed,average,average,excellent,average
+0,Tier 1,India,300+,2,Data Science,Finance,Placed,good,average,good,poor
+1,Tier 1,Canada,100-300,1,Core CS,Other,Placed,good,average,average,poor
+2,Tier 3,USA,300+,0,Core CS,Other,Not Placed,good,good,good,poor
+0,Tier 2,USA,100-300,3,AI/ML,Consulting,Placed,average,good,average,poor
+1,Tier 2,Canada,300+,1,Cloud,Consulting,Placed,good,poor,average,good
+2,Tier 2,Germany,300+,2,AI/ML,Finance,Placed,good,good,good,average
+1,Tier 3,USA,300+,0,Cloud,Manufacturing,Not Placed,good,average,average,average
+2,Tier 2,Germany,300+,1,Cybersecurity,Tech,Not Placed,average,average,good,average
+2,Tier 2,Germany,100-300,2,AI/ML,Manufacturing,Not Placed,average,poor,poor,poor
+2,Tier 3,India,300+,2,Cloud,Finance,Placed,average,excellent,good,average
+1,Tier 3,Germany,300+,1,Data Science,Healthcare,Placed,good,good,poor,average
+3,Tier 2,USA,100-300,1,Data Science,Healthcare,Not Placed,good,average,average,average
+3,Tier 2,UK,Top 100,3,Cybersecurity,Tech,Placed,good,good,average,poor
+2,Tier 1,India,100-300,2,Cloud,Other,Not Placed,good,poor,good,poor
+1,Tier 2,India,300+,1,Data Science,Finance,Placed,good,poor,poor,poor
+2,Tier 1,Canada,Top 100,0,Core CS,Manufacturing,Placed,good,excellent,good,poor
+0,Tier 3,India,100-300,0,Data Science,Healthcare,Placed,good,excellent,average,average
+1,Tier 3,Germany,100-300,2,Data Science,Tech,Not Placed,good,good,good,poor
+0,Tier 1,Canada,100-300,3,Core CS,Consulting,Placed,good,good,average,average
+1,Tier 2,India,Top 100,2,Core CS,Finance,Placed,good,average,good,good
+2,Tier 2,UK,Top 100,1,Cloud,Manufacturing,Not Placed,poor,poor,excellent,average
+1,Tier 3,USA,300+,1,Cloud,Manufacturing,Not Placed,good,good,good,poor
+3,Tier 2,India,100-300,0,AI/ML,Finance,Placed,good,good,good,poor
+0,Tier 2,Germany,300+,0,AI/ML,Other,Not Placed,average,average,good,poor
+3,Tier 2,Canada,300+,3,Core CS,Finance,Placed,good,good,poor,poor
+1,Tier 1,India,300+,4,Cloud,Other,Placed,good,average,average,poor
+0,Tier 2,India,100-300,0,Data Science,Consulting,Placed,good,excellent,good,good
+1,Tier 1,UK,Top 100,3,Cloud,Tech,Not Placed,good,excellent,poor,poor
+0,Tier 1,USA,300+,1,Core CS,Healthcare,Placed,average,average,excellent,poor
+0,Tier 2,Canada,100-300,0,AI/ML,Healthcare,Placed,good,poor,average,poor
+1,Tier 2,USA,Top 100,5,Core CS,Manufacturing,Not Placed,good,excellent,good,poor
+3,Tier 2,India,100-300,2,Data Science,Consulting,Not Placed,average,average,average,poor
+2,Tier 1,India,100-300,2,Cloud,Manufacturing,Placed,good,average,good,poor
+1,Tier 2,Germany,100-300,0,Cybersecurity,Tech,Placed,good,good,average,poor
+1,Tier 2,UK,300+,0,Data Science,Healthcare,Not Placed,poor,good,poor,average
+0,Tier 2,Germany,300+,2,AI/ML,Manufacturing,Not Placed,average,excellent,poor,poor
+3,Tier 1,Germany,Top 100,0,Data Science,Manufacturing,Not Placed,good,average,good,poor
+0,Tier 1,UK,300+,1,Core CS,Manufacturing,Not Placed,average,poor,poor,poor
+3,Tier 2,Canada,100-300,0,Cybersecurity,Consulting,Placed,average,good,excellent,good
+0,Tier 3,USA,300+,3,AI/ML,Manufacturing,Placed,average,good,excellent,poor
+1,Tier 3,UK,300+,3,Cybersecurity,Healthcare,Placed,average,good,poor,poor
+1,Tier 1,Canada,300+,1,Cybersecurity,Healthcare,Not Placed,good,good,poor,poor
+2,Tier 1,UK,Top 100,1,Data Science,Healthcare,Not Placed,poor,good,average,poor
+2,Tier 1,India,Top 100,1,Cybersecurity,Finance,Placed,good,excellent,excellent,average
+0,Tier 1,India,Top 100,1,Cloud,Consulting,Placed,good,average,good,poor
+3,Tier 1,Canada,Top 100,1,AI/ML,Consulting,Not Placed,average,good,poor,average
+0,Tier 1,India,Top 100,2,AI/ML,Other,Placed,good,excellent,average,average
+0,Tier 2,Germany,300+,0,Data Science,Finance,Placed,average,average,good,poor
+1,Tier 2,Germany,100-300,3,Core CS,Finance,Placed,good,average,poor,poor
+0,Tier 2,India,100-300,2,Core CS,Tech,Placed,good,excellent,poor,poor
+1,Tier 3,India,100-300,5,AI/ML,Tech,Placed,good,good,good,poor
+1,Tier 2,Germany,300+,1,Core CS,Manufacturing,Not Placed,good,poor,good,average
+2,Tier 2,Germany,300+,1,AI/ML,Consulting,Placed,good,average,average,poor
+2,Tier 1,Canada,300+,2,Cloud,Consulting,Placed,average,good,excellent,poor
+2,Tier 2,India,100-300,2,Core CS,Healthcare,Placed,average,excellent,poor,average
+3,Tier 3,USA,100-300,2,Data Science,Manufacturing,Not Placed,average,poor,poor,poor
+1,Tier 3,Canada,100-300,5,AI/ML,Other,Placed,average,average,excellent,poor
+0,Tier 2,Germany,100-300,2,Cybersecurity,Other,Placed,average,average,excellent,poor
+0,Tier 3,UK,100-300,0,Cloud,Healthcare,Placed,good,good,average,average
+1,Tier 1,Canada,300+,3,Cloud,Consulting,Placed,average,good,good,average
+1,Tier 2,Germany,Top 100,3,Core CS,Healthcare,Placed,good,average,excellent,poor
+0,Tier 2,Canada,300+,0,Cloud,Tech,Placed,average,average,poor,good
+0,Tier 2,Canada,100-300,1,AI/ML,Healthcare,Not Placed,average,good,poor,poor
+3,Tier 2,Germany,300+,0,Cybersecurity,Tech,Not Placed,average,average,poor,average
+0,Tier 2,USA,300+,0,Core CS,Finance,Not Placed,good,average,excellent,poor
+0,Tier 2,Canada,100-300,1,Cybersecurity,Consulting,Placed,average,good,average,average
+2,Tier 2,Germany,Top 100,0,Cybersecurity,Finance,Placed,average,good,excellent,poor
+3,Tier 2,UK,300+,0,Data Science,Healthcare,Placed,good,average,good,average
+2,Tier 3,USA,100-300,1,Cybersecurity,Other,Placed,good,good,good,poor
+3,Tier 2,Germany,300+,1,Cybersecurity,Healthcare,Not Placed,average,average,good,poor
+2,Tier 3,USA,100-300,0,Data Science,Tech,Placed,good,average,good,average
+0,Tier 2,India,100-300,0,Core CS,Other,Placed,average,poor,poor,average
+4,Tier 3,India,100-300,1,Data Science,Manufacturing,Not Placed,good,good,average,average
+1,Tier 1,Germany,Top 100,4,Cybersecurity,Finance,Placed,good,excellent,average,good
+0,Tier 2,India,100-300,1,AI/ML,Tech,Placed,good,good,excellent,poor
+1,Tier 2,Canada,300+,2,Cybersecurity,Consulting,Placed,good,average,good,average
+1,Tier 3,Germany,300+,1,Core CS,Other,Not Placed,good,average,good,poor
+1,Tier 1,Germany,100-300,4,Core CS,Other,Not Placed,average,good,average,poor
+1,Tier 3,UK,100-300,0,Core CS,Tech,Placed,good,good,good,poor
+0,Tier 2,Canada,300+,0,Cloud,Consulting,Not Placed,average,excellent,poor,average
+2,Tier 3,Canada,300+,1,AI/ML,Other,Placed,good,average,good,poor
+1,Tier 3,Canada,Top 100,4,Cloud,Tech,Placed,good,excellent,good,poor
+1,Tier 2,Canada,300+,2,Cloud,Finance,Not Placed,average,excellent,average,poor
+1,Tier 2,Germany,Top 100,3,Data Science,Finance,Placed,good,average,average,average
+1,Tier 2,USA,300+,3,Data Science,Healthcare,Placed,average,average,good,good
+0,Tier 2,Germany,300+,1,Core CS,Tech,Placed,good,excellent,poor,average
+1,Tier 3,India,100-300,2,Cybersecurity,Finance,Placed,average,average,excellent,good
+0,Tier 3,Canada,300+,1,Data Science,Manufacturing,Placed,good,good,average,poor
+0,Tier 3,Germany,300+,2,Data Science,Manufacturing,Placed,good,poor,good,poor
+2,Tier 3,Canada,Top 100,0,Cloud,Finance,Not Placed,average,poor,average,poor
+1,Tier 1,Canada,100-300,0,AI/ML,Consulting,Placed,average,excellent,good,average
+0,Tier 1,UK,100-300,1,AI/ML,Consulting,Placed,average,average,good,good
+1,Tier 2,India,100-300,2,Cybersecurity,Consulting,Placed,good,good,good,average
+2,Tier 1,Germany,300+,3,Cloud,Finance,Placed,good,excellent,good,poor
+3,Tier 2,USA,100-300,2,Cloud,Finance,Not Placed,average,excellent,average,average
+2,Tier 2,USA,Top 100,2,Data Science,Healthcare,Placed,good,poor,average,good
+3,Tier 2,USA,300+,2,Cloud,Finance,Not Placed,average,good,average,average
+1,Tier 2,UK,100-300,1,Data Science,Manufacturing,Not Placed,poor,good,average,average
+1,Tier 2,UK,Top 100,1,Cloud,Manufacturing,Placed,average,excellent,good,poor
+3,Tier 3,USA,Top 100,0,Core CS,Consulting,Not Placed,average,good,good,poor
+1,Tier 3,India,Top 100,1,Cloud,Finance,Not Placed,good,good,good,poor
+1,Tier 2,Canada,300+,3,Core CS,Consulting,Placed,good,average,good,average
+2,Tier 3,UK,100-300,2,Cloud,Other,Not Placed,average,excellent,poor,good
+1,Tier 3,UK,300+,0,Data Science,Finance,Placed,good,good,excellent,average
+3,Tier 2,Canada,100-300,3,Cloud,Consulting,Placed,good,average,good,poor
+3,Tier 2,USA,300+,0,Data Science,Manufacturing,Not Placed,good,good,average,poor
+2,Tier 1,Germany,300+,0,Cybersecurity,Finance,Not Placed,average,good,average,poor
+0,Tier 2,Germany,100-300,2,Cybersecurity,Other,Placed,good,good,average,poor
+0,Tier 2,India,100-300,1,Cybersecurity,Consulting,Placed,good,excellent,good,good
+4,Tier 3,Canada,300+,1,AI/ML,Consulting,Not Placed,average,excellent,good,poor
+3,Tier 3,Germany,100-300,3,Core CS,Healthcare,Not Placed,average,excellent,good,poor
+0,Tier 3,Canada,100-300,1,Core CS,Healthcare,Placed,good,average,average,poor
+2,Tier 1,USA,Top 100,0,Core CS,Tech,Not Placed,average,good,poor,poor
+2,Tier 1,UK,300+,1,AI/ML,Consulting,Placed,average,average,good,poor
+3,Tier 2,India,100-300,2,Core CS,Finance,Placed,good,good,excellent,good
+2,Tier 3,India,300+,2,Cybersecurity,Finance,Not Placed,good,average,average,poor
+0,Tier 1,Germany,Top 100,0,Data Science,Manufacturing,Not Placed,average,average,average,poor
+0,Tier 2,USA,100-300,1,AI/ML,Tech,Not Placed,average,excellent,average,average
+1,Tier 3,USA,100-300,1,Cybersecurity,Manufacturing,Placed,good,average,excellent,poor
+1,Tier 1,Germany,Top 100,0,AI/ML,Finance,Not Placed,good,good,average,poor
+1,Tier 2,USA,100-300,3,Data Science,Tech,Placed,average,average,excellent,average
+0,Tier 2,India,300+,0,Data Science,Manufacturing,Not Placed,average,excellent,good,poor
+1,Tier 3,Germany,100-300,5,AI/ML,Finance,Placed,average,average,average,poor
+1,Tier 2,Germany,300+,2,AI/ML,Finance,Placed,good,average,good,average
+0,Tier 2,Canada,300+,2,Data Science,Other,Not Placed,good,good,average,poor
+1,Tier 2,Canada,Top 100,1,Cloud,Other,Not Placed,average,good,average,average
+1,Tier 1,Canada,100-300,1,Data Science,Consulting,Placed,average,good,average,good
+1,Tier 2,India,100-300,1,Cybersecurity,Consulting,Not Placed,average,good,excellent,poor
+1,Tier 2,Canada,300+,0,AI/ML,Manufacturing,Placed,good,excellent,excellent,average
+1,Tier 1,India,100-300,3,Core CS,Finance,Placed,good,average,excellent,average
+5,Tier 2,Canada,100-300,3,Data Science,Finance,Not Placed,average,good,poor,average
+3,Tier 2,USA,100-300,0,Cloud,Healthcare,Placed,good,excellent,good,average
+1,Tier 1,Canada,Top 100,0,Cybersecurity,Tech,Not Placed,average,good,average,poor
+0,Tier 1,USA,300+,3,Cloud,Other,Placed,excellent,good,average,average
+1,Tier 3,UK,300+,3,Data Science,Finance,Placed,good,average,good,average
+1,Tier 1,Canada,100-300,2,Data Science,Consulting,Not Placed,average,average,good,poor
+5,Tier 1,Germany,300+,0,Cybersecurity,Tech,Not Placed,poor,excellent,average,poor
+0,Tier 2,India,300+,3,AI/ML,Finance,Placed,average,good,good,poor
+0,Tier 1,USA,300+,1,Cloud,Healthcare,Placed,average,average,poor,poor
+2,Tier 2,USA,300+,3,Cloud,Tech,Not Placed,good,good,good,average
+1,Tier 3,USA,Top 100,1,Cloud,Healthcare,Not Placed,average,average,average,good
+1,Tier 1,USA,300+,3,AI/ML,Finance,Placed,good,good,good,poor
+0,Tier 2,India,100-300,2,Core CS,Finance,Placed,good,average,excellent,average
+0,Tier 2,USA,300+,1,Core CS,Consulting,Not Placed,average,good,average,average
+0,Tier 2,Germany,Top 100,0,AI/ML,Manufacturing,Placed,good,good,good,poor
+3,Tier 2,India,300+,1,Cybersecurity,Manufacturing,Not Placed,average,good,poor,poor
+1,Tier 1,UK,100-300,2,Cloud,Finance,Placed,good,good,poor,poor
+3,Tier 3,UK,100-300,2,Data Science,Other,Placed,good,good,excellent,average
+2,Tier 3,UK,300+,2,Cybersecurity,Consulting,Placed,average,good,good,average
+0,Tier 2,USA,300+,1,Cybersecurity,Tech,Not Placed,good,excellent,poor,poor
+1,Tier 1,UK,Top 100,4,AI/ML,Tech,Placed,average,average,good,poor
+0,Tier 2,Germany,100-300,2,Cloud,Manufacturing,Placed,good,average,average,average
+2,Tier 3,Germany,300+,2,Core CS,Consulting,Not Placed,average,average,good,poor
+0,Tier 1,Canada,100-300,0,Cloud,Tech,Placed,average,average,good,poor
+1,Tier 1,USA,300+,2,AI/ML,Consulting,Not Placed,good,average,average,poor
+2,Tier 2,USA,100-300,2,Core CS,Consulting,Placed,average,poor,average,poor
+0,Tier 3,India,100-300,2,Core CS,Consulting,Placed,good,average,excellent,good
+3,Tier 1,India,300+,2,Cybersecurity,Healthcare,Not Placed,average,good,poor,average
+1,Tier 2,India,100-300,3,Cloud,Consulting,Placed,average,excellent,average,poor
+1,Tier 1,USA,100-300,1,Cloud,Manufacturing,Placed,good,good,excellent,poor
+0,Tier 1,Germany,300+,3,Data Science,Manufacturing,Placed,good,average,average,poor
+2,Tier 1,USA,300+,0,Core CS,Healthcare,Placed,good,good,average,average
+0,Tier 3,India,Top 100,3,AI/ML,Tech,Placed,good,average,excellent,poor
+1,Tier 3,USA,Top 100,0,Cybersecurity,Consulting,Placed,average,excellent,average,average
+1,Tier 1,USA,300+,1,AI/ML,Manufacturing,Placed,good,good,poor,good
+1,Tier 1,India,300+,1,AI/ML,Consulting,Placed,good,average,excellent,average
+0,Tier 2,Canada,100-300,1,Data Science,Healthcare,Not Placed,average,good,poor,poor
+2,Tier 3,UK,100-300,2,Data Science,Consulting,Not Placed,average,average,average,poor
+0,Tier 3,India,Top 100,0,AI/ML,Tech,Placed,good,good,excellent,poor
+0,Tier 3,Canada,100-300,1,Core CS,Other,Placed,average,excellent,average,average
+1,Tier 1,Canada,300+,1,Data Science,Finance,Placed,good,good,good,average
+1,Tier 2,Canada,300+,0,AI/ML,Manufacturing,Not Placed,average,excellent,good,poor
+2,Tier 2,Germany,Top 100,3,Core CS,Healthcare,Placed,good,excellent,excellent,poor
+1,Tier 1,UK,300+,2,AI/ML,Tech,Not Placed,good,poor,average,average
+1,Tier 3,Canada,300+,2,Data Science,Consulting,Not Placed,average,good,average,poor
+1,Tier 2,Germany,100-300,2,Cybersecurity,Finance,Not Placed,average,poor,excellent,poor
+4,Tier 2,UK,100-300,1,Cybersecurity,Healthcare,Not Placed,average,excellent,average,poor
+2,Tier 3,Germany,300+,0,Data Science,Healthcare,Not Placed,good,average,average,average
+0,Tier 2,UK,300+,1,AI/ML,Healthcare,Not Placed,average,average,good,average
+3,Tier 2,Canada,300+,3,Core CS,Tech,Placed,good,average,excellent,poor
+1,Tier 3,Germany,100-300,2,Cloud,Tech,Not Placed,good,average,good,poor
+2,Tier 2,India,Top 100,5,Core CS,Other,Placed,average,average,excellent,poor
+0,Tier 1,India,100-300,1,Core CS,Manufacturing,Placed,good,good,good,poor
+0,Tier 3,UK,300+,1,AI/ML,Consulting,Placed,average,average,good,good
+0,Tier 3,Canada,Top 100,3,Core CS,Manufacturing,Placed,average,good,poor,average
+1,Tier 3,USA,100-300,1,Core CS,Healthcare,Placed,average,average,excellent,good
+0,Tier 2,Germany,300+,2,Data Science,Finance,Placed,average,good,average,poor
+2,Tier 1,Germany,100-300,0,AI/ML,Consulting,Placed,good,average,excellent,average
+3,Tier 1,USA,100-300,2,Cloud,Finance,Placed,average,excellent,good,average
+0,Tier 2,Canada,300+,2,Core CS,Manufacturing,Not Placed,average,excellent,good,poor
+1,Tier 3,India,Top 100,1,Cybersecurity,Healthcare,Not Placed,average,average,average,poor
+2,Tier 3,UK,300+,1,Cybersecurity,Healthcare,Not Placed,average,poor,average,poor
+3,Tier 1,India,300+,0,Core CS,Finance,Not Placed,good,average,average,average
+1,Tier 3,Germany,300+,1,Data Science,Healthcare,Not Placed,good,average,good,poor
+3,Tier 1,India,300+,3,Cloud,Tech,Not Placed,good,average,average,average
+2,Tier 1,Canada,Top 100,2,Data Science,Finance,Placed,poor,good,average,average
+1,Tier 2,India,Top 100,2,Cybersecurity,Consulting,Placed,good,good,good,poor
+2,Tier 1,USA,300+,1,Cybersecurity,Finance,Placed,good,good,good,good
+0,Tier 2,Germany,Top 100,2,Core CS,Finance,Placed,average,poor,good,poor
+0,Tier 2,Germany,Top 100,2,Cybersecurity,Finance,Placed,average,good,good,poor
+2,Tier 3,USA,100-300,1,Core CS,Tech,Not Placed,average,excellent,poor,average
+0,Tier 3,Germany,100-300,1,AI/ML,Tech,Placed,average,good,good,poor
+2,Tier 2,Canada,100-300,0,Data Science,Other,Not Placed,good,average,good,poor
+0,Tier 1,Canada,300+,2,Cybersecurity,Consulting,Not Placed,good,excellent,good,poor
+1,Tier 3,India,300+,1,Core CS,Other,Not Placed,average,average,good,average
+1,Tier 3,India,100-300,0,AI/ML,Other,Not Placed,poor,good,good,good
+3,Tier 1,UK,300+,1,Core CS,Finance,Not Placed,good,poor,good,poor
+1,Tier 2,USA,Top 100,1,Core CS,Other,Not Placed,good,average,average,poor
+1,Tier 2,USA,300+,2,Cybersecurity,Healthcare,Not Placed,good,excellent,excellent,good
+0,Tier 1,Canada,100-300,0,Cloud,Tech,Placed,good,average,good,good
+1,Tier 2,UK,100-300,3,Cloud,Manufacturing,Placed,good,average,good,average
+2,Tier 3,India,300+,1,Cybersecurity,Finance,Not Placed,good,excellent,good,average
+0,Tier 3,UK,100-300,0,Data Science,Other,Not Placed,good,good,good,average
+3,Tier 1,Canada,100-300,2,AI/ML,Tech,Placed,average,average,average,poor
+0,Tier 2,UK,300+,0,AI/ML,Healthcare,Placed,good,average,poor,average
+3,Tier 2,USA,Top 100,2,Cybersecurity,Finance,Placed,average,excellent,average,average
+3,Tier 3,USA,Top 100,2,Data Science,Healthcare,Placed,good,excellent,excellent,poor
+1,Tier 3,Canada,100-300,1,Data Science,Healthcare,Placed,average,good,average,poor
+2,Tier 1,Germany,100-300,4,AI/ML,Other,Placed,good,good,good,average
+2,Tier 1,Canada,300+,2,Cloud,Consulting,Placed,average,average,poor,average
+1,Tier 2,Germany,300+,2,Data Science,Manufacturing,Not Placed,good,excellent,good,poor
+1,Tier 3,USA,100-300,0,Cybersecurity,Tech,Placed,good,good,average,good
+1,Tier 1,Canada,100-300,2,AI/ML,Manufacturing,Not Placed,poor,average,good,average
+0,Tier 3,UK,Top 100,2,Core CS,Finance,Placed,good,excellent,average,poor
+1,Tier 1,India,Top 100,0,Cybersecurity,Other,Placed,good,good,average,average
+0,Tier 2,India,300+,1,Core CS,Manufacturing,Not Placed,average,average,excellent,poor
+4,Tier 1,USA,300+,3,Cloud,Healthcare,Placed,average,poor,average,average
+2,Tier 1,UK,100-300,0,Cloud,Consulting,Not Placed,average,excellent,average,poor
+3,Tier 2,Canada,100-300,0,Cloud,Consulting,Not Placed,average,good,average,poor
+3,Tier 3,Canada,Top 100,0,Core CS,Finance,Not Placed,good,good,good,poor
+3,Tier 3,Germany,Top 100,2,Cybersecurity,Tech,Placed,average,poor,good,poor
+6,Tier 1,USA,Top 100,2,Core CS,Consulting,Not Placed,poor,poor,excellent,poor
+1,Tier 2,UK,300+,1,Core CS,Consulting,Not Placed,average,good,excellent,poor
+0,Tier 3,Germany,100-300,2,Core CS,Finance,Not Placed,average,good,poor,good
+1,Tier 2,UK,300+,0,Cloud,Healthcare,Not Placed,average,excellent,good,poor
+2,Tier 2,USA,Top 100,2,Data Science,Manufacturing,Placed,average,good,average,average
+0,Tier 3,Germany,300+,1,Data Science,Manufacturing,Not Placed,good,average,average,average
+3,Tier 2,UK,300+,3,AI/ML,Other,Not Placed,good,good,poor,poor
+1,Tier 2,USA,300+,1,Core CS,Finance,Not Placed,good,good,good,poor
+0,Tier 3,UK,300+,2,AI/ML,Manufacturing,Placed,good,excellent,average,good
+1,Tier 2,USA,300+,0,Cybersecurity,Manufacturing,Not Placed,average,average,average,poor
+2,Tier 3,India,Top 100,0,Cloud,Finance,Not Placed,average,good,excellent,average
+1,Tier 2,Canada,300+,4,AI/ML,Healthcare,Not Placed,good,average,poor,average
+0,Tier 2,Germany,300+,0,Data Science,Finance,Placed,good,poor,average,average
+0,Tier 2,India,300+,1,Data Science,Tech,Placed,good,average,good,poor
+1,Tier 2,USA,Top 100,1,Core CS,Healthcare,Placed,good,good,good,poor
+2,Tier 3,UK,300+,1,AI/ML,Finance,Placed,average,average,poor,good
+1,Tier 2,Germany,300+,1,Cloud,Other,Not Placed,good,average,poor,poor
+2,Tier 1,Germany,100-300,3,Cloud,Manufacturing,Placed,good,excellent,average,good
+1,Tier 3,UK,300+,0,AI/ML,Consulting,Placed,average,average,poor,poor
+2,Tier 1,India,Top 100,1,AI/ML,Consulting,Placed,good,excellent,poor,average
+0,Tier 2,USA,100-300,0,Data Science,Other,Not Placed,good,poor,poor,average
+2,Tier 2,India,100-300,3,Cloud,Tech,Placed,good,average,good,average
+2,Tier 1,UK,300+,0,Cybersecurity,Healthcare,Not Placed,average,average,poor,average
+1,Tier 3,UK,300+,0,Core CS,Finance,Placed,good,good,average,poor
+0,Tier 2,USA,100-300,0,Core CS,Consulting,Placed,good,good,good,poor
+1,Tier 3,USA,100-300,2,Core CS,Finance,Not Placed,average,average,excellent,poor
+1,Tier 2,USA,Top 100,0,Data Science,Healthcare,Not Placed,poor,average,average,poor
+1,Tier 1,Canada,300+,3,Data Science,Healthcare,Placed,average,excellent,average,good
+1,Tier 2,USA,100-300,0,AI/ML,Finance,Not Placed,good,average,good,poor
+0,Tier 1,Canada,Top 100,3,AI/ML,Consulting,Placed,good,average,poor,average
+1,Tier 1,Canada,300+,0,Cloud,Finance,Placed,good,good,poor,average
+0,Tier 1,Germany,300+,2,Cybersecurity,Healthcare,Placed,good,average,good,good
+2,Tier 3,USA,Top 100,2,Core CS,Other,Not Placed,good,good,average,average
+2,Tier 1,Germany,Top 100,2,AI/ML,Finance,Placed,good,good,average,poor
+0,Tier 1,USA,Top 100,2,Data Science,Other,Placed,average,average,average,poor
+0,Tier 2,UK,100-300,2,Cloud,Consulting,Placed,good,poor,excellent,average
+2,Tier 2,India,Top 100,0,Core CS,Consulting,Placed,good,good,good,poor
+0,Tier 2,India,300+,0,AI/ML,Manufacturing,Placed,good,poor,good,poor
+0,Tier 1,Canada,Top 100,1,Cloud,Manufacturing,Placed,average,good,excellent,average
+0,Tier 1,India,100-300,4,Cloud,Manufacturing,Placed,good,poor,excellent,poor
+3,Tier 1,Germany,Top 100,3,Cloud,Manufacturing,Not Placed,good,excellent,excellent,poor
+3,Tier 2,Germany,300+,2,Cybersecurity,Manufacturing,Placed,average,poor,average,average
+1,Tier 2,Canada,100-300,0,Core CS,Healthcare,Not Placed,average,average,poor,poor
+3,Tier 1,India,100-300,0,AI/ML,Manufacturing,Not Placed,good,excellent,poor,poor
+2,Tier 1,Germany,Top 100,0,Core CS,Consulting,Placed,average,good,good,average
+1,Tier 1,USA,300+,1,Cloud,Healthcare,Placed,good,excellent,average,poor
+2,Tier 3,USA,100-300,1,Data Science,Tech,Placed,good,good,excellent,poor
+2,Tier 3,USA,300+,1,AI/ML,Tech,Not Placed,good,average,average,poor
+1,Tier 3,Canada,300+,1,Data Science,Other,Not Placed,good,excellent,good,poor
+1,Tier 1,Germany,300+,3,Core CS,Manufacturing,Not Placed,average,excellent,excellent,average
+0,Tier 3,UK,100-300,3,Cybersecurity,Finance,Placed,average,excellent,good,average
+6,Tier 1,Germany,300+,1,AI/ML,Healthcare,Not Placed,average,good,average,average
+0,Tier 2,Germany,Top 100,1,Cloud,Consulting,Placed,average,excellent,good,poor
+2,Tier 1,India,100-300,1,Cybersecurity,Consulting,Not Placed,average,average,average,average
+5,Tier 1,Canada,100-300,1,AI/ML,Other,Not Placed,good,average,good,poor
+1,Tier 3,Canada,Top 100,2,Cloud,Healthcare,Not Placed,average,excellent,average,poor
+2,Tier 1,USA,300+,1,Cloud,Finance,Not Placed,good,good,average,average
+2,Tier 1,Germany,300+,2,AI/ML,Finance,Not Placed,good,good,poor,excellent
+1,Tier 3,UK,100-300,2,Core CS,Consulting,Placed,average,excellent,poor,poor
+1,Tier 1,Germany,Top 100,1,Cybersecurity,Tech,Placed,good,poor,good,poor
+1,Tier 2,USA,100-300,1,AI/ML,Consulting,Placed,good,excellent,average,poor
+0,Tier 2,Canada,300+,1,Data Science,Tech,Placed,good,good,good,poor
+1,Tier 3,India,100-300,0,Cloud,Tech,Placed,average,excellent,average,average
+0,Tier 1,USA,100-300,1,Cloud,Consulting,Placed,average,average,average,average
+1,Tier 1,Germany,100-300,1,Data Science,Other,Placed,good,average,good,average
+1,Tier 1,USA,300+,1,AI/ML,Tech,Not Placed,average,good,good,poor
+1,Tier 1,Canada,300+,2,Data Science,Tech,Placed,good,good,good,poor
+0,Tier 3,Canada,100-300,3,Cloud,Finance,Placed,good,good,average,poor
+2,Tier 1,UK,100-300,4,AI/ML,Manufacturing,Not Placed,good,good,good,poor
+1,Tier 3,USA,Top 100,0,Cloud,Consulting,Not Placed,average,good,average,poor
+0,Tier 2,USA,100-300,4,Core CS,Finance,Placed,average,good,good,poor
+0,Tier 2,India,300+,1,Data Science,Finance,Placed,good,poor,excellent,poor
+0,Tier 3,Canada,100-300,2,Cloud,Other,Placed,good,good,good,poor
+2,Tier 1,USA,300+,0,Cybersecurity,Manufacturing,Not Placed,good,excellent,average,poor
+1,Tier 2,UK,Top 100,1,Cybersecurity,Tech,Placed,good,good,average,poor
+1,Tier 1,UK,300+,2,Cybersecurity,Healthcare,Placed,average,excellent,average,poor
+5,Tier 3,India,Top 100,0,AI/ML,Other,Placed,good,good,excellent,average
+1,Tier 2,Germany,300+,2,AI/ML,Finance,Placed,good,good,excellent,poor
+4,Tier 2,USA,300+,0,Data Science,Healthcare,Not Placed,good,excellent,poor,poor
+1,Tier 3,Canada,Top 100,0,AI/ML,Manufacturing,Placed,good,good,good,average
+2,Tier 2,USA,Top 100,2,Cloud,Healthcare,Not Placed,poor,good,average,poor
+3,Tier 2,USA,Top 100,2,Core CS,Other,Not Placed,average,good,average,poor
+2,Tier 1,India,Top 100,0,Cybersecurity,Finance,Placed,good,excellent,average,poor
+1,Tier 1,USA,300+,2,AI/ML,Other,Not Placed,good,poor,poor,poor
+0,Tier 1,Germany,100-300,1,Core CS,Tech,Placed,average,good,good,average
+4,Tier 2,India,100-300,1,Cloud,Tech,Not Placed,average,excellent,good,average
+3,Tier 3,UK,100-300,2,Data Science,Healthcare,Not Placed,average,good,good,poor
+0,Tier 2,USA,Top 100,0,Data Science,Healthcare,Placed,good,excellent,poor,good
+1,Tier 2,UK,300+,0,Cloud,Manufacturing,Not Placed,good,good,poor,average
+1,Tier 1,Canada,300+,3,AI/ML,Tech,Placed,average,good,good,poor
+2,Tier 2,UK,100-300,2,Core CS,Other,Placed,average,good,poor,poor
+0,Tier 1,India,Top 100,1,Cybersecurity,Tech,Placed,good,average,average,poor
+1,Tier 3,Canada,300+,1,Data Science,Tech,Placed,good,average,good,average
+2,Tier 3,USA,Top 100,2,Cloud,Finance,Placed,average,good,average,average
+0,Tier 3,Canada,Top 100,3,AI/ML,Manufacturing,Placed,average,good,excellent,good
+1,Tier 1,USA,100-300,3,Core CS,Consulting,Placed,average,good,good,poor
+1,Tier 2,Germany,300+,3,Data Science,Manufacturing,Not Placed,average,good,excellent,average
+1,Tier 2,India,100-300,2,Data Science,Other,Placed,average,excellent,excellent,poor
+2,Tier 2,Germany,300+,3,AI/ML,Healthcare,Placed,good,good,average,average
+1,Tier 2,Germany,100-300,1,Cloud,Healthcare,Placed,good,excellent,excellent,poor
+0,Tier 1,Germany,100-300,0,Cloud,Other,Placed,average,average,average,poor
+0,Tier 1,India,Top 100,0,Core CS,Healthcare,Placed,good,good,poor,poor
+1,Tier 2,India,100-300,1,AI/ML,Healthcare,Not Placed,average,poor,excellent,poor
+2,Tier 2,Germany,100-300,4,Cybersecurity,Other,Placed,average,excellent,average,average
+0,Tier 3,UK,100-300,3,Cloud,Manufacturing,Placed,good,good,excellent,good
+1,Tier 2,Germany,300+,1,Data Science,Consulting,Not Placed,average,good,average,poor
+3,Tier 2,India,300+,0,Cloud,Consulting,Not Placed,good,good,average,average
+0,Tier 2,USA,300+,2,Data Science,Manufacturing,Not Placed,good,good,good,poor
+0,Tier 3,Germany,100-300,0,Cloud,Manufacturing,Placed,good,average,poor,poor
+0,Tier 1,USA,300+,0,Cloud,Healthcare,Not Placed,average,excellent,average,average
+2,Tier 1,UK,Top 100,0,Core CS,Healthcare,Placed,good,average,average,poor
+2,Tier 1,Germany,100-300,3,Cybersecurity,Consulting,Not Placed,average,good,average,poor
+1,Tier 2,USA,100-300,0,Cloud,Other,Placed,average,average,good,poor
+0,Tier 1,USA,300+,1,AI/ML,Consulting,Placed,average,average,average,poor
+2,Tier 3,Canada,100-300,0,Core CS,Consulting,Not Placed,average,excellent,excellent,poor
+1,Tier 1,UK,100-300,1,Data Science,Consulting,Not Placed,average,good,excellent,poor
+5,Tier 2,Germany,100-300,5,Data Science,Tech,Placed,good,good,average,average
+1,Tier 3,Canada,100-300,0,Data Science,Finance,Not Placed,good,excellent,good,poor
+1,Tier 2,Germany,300+,2,AI/ML,Tech,Placed,average,excellent,good,average
+2,Tier 2,Canada,100-300,0,Core CS,Healthcare,Placed,average,excellent,excellent,poor
+2,Tier 1,India,100-300,1,AI/ML,Tech,Placed,good,average,excellent,poor
+2,Tier 3,Canada,300+,1,Core CS,Tech,Placed,good,good,good,average
+1,Tier 1,Canada,100-300,3,Cloud,Finance,Placed,good,average,average,good
+1,Tier 2,Germany,300+,2,Cybersecurity,Healthcare,Placed,good,good,good,poor
+2,Tier 3,USA,100-300,3,Core CS,Healthcare,Placed,good,good,excellent,poor
+1,Tier 2,India,300+,1,Data Science,Finance,Placed,average,excellent,poor,average
+2,Tier 2,UK,300+,1,Cloud,Manufacturing,Not Placed,good,average,average,poor
+2,Tier 1,Canada,Top 100,2,Core CS,Manufacturing,Not Placed,average,average,average,poor
+0,Tier 2,Canada,300+,1,Core CS,Consulting,Not Placed,average,average,average,poor
+0,Tier 3,UK,100-300,0,Core CS,Healthcare,Placed,good,excellent,good,poor
+0,Tier 2,Canada,300+,1,Cloud,Consulting,Placed,good,excellent,average,average
+2,Tier 1,USA,300+,3,Core CS,Finance,Not Placed,poor,poor,average,poor
+0,Tier 2,India,300+,1,Core CS,Manufacturing,Not Placed,average,poor,excellent,average
+0,Tier 2,Germany,300+,0,AI/ML,Manufacturing,Not Placed,good,excellent,average,average
+2,Tier 2,Canada,Top 100,3,AI/ML,Healthcare,Placed,average,excellent,good,average
+2,Tier 3,Canada,100-300,0,Data Science,Finance,Not Placed,average,average,average,average
+0,Tier 2,UK,100-300,1,Cybersecurity,Tech,Placed,good,poor,good,average
+3,Tier 2,India,100-300,1,AI/ML,Other,Not Placed,average,good,good,poor
+0,Tier 2,Canada,Top 100,3,AI/ML,Tech,Placed,average,good,average,good
+4,Tier 2,Canada,300+,2,Data Science,Finance,Not Placed,average,average,excellent,average
+1,Tier 2,UK,300+,1,Data Science,Healthcare,Placed,good,excellent,poor,good
+3,Tier 2,UK,100-300,2,Cloud,Consulting,Not Placed,average,excellent,good,poor
+1,Tier 3,UK,100-300,1,Cybersecurity,Tech,Placed,average,average,good,poor
+2,Tier 1,Germany,Top 100,2,Cloud,Manufacturing,Placed,average,average,excellent,poor
+3,Tier 1,Canada,300+,2,Core CS,Consulting,Not Placed,average,excellent,good,poor
+0,Tier 3,India,100-300,0,Cloud,Other,Placed,good,good,average,poor
+0,Tier 1,Germany,100-300,0,Cybersecurity,Healthcare,Placed,average,good,good,poor
+0,Tier 1,Canada,100-300,0,Core CS,Other,Placed,good,good,average,poor
+0,Tier 2,India,100-300,1,Data Science,Finance,Not Placed,average,poor,excellent,poor
+0,Tier 3,Canada,100-300,1,Cybersecurity,Healthcare,Placed,good,excellent,average,average
+1,Tier 2,Canada,100-300,1,AI/ML,Finance,Placed,average,good,good,poor
+2,Tier 3,India,300+,5,Cybersecurity,Consulting,Placed,average,good,good,average
+0,Tier 2,USA,100-300,0,Core CS,Other,Placed,average,average,average,poor
+0,Tier 1,Canada,300+,0,Cloud,Consulting,Placed,average,good,excellent,poor
+0,Tier 2,UK,100-300,3,Data Science,Other,Placed,good,average,average,good
+1,Tier 3,USA,300+,2,Core CS,Tech,Placed,good,poor,good,average
+1,Tier 3,Germany,100-300,0,Data Science,Other,Placed,average,average,average,poor
+0,Tier 1,Germany,300+,1,Cybersecurity,Finance,Placed,good,excellent,average,average
+1,Tier 2,Canada,300+,1,Data Science,Healthcare,Not Placed,average,excellent,good,poor
+0,Tier 1,Germany,300+,1,Cloud,Tech,Placed,average,average,good,poor
+1,Tier 3,Germany,100-300,3,Core CS,Manufacturing,Placed,average,average,excellent,average
+2,Tier 2,India,300+,1,AI/ML,Tech,Not Placed,average,excellent,poor,poor
+2,Tier 1,India,300+,0,AI/ML,Tech,Not Placed,poor,excellent,average,poor
+3,Tier 2,UK,300+,1,AI/ML,Tech,Not Placed,average,average,poor,average
+2,Tier 1,UK,300+,1,AI/ML,Finance,Not Placed,average,poor,excellent,poor
+3,Tier 2,Canada,Top 100,2,Cybersecurity,Other,Not Placed,poor,average,average,poor
+1,Tier 2,UK,100-300,2,Cloud,Finance,Placed,good,poor,poor,average
+2,Tier 2,Canada,300+,0,AI/ML,Tech,Not Placed,average,average,good,poor
+1,Tier 2,Germany,300+,0,Cloud,Manufacturing,Placed,good,average,excellent,average
+3,Tier 1,USA,300+,4,Cybersecurity,Consulting,Placed,good,poor,good,average
+2,Tier 3,Germany,Top 100,0,Core CS,Tech,Not Placed,poor,average,excellent,average
+1,Tier 3,Germany,100-300,1,Cybersecurity,Other,Placed,good,average,excellent,average
+2,Tier 2,Canada,300+,2,Cloud,Healthcare,Placed,good,good,good,good
+0,Tier 2,Canada,300+,1,Core CS,Manufacturing,Placed,average,good,good,poor
+0,Tier 1,UK,Top 100,1,AI/ML,Other,Placed,average,good,poor,poor
+1,Tier 1,Germany,100-300,2,Core CS,Manufacturing,Not Placed,average,average,average,poor
+2,Tier 2,Canada,100-300,1,Cybersecurity,Finance,Not Placed,good,poor,excellent,poor
+2,Tier 2,UK,100-300,2,Cloud,Healthcare,Placed,good,excellent,excellent,poor
+1,Tier 2,USA,Top 100,1,Data Science,Healthcare,Placed,average,good,average,poor
+1,Tier 3,Germany,100-300,1,Cybersecurity,Finance,Not Placed,average,average,average,poor
+3,Tier 1,USA,300+,4,Cloud,Manufacturing,Placed,good,excellent,poor,average
+1,Tier 1,UK,Top 100,2,Cloud,Finance,Placed,average,average,excellent,average
+0,Tier 3,Germany,300+,1,AI/ML,Consulting,Placed,good,poor,poor,poor
+0,Tier 3,India,Top 100,1,Data Science,Healthcare,Placed,average,good,average,poor
+2,Tier 2,Germany,100-300,0,AI/ML,Healthcare,Not Placed,average,excellent,good,poor
+2,Tier 1,Canada,Top 100,1,Core CS,Manufacturing,Placed,good,good,excellent,poor
+1,Tier 1,USA,100-300,1,Cybersecurity,Healthcare,Placed,good,excellent,good,average
+0,Tier 1,Canada,300+,1,Cloud,Other,Placed,excellent,good,good,average
+0,Tier 3,Germany,100-300,2,AI/ML,Healthcare,Placed,good,average,good,average
+1,Tier 1,UK,300+,4,Cloud,Other,Not Placed,average,average,good,average
+0,Tier 3,USA,100-300,0,AI/ML,Consulting,Not Placed,good,average,good,poor
+1,Tier 1,India,100-300,2,AI/ML,Healthcare,Not Placed,average,good,poor,average
+3,Tier 3,Canada,100-300,1,Cybersecurity,Healthcare,Not Placed,average,average,good,average
+0,Tier 1,India,100-300,1,Data Science,Other,Placed,good,excellent,excellent,average
+2,Tier 3,Canada,100-300,4,Data Science,Finance,Placed,average,good,good,poor
+1,Tier 3,Canada,300+,0,Cybersecurity,Manufacturing,Not Placed,average,excellent,good,poor
+2,Tier 3,Germany,300+,1,Cybersecurity,Manufacturing,Not Placed,poor,good,average,poor
+1,Tier 1,UK,100-300,0,Data Science,Tech,Placed,good,good,poor,good
+2,Tier 1,USA,100-300,4,Cloud,Consulting,Placed,good,good,excellent,poor
+0,Tier 1,Canada,300+,0,Cybersecurity,Other,Not Placed,average,excellent,average,poor
+3,Tier 1,UK,300+,0,Core CS,Finance,Not Placed,good,average,excellent,average
+1,Tier 2,USA,100-300,3,Cloud,Tech,Placed,good,excellent,excellent,poor
+0,Tier 2,Germany,300+,1,Data Science,Healthcare,Not Placed,average,good,average,good
+1,Tier 2,Germany,100-300,1,Cybersecurity,Manufacturing,Placed,average,good,average,poor
+1,Tier 1,UK,100-300,3,Core CS,Manufacturing,Placed,good,average,average,poor
+1,Tier 1,Germany,100-300,4,Cybersecurity,Tech,Placed,average,average,poor,poor
+1,Tier 2,UK,100-300,3,Core CS,Consulting,Placed,average,good,average,poor
+0,Tier 2,Germany,300+,4,Cloud,Consulting,Placed,average,excellent,average,poor
+3,Tier 2,India,300+,1,Cybersecurity,Consulting,Not Placed,poor,poor,good,poor
+3,Tier 2,India,100-300,2,Data Science,Finance,Not Placed,good,good,average,poor
+0,Tier 1,Germany,100-300,1,Cybersecurity,Tech,Placed,good,average,average,average
+1,Tier 2,USA,100-300,1,AI/ML,Manufacturing,Placed,good,average,good,poor
+0,Tier 3,India,100-300,0,Cybersecurity,Tech,Placed,average,good,good,poor
+0,Tier 1,USA,100-300,3,AI/ML,Other,Placed,average,average,average,average
+2,Tier 2,India,100-300,0,Cybersecurity,Manufacturing,Not Placed,average,good,good,poor
+2,Tier 1,USA,Top 100,0,AI/ML,Other,Placed,good,good,average,good
+2,Tier 1,UK,300+,0,Cybersecurity,Finance,Placed,good,poor,poor,average
+2,Tier 3,Germany,100-300,2,Cybersecurity,Manufacturing,Not Placed,average,good,good,poor
+1,Tier 3,Germany,300+,1,Cloud,Finance,Not Placed,average,excellent,poor,poor
+1,Tier 1,Canada,Top 100,2,Core CS,Manufacturing,Placed,good,excellent,good,good
+1,Tier 3,India,300+,1,Core CS,Tech,Placed,poor,good,good,poor
+0,Tier 3,Canada,300+,1,Core CS,Consulting,Placed,good,average,average,poor
+3,Tier 1,Germany,300+,3,Data Science,Consulting,Not Placed,average,average,good,poor
+2,Tier 2,Canada,300+,1,Core CS,Manufacturing,Not Placed,poor,average,good,poor
+0,Tier 1,India,Top 100,3,Cybersecurity,Other,Placed,average,good,average,poor
+1,Tier 1,USA,100-300,2,Data Science,Healthcare,Not Placed,average,good,average,poor
+2,Tier 1,UK,300+,1,Cybersecurity,Healthcare,Not Placed,good,good,poor,poor
+0,Tier 2,USA,100-300,1,AI/ML,Finance,Placed,average,good,excellent,average
+3,Tier 1,USA,Top 100,1,AI/ML,Consulting,Not Placed,average,good,average,poor
+0,Tier 3,Germany,300+,0,Core CS,Other,Placed,good,good,good,average
+0,Tier 2,Germany,300+,1,Data Science,Finance,Placed,good,average,excellent,average
+3,Tier 3,India,100-300,1,Data Science,Tech,Not Placed,average,poor,poor,poor
+1,Tier 3,USA,300+,2,Cybersecurity,Consulting,Placed,good,excellent,average,good
+1,Tier 2,India,300+,1,Cloud,Other,Not Placed,average,good,average,poor
+2,Tier 3,UK,100-300,0,Data Science,Tech,Not Placed,average,excellent,good,poor
+1,Tier 1,USA,300+,1,Core CS,Tech,Placed,average,excellent,average,poor
+0,Tier 2,India,300+,2,Core CS,Manufacturing,Placed,good,excellent,good,poor
+1,Tier 1,Canada,300+,1,Cybersecurity,Consulting,Placed,good,good,excellent,average
+2,Tier 3,India,300+,0,AI/ML,Consulting,Placed,good,excellent,average,poor
+2,Tier 1,UK,100-300,1,Core CS,Manufacturing,Not Placed,average,good,good,average
+5,Tier 2,UK,100-300,2,Cloud,Consulting,Not Placed,average,good,excellent,poor
+2,Tier 3,USA,Top 100,2,Cybersecurity,Manufacturing,Placed,average,good,average,poor
+1,Tier 3,Canada,100-300,0,Cybersecurity,Tech,Placed,good,excellent,average,average
+0,Tier 2,USA,300+,1,Cloud,Other,Not Placed,good,excellent,good,poor
+0,Tier 2,UK,100-300,1,Cloud,Other,Placed,good,excellent,average,poor
+1,Tier 3,Canada,100-300,3,Cybersecurity,Finance,Not Placed,average,average,good,average
+2,Tier 2,Germany,100-300,1,Core CS,Consulting,Placed,good,excellent,good,poor
+1,Tier 3,India,300+,0,AI/ML,Tech,Not Placed,good,excellent,good,poor
+3,Tier 1,India,300+,2,AI/ML,Consulting,Placed,average,average,excellent,poor
+1,Tier 1,Canada,100-300,1,Data Science,Manufacturing,Placed,good,average,average,average
+1,Tier 2,Canada,300+,2,Cloud,Finance,Not Placed,average,average,good,poor
+1,Tier 1,India,300+,2,AI/ML,Tech,Placed,average,good,poor,good
+0,Tier 1,UK,Top 100,3,Data Science,Manufacturing,Placed,good,excellent,average,average
+0,Tier 2,India,300+,0,Cloud,Consulting,Not Placed,average,good,good,poor
+0,Tier 1,UK,300+,2,Cybersecurity,Other,Placed,good,good,poor,poor
+0,Tier 1,India,100-300,1,Cloud,Healthcare,Not Placed,average,good,poor,average
+1,Tier 3,Canada,Top 100,1,Cloud,Other,Not Placed,good,average,average,average
+1,Tier 2,USA,100-300,1,Cloud,Healthcare,Placed,average,average,poor,average
+1,Tier 2,USA,300+,1,Cybersecurity,Healthcare,Placed,good,poor,good,average
+1,Tier 2,UK,100-300,1,Core CS,Healthcare,Placed,good,average,good,average
+1,Tier 3,India,Top 100,0,Cloud,Healthcare,Placed,good,good,good,poor
+0,Tier 1,Germany,Top 100,2,Core CS,Other,Placed,average,good,excellent,good
+0,Tier 3,UK,300+,1,Cybersecurity,Other,Placed,good,good,average,average
+2,Tier 1,UK,300+,1,Cloud,Manufacturing,Not Placed,average,excellent,good,poor
+2,Tier 2,USA,300+,1,AI/ML,Other,Not Placed,good,poor,good,poor
+1,Tier 1,India,100-300,2,Cybersecurity,Other,Not Placed,average,excellent,excellent,poor
+2,Tier 3,Canada,Top 100,0,Data Science,Finance,Placed,average,average,average,average
+3,Tier 2,Germany,300+,1,Cloud,Finance,Not Placed,good,good,average,poor
+0,Tier 1,India,300+,4,Data Science,Consulting,Placed,average,average,excellent,poor
+0,Tier 3,Canada,100-300,3,AI/ML,Healthcare,Placed,excellent,excellent,good,good
+2,Tier 3,UK,300+,3,Cybersecurity,Consulting,Placed,good,good,good,average
+1,Tier 2,Canada,300+,1,Cybersecurity,Manufacturing,Not Placed,average,average,average,poor
+1,Tier 3,USA,Top 100,2,Core CS,Healthcare,Placed,good,good,average,poor
+0,Tier 3,USA,300+,1,Core CS,Manufacturing,Placed,good,excellent,excellent,poor
+2,Tier 2,Germany,100-300,3,AI/ML,Finance,Placed,average,good,good,poor
+1,Tier 3,UK,300+,1,Data Science,Other,Not Placed,good,poor,poor,poor
+2,Tier 1,USA,300+,1,AI/ML,Consulting,Not Placed,average,poor,good,poor
+2,Tier 2,India,Top 100,4,Data Science,Tech,Placed,average,good,poor,average
+2,Tier 1,UK,100-300,2,Cybersecurity,Finance,Placed,poor,poor,good,poor
+3,Tier 3,USA,100-300,0,Cybersecurity,Other,Not Placed,average,excellent,average,poor
+2,Tier 1,Canada,300+,2,Cybersecurity,Tech,Not Placed,average,excellent,good,average
+0,Tier 1,Germany,300+,2,AI/ML,Healthcare,Placed,good,excellent,poor,poor
+1,Tier 2,UK,100-300,2,Cybersecurity,Tech,Placed,good,good,good,average
+1,Tier 3,Canada,300+,1,Core CS,Consulting,Not Placed,good,excellent,poor,average
+0,Tier 3,Germany,100-300,2,Core CS,Healthcare,Placed,good,good,excellent,good
+1,Tier 1,USA,100-300,2,Data Science,Manufacturing,Placed,good,excellent,poor,poor
+0,Tier 3,Germany,Top 100,0,Data Science,Consulting,Placed,average,excellent,good,poor
+1,Tier 2,Germany,300+,0,AI/ML,Manufacturing,Not Placed,good,good,good,poor
+1,Tier 1,Germany,300+,1,Cybersecurity,Manufacturing,Placed,average,good,average,poor
+0,Tier 3,India,300+,3,AI/ML,Consulting,Placed,average,average,good,average
+4,Tier 1,Germany,100-300,2,Cybersecurity,Consulting,Not Placed,average,excellent,good,poor
+0,Tier 2,UK,300+,2,Cybersecurity,Tech,Placed,average,average,good,poor
+1,Tier 3,Canada,300+,2,Cloud,Manufacturing,Placed,average,good,poor,poor
+1,Tier 3,Canada,300+,2,Cloud,Manufacturing,Not Placed,good,average,excellent,poor
+1,Tier 3,Germany,100-300,2,Data Science,Other,Not Placed,good,average,good,poor
+3,Tier 2,India,300+,0,AI/ML,Finance,Not Placed,average,average,average,average
+2,Tier 2,USA,300+,1,AI/ML,Manufacturing,Placed,good,good,good,average
+0,Tier 3,UK,300+,0,AI/ML,Healthcare,Placed,good,average,average,average
+0,Tier 3,Germany,300+,1,Cybersecurity,Tech,Placed,good,good,average,poor
+3,Tier 1,UK,300+,2,AI/ML,Tech,Not Placed,average,average,average,poor
+1,Tier 1,UK,Top 100,1,Core CS,Healthcare,Not Placed,average,good,poor,poor
+1,Tier 3,USA,300+,1,Data Science,Consulting,Placed,average,excellent,average,average
+3,Tier 1,India,100-300,1,Core CS,Finance,Placed,average,good,good,average
+1,Tier 1,India,100-300,2,Data Science,Healthcare,Not Placed,poor,average,good,poor
+2,Tier 1,UK,300+,2,Cybersecurity,Consulting,Not Placed,average,good,excellent,poor
+2,Tier 3,UK,Top 100,4,Cloud,Other,Placed,good,good,average,poor
+1,Tier 2,USA,100-300,2,Core CS,Tech,Placed,good,good,poor,poor
+0,Tier 3,Germany,300+,2,Data Science,Finance,Placed,average,excellent,average,poor
+0,Tier 2,Germany,Top 100,2,Core CS,Manufacturing,Placed,average,excellent,excellent,poor
+1,Tier 2,UK,100-300,0,Cybersecurity,Consulting,Not Placed,average,good,good,poor
+0,Tier 2,India,100-300,2,Cybersecurity,Manufacturing,Placed,good,excellent,good,poor
+0,Tier 2,India,300+,1,Cybersecurity,Tech,Not Placed,average,average,average,average
+0,Tier 3,India,100-300,2,Data Science,Healthcare,Placed,good,good,excellent,average
+0,Tier 2,UK,300+,3,Cloud,Consulting,Placed,excellent,poor,average,poor
+0,Tier 1,India,Top 100,1,Data Science,Healthcare,Placed,good,poor,poor,good
+1,Tier 3,USA,Top 100,0,AI/ML,Healthcare,Placed,good,good,excellent,average
+0,Tier 3,Germany,100-300,3,Data Science,Other,Placed,good,good,excellent,good
+1,Tier 2,Germany,100-300,3,Core CS,Healthcare,Placed,average,average,good,poor
+0,Tier 2,UK,100-300,3,Cybersecurity,Finance,Placed,average,average,excellent,good
+1,Tier 3,India,300+,1,Core CS,Manufacturing,Not Placed,good,good,average,poor
+0,Tier 1,UK,100-300,3,Cybersecurity,Finance,Placed,average,excellent,average,average
+2,Tier 3,India,300+,1,Cybersecurity,Other,Not Placed,average,excellent,average,poor
+2,Tier 3,USA,Top 100,3,Cloud,Finance,Placed,good,average,good,average
+0,Tier 1,India,100-300,2,Cybersecurity,Healthcare,Not Placed,good,poor,good,poor
+3,Tier 2,Germany,300+,0,Data Science,Manufacturing,Not Placed,good,good,average,average
+2,Tier 1,Canada,Top 100,0,Cybersecurity,Finance,Placed,average,good,average,poor
+0,Tier 2,UK,300+,2,AI/ML,Other,Placed,good,excellent,average,poor
+0,Tier 2,Germany,100-300,1,AI/ML,Finance,Not Placed,average,good,excellent,poor
+0,Tier 3,USA,100-300,1,AI/ML,Other,Placed,average,average,good,poor
+2,Tier 3,Germany,300+,1,Cloud,Healthcare,Not Placed,average,excellent,good,poor
+2,Tier 3,USA,300+,2,Cloud,Tech,Placed,average,average,average,poor
+2,Tier 3,USA,300+,1,AI/ML,Consulting,Not Placed,good,good,good,poor
+2,Tier 3,UK,300+,1,Data Science,Tech,Not Placed,average,good,average,average
+0,Tier 1,Canada,300+,5,Data Science,Manufacturing,Placed,good,good,average,poor
+0,Tier 2,India,100-300,2,Cloud,Other,Placed,good,average,poor,poor
+2,Tier 2,Germany,300+,1,Cybersecurity,Tech,Not Placed,average,good,average,poor
+0,Tier 3,Germany,300+,2,Data Science,Manufacturing,Placed,good,poor,average,poor
+0,Tier 1,Germany,300+,1,AI/ML,Manufacturing,Placed,good,good,good,good
+0,Tier 3,India,300+,0,Core CS,Tech,Placed,good,excellent,good,average
+2,Tier 2,UK,Top 100,3,Cybersecurity,Tech,Not Placed,average,excellent,poor,poor
+1,Tier 3,UK,Top 100,3,Data Science,Tech,Placed,good,average,good,good
+4,Tier 2,Germany,300+,2,Core CS,Tech,Placed,good,excellent,poor,average
+0,Tier 2,India,Top 100,2,Core CS,Consulting,Placed,good,average,poor,average
+0,Tier 2,Germany,300+,1,Data Science,Healthcare,Not Placed,average,good,average,poor
+0,Tier 1,USA,Top 100,3,Cybersecurity,Healthcare,Placed,good,average,average,average
+1,Tier 3,Germany,100-300,3,Core CS,Finance,Placed,average,average,good,good
+3,Tier 2,Germany,100-300,2,Cybersecurity,Manufacturing,Placed,good,excellent,poor,average
+2,Tier 1,UK,300+,0,Core CS,Manufacturing,Not Placed,good,good,excellent,average
+0,Tier 1,UK,300+,2,AI/ML,Other,Placed,average,average,good,average
+0,Tier 1,UK,300+,2,Core CS,Consulting,Placed,average,good,good,poor
+0,Tier 2,Canada,100-300,1,Cloud,Tech,Not Placed,good,poor,average,poor
+0,Tier 2,USA,100-300,0,Data Science,Other,Not Placed,average,good,good,poor
+1,Tier 3,Canada,Top 100,1,AI/ML,Tech,Placed,average,excellent,excellent,poor
+1,Tier 2,Germany,Top 100,0,Core CS,Tech,Not Placed,average,good,poor,poor
+0,Tier 2,UK,100-300,1,Core CS,Healthcare,Placed,good,good,excellent,good
+0,Tier 3,UK,100-300,0,Core CS,Manufacturing,Not Placed,average,good,poor,poor
+1,Tier 3,Germany,100-300,0,Cybersecurity,Healthcare,Placed,good,excellent,good,average
+2,Tier 2,Canada,Top 100,2,Cybersecurity,Other,Placed,average,excellent,excellent,poor
+2,Tier 2,Germany,Top 100,0,Data Science,Finance,Not Placed,average,average,good,good
+2,Tier 3,Germany,300+,1,AI/ML,Manufacturing,Not Placed,good,average,excellent,average
+4,Tier 1,Germany,Top 100,2,Data Science,Healthcare,Placed,good,excellent,average,poor
+1,Tier 3,USA,300+,3,Cybersecurity,Finance,Placed,average,average,excellent,average
+3,Tier 1,Canada,Top 100,3,Core CS,Finance,Placed,average,average,excellent,good
+1,Tier 2,USA,300+,0,Core CS,Other,Placed,good,poor,good,average
+0,Tier 2,Germany,Top 100,2,Data Science,Manufacturing,Placed,good,good,average,average
+0,Tier 2,India,100-300,2,AI/ML,Healthcare,Placed,good,good,good,good
+1,Tier 3,UK,Top 100,1,Cybersecurity,Manufacturing,Not Placed,average,good,average,poor
+3,Tier 3,Canada,300+,0,Core CS,Tech,Not Placed,average,average,average,poor
+2,Tier 2,Canada,100-300,2,Core CS,Tech,Placed,average,excellent,poor,poor
+2,Tier 1,USA,100-300,2,Core CS,Other,Not Placed,average,good,good,average
+1,Tier 1,Germany,100-300,0,Data Science,Tech,Not Placed,average,good,average,poor
+0,Tier 2,Germany,Top 100,2,Cloud,Consulting,Placed,good,excellent,good,poor
+1,Tier 1,USA,300+,0,Data Science,Finance,Placed,good,average,good,average
+3,Tier 2,UK,100-300,2,Data Science,Manufacturing,Not Placed,good,good,poor,poor
+0,Tier 2,USA,Top 100,3,Cybersecurity,Manufacturing,Placed,good,excellent,average,average
+2,Tier 2,India,100-300,2,Core CS,Other,Not Placed,average,excellent,average,poor
+0,Tier 3,India,300+,3,Core CS,Tech,Placed,good,average,good,poor
+0,Tier 1,UK,100-300,3,Cloud,Other,Placed,average,good,poor,poor
+1,Tier 3,India,Top 100,3,Data Science,Tech,Placed,good,average,poor,average
+1,Tier 2,India,100-300,0,Cybersecurity,Other,Not Placed,average,good,average,poor
+1,Tier 3,Germany,300+,3,Cybersecurity,Healthcare,Placed,good,excellent,good,good
+1,Tier 1,Germany,100-300,1,AI/ML,Consulting,Not Placed,average,poor,average,poor
+2,Tier 1,India,300+,2,Cloud,Tech,Not Placed,good,poor,excellent,average
+0,Tier 2,USA,100-300,3,Core CS,Other,Placed,average,good,average,average
+0,Tier 2,Canada,100-300,0,Cybersecurity,Tech,Placed,average,average,good,poor
+2,Tier 3,India,300+,3,Data Science,Healthcare,Placed,good,average,excellent,good
+0,Tier 2,UK,100-300,1,Cloud,Healthcare,Placed,good,good,average,average
+0,Tier 3,UK,300+,2,Cloud,Healthcare,Placed,average,excellent,poor,poor
+1,Tier 3,India,300+,0,Data Science,Tech,Placed,good,average,average,average
+3,Tier 3,India,300+,4,Cloud,Consulting,Not Placed,average,good,average,average
+0,Tier 1,Germany,300+,2,Cybersecurity,Finance,Placed,good,average,good,poor
+1,Tier 2,India,300+,0,Core CS,Manufacturing,Not Placed,average,good,good,average
+0,Tier 3,Germany,300+,4,Data Science,Consulting,Placed,good,excellent,good,poor
+1,Tier 3,USA,Top 100,2,Cybersecurity,Manufacturing,Placed,average,average,average,average
+0,Tier 2,UK,Top 100,0,AI/ML,Finance,Placed,good,average,average,poor
+1,Tier 2,Germany,100-300,1,Core CS,Manufacturing,Not Placed,average,average,average,average
+1,Tier 2,India,300+,3,Data Science,Manufacturing,Not Placed,average,excellent,poor,poor
+0,Tier 2,UK,100-300,2,Data Science,Finance,Not Placed,average,average,good,poor
+1,Tier 2,Germany,300+,1,Core CS,Consulting,Placed,good,poor,good,poor
+1,Tier 2,India,Top 100,0,Core CS,Consulting,Placed,average,poor,excellent,good
+0,Tier 2,Germany,100-300,2,Core CS,Finance,Placed,average,average,good,average
+3,Tier 2,Canada,300+,1,Core CS,Finance,Not Placed,good,average,average,poor
+0,Tier 1,Germany,100-300,1,Cybersecurity,Healthcare,Placed,average,poor,good,average
+3,Tier 3,UK,Top 100,2,AI/ML,Consulting,Not Placed,average,good,average,average
+1,Tier 3,UK,100-300,1,Core CS,Tech,Placed,good,good,poor,poor
+0,Tier 3,UK,100-300,1,Core CS,Other,Placed,average,good,good,good
+1,Tier 2,Canada,300+,2,AI/ML,Manufacturing,Not Placed,good,poor,good,poor
+1,Tier 1,Germany,Top 100,1,AI/ML,Healthcare,Placed,good,average,good,average
+1,Tier 2,Germany,300+,1,Data Science,Healthcare,Placed,good,excellent,average,poor
+2,Tier 1,USA,300+,4,Cybersecurity,Healthcare,Placed,average,good,good,good
+0,Tier 3,India,Top 100,1,AI/ML,Healthcare,Placed,good,excellent,good,poor
+0,Tier 3,UK,300+,2,Cloud,Manufacturing,Placed,average,good,average,poor
+0,Tier 2,Germany,100-300,1,Cybersecurity,Finance,Placed,good,good,average,average
+0,Tier 2,Germany,Top 100,3,AI/ML,Finance,Placed,good,excellent,good,average
+2,Tier 3,India,100-300,3,AI/ML,Other,Placed,good,good,average,poor
+1,Tier 3,India,300+,3,AI/ML,Finance,Not Placed,average,good,average,poor
+1,Tier 1,USA,300+,2,Cloud,Other,Not Placed,good,poor,good,poor
+0,Tier 3,USA,300+,1,Cloud,Healthcare,Placed,good,average,average,poor
+0,Tier 2,Canada,100-300,3,Core CS,Tech,Placed,good,excellent,excellent,poor
+0,Tier 2,Germany,100-300,2,Core CS,Other,Placed,average,average,good,poor
+2,Tier 3,Germany,Top 100,1,Core CS,Consulting,Not Placed,average,average,poor,average
+2,Tier 2,Canada,100-300,0,Data Science,Healthcare,Not Placed,good,good,good,poor
+2,Tier 2,Germany,100-300,0,AI/ML,Finance,Placed,good,average,good,poor
+1,Tier 1,UK,Top 100,3,Core CS,Other,Placed,good,good,average,average
+0,Tier 2,Canada,100-300,3,Cloud,Tech,Placed,average,good,excellent,poor
+2,Tier 2,India,100-300,1,AI/ML,Consulting,Not Placed,average,average,excellent,poor
+1,Tier 3,UK,300+,1,Data Science,Healthcare,Placed,average,average,poor,poor
+2,Tier 2,USA,300+,3,Core CS,Other,Placed,good,good,excellent,poor
+1,Tier 2,Germany,100-300,2,Cloud,Healthcare,Placed,average,excellent,good,poor
+1,Tier 2,USA,Top 100,4,Cloud,Consulting,Placed,good,good,average,average
+1,Tier 2,UK,300+,3,Data Science,Consulting,Placed,good,poor,average,average
+1,Tier 1,Canada,300+,0,AI/ML,Finance,Not Placed,average,average,average,average
+3,Tier 2,India,300+,0,Data Science,Consulting,Not Placed,average,good,good,poor
+1,Tier 2,India,300+,3,Data Science,Tech,Placed,average,good,average,poor
+2,Tier 1,Germany,300+,1,Cybersecurity,Other,Not Placed,good,average,average,poor
+1,Tier 1,USA,Top 100,2,Cloud,Other,Placed,average,good,average,poor
+3,Tier 2,Canada,100-300,0,Core CS,Finance,Not Placed,average,poor,good,poor
+0,Tier 3,Germany,Top 100,1,AI/ML,Other,Placed,average,good,poor,poor
+1,Tier 2,USA,100-300,1,Data Science,Healthcare,Not Placed,average,poor,average,poor
+0,Tier 3,Germany,Top 100,0,Cloud,Manufacturing,Placed,average,excellent,poor,average
+0,Tier 2,UK,300+,1,Data Science,Tech,Placed,good,good,average,average
+1,Tier 3,Canada,300+,1,Cloud,Manufacturing,Not Placed,average,good,average,poor
+1,Tier 1,USA,300+,2,Cloud,Manufacturing,Not Placed,average,excellent,excellent,average
+2,Tier 3,USA,Top 100,3,Data Science,Manufacturing,Placed,good,good,average,poor
+0,Tier 1,UK,Top 100,2,Cloud,Consulting,Not Placed,average,average,good,poor
+2,Tier 3,UK,Top 100,1,AI/ML,Tech,Not Placed,good,excellent,good,poor
+0,Tier 3,USA,300+,2,Cloud,Healthcare,Placed,average,good,good,poor
+0,Tier 3,USA,100-300,2,AI/ML,Healthcare,Placed,average,excellent,excellent,poor
+2,Tier 1,UK,300+,0,Cloud,Consulting,Not Placed,average,excellent,poor,poor
+1,Tier 1,India,100-300,3,Cybersecurity,Consulting,Placed,good,excellent,average,average
+1,Tier 2,UK,100-300,3,AI/ML,Healthcare,Placed,average,average,good,poor
+1,Tier 2,Canada,100-300,4,Cloud,Manufacturing,Placed,good,excellent,poor,poor
+2,Tier 2,Canada,300+,2,AI/ML,Healthcare,Placed,good,good,excellent,poor
+0,Tier 2,India,100-300,2,Data Science,Tech,Placed,good,poor,good,average
+2,Tier 1,Germany,100-300,2,Core CS,Tech,Placed,average,good,good,average
+2,Tier 2,UK,Top 100,5,Cloud,Other,Placed,good,average,average,average
+2,Tier 1,USA,300+,3,AI/ML,Healthcare,Placed,good,excellent,good,poor
+0,Tier 2,USA,Top 100,2,Data Science,Finance,Not Placed,average,excellent,average,average
+3,Tier 1,India,300+,1,Cybersecurity,Healthcare,Placed,average,poor,good,good
+0,Tier 1,USA,300+,4,AI/ML,Manufacturing,Placed,average,average,good,poor
+0,Tier 1,USA,100-300,2,Core CS,Manufacturing,Placed,good,excellent,excellent,average
+0,Tier 3,USA,300+,1,Core CS,Healthcare,Placed,good,average,average,poor
+2,Tier 2,India,Top 100,4,AI/ML,Tech,Placed,poor,excellent,average,poor
+3,Tier 1,Germany,100-300,0,Data Science,Manufacturing,Not Placed,good,good,good,poor
+3,Tier 1,Germany,100-300,0,Cloud,Finance,Not Placed,average,average,excellent,poor
+1,Tier 2,India,Top 100,1,Data Science,Consulting,Placed,average,good,good,poor
+0,Tier 1,Germany,100-300,4,Core CS,Manufacturing,Placed,good,good,excellent,poor
+1,Tier 1,Germany,100-300,2,AI/ML,Manufacturing,Placed,excellent,good,average,good
+2,Tier 1,Germany,300+,2,Cybersecurity,Manufacturing,Placed,good,good,average,average
+1,Tier 3,Canada,100-300,1,Cloud,Consulting,Placed,good,excellent,average,average
+2,Tier 2,USA,300+,0,Core CS,Consulting,Not Placed,average,average,average,poor
+0,Tier 3,Germany,300+,4,AI/ML,Other,Placed,average,excellent,excellent,average
+3,Tier 2,India,Top 100,4,Data Science,Tech,Not Placed,average,average,average,poor
+0,Tier 3,Germany,Top 100,2,AI/ML,Manufacturing,Placed,good,good,poor,poor
+1,Tier 3,USA,300+,4,Cloud,Other,Not Placed,average,excellent,poor,poor
+0,Tier 3,India,Top 100,1,Core CS,Other,Placed,good,good,poor,poor
+3,Tier 2,USA,100-300,1,Cybersecurity,Finance,Not Placed,good,good,good,average
+2,Tier 3,USA,300+,1,Core CS,Healthcare,Not Placed,average,good,excellent,poor
+1,Tier 1,USA,100-300,2,Core CS,Manufacturing,Placed,average,excellent,good,poor
+1,Tier 1,USA,100-300,0,Cybersecurity,Healthcare,Not Placed,good,average,average,average
+2,Tier 2,USA,100-300,1,AI/ML,Manufacturing,Not Placed,average,excellent,good,average
+3,Tier 2,Germany,300+,1,Cloud,Other,Not Placed,good,good,excellent,poor
+0,Tier 3,Canada,100-300,1,AI/ML,Finance,Placed,good,excellent,excellent,average
+1,Tier 2,USA,300+,3,Cybersecurity,Finance,Placed,good,average,average,average
+0,Tier 3,USA,100-300,2,Data Science,Manufacturing,Placed,good,excellent,excellent,average
+3,Tier 1,UK,300+,4,Core CS,Other,Not Placed,average,good,average,poor
+2,Tier 2,Germany,100-300,2,Data Science,Other,Placed,good,good,average,average
+2,Tier 2,UK,100-300,0,Cybersecurity,Consulting,Not Placed,good,average,average,average
+2,Tier 3,India,100-300,1,Cloud,Manufacturing,Placed,average,good,poor,average
+0,Tier 2,UK,300+,1,AI/ML,Healthcare,Placed,good,excellent,average,poor
+4,Tier 3,UK,Top 100,1,Data Science,Healthcare,Placed,good,good,poor,average
+3,Tier 1,India,Top 100,1,AI/ML,Consulting,Not Placed,average,poor,good,poor
+0,Tier 3,Germany,Top 100,0,Data Science,Consulting,Not Placed,average,average,average,poor
+3,Tier 3,Germany,300+,1,Core CS,Manufacturing,Not Placed,average,excellent,good,poor
+2,Tier 3,UK,100-300,1,Cybersecurity,Healthcare,Not Placed,good,poor,good,poor
+0,Tier 3,India,300+,1,Data Science,Manufacturing,Not Placed,good,poor,average,average
+3,Tier 3,Germany,100-300,0,Cybersecurity,Finance,Not Placed,average,good,good,poor
+0,Tier 3,USA,300+,1,Cybersecurity,Healthcare,Not Placed,average,excellent,good,poor
+1,Tier 1,Canada,100-300,2,Cloud,Tech,Placed,average,good,average,poor
+2,Tier 2,Germany,300+,1,AI/ML,Other,Placed,average,good,good,average
+0,Tier 1,USA,Top 100,0,AI/ML,Other,Placed,good,poor,excellent,poor
+1,Tier 1,Germany,100-300,1,Cloud,Healthcare,Placed,good,good,good,poor
+1,Tier 1,USA,300+,1,AI/ML,Healthcare,Placed,good,good,good,good
+4,Tier 2,India,300+,1,Cybersecurity,Manufacturing,Not Placed,average,average,poor,average
+1,Tier 1,UK,100-300,1,AI/ML,Manufacturing,Not Placed,average,good,average,poor
+0,Tier 1,UK,100-300,0,Cybersecurity,Tech,Placed,good,poor,excellent,average
+1,Tier 3,UK,100-300,0,AI/ML,Manufacturing,Placed,good,poor,average,poor
+0,Tier 2,UK,Top 100,4,Core CS,Manufacturing,Placed,good,excellent,average,poor
+3,Tier 3,Canada,100-300,1,Cloud,Finance,Not Placed,average,average,average,poor
+0,Tier 3,Germany,100-300,1,Cloud,Healthcare,Not Placed,good,average,average,good
+0,Tier 1,Canada,300+,1,Core CS,Consulting,Placed,good,average,poor,poor
+1,Tier 1,Canada,300+,2,Data Science,Tech,Placed,average,good,excellent,poor
+1,Tier 2,Canada,300+,1,Data Science,Finance,Not Placed,good,average,poor,poor
+3,Tier 3,India,Top 100,0,Core CS,Healthcare,Placed,average,good,good,average
+1,Tier 2,India,100-300,3,Data Science,Healthcare,Placed,average,excellent,average,poor
+1,Tier 3,USA,100-300,1,Data Science,Healthcare,Placed,average,excellent,average,poor
+0,Tier 2,Germany,100-300,2,Cloud,Consulting,Placed,good,good,poor,poor
+1,Tier 2,India,100-300,2,Core CS,Manufacturing,Not Placed,average,average,excellent,average
+1,Tier 2,USA,Top 100,3,AI/ML,Other,Placed,average,average,excellent,poor
+2,Tier 2,India,300+,0,Core CS,Other,Not Placed,good,good,good,poor
+0,Tier 1,UK,300+,3,Data Science,Manufacturing,Placed,good,average,good,average
+2,Tier 2,India,300+,1,AI/ML,Tech,Placed,good,average,excellent,poor
+0,Tier 2,USA,Top 100,0,AI/ML,Tech,Placed,good,good,good,average
+2,Tier 1,UK,100-300,1,Core CS,Tech,Placed,average,good,good,average
+3,Tier 3,Canada,300+,0,Core CS,Finance,Not Placed,average,average,good,poor
+1,Tier 2,India,300+,2,Data Science,Other,Placed,good,excellent,excellent,average
+3,Tier 1,Germany,300+,3,Cloud,Finance,Placed,average,average,good,average
+2,Tier 3,Canada,300+,1,Core CS,Consulting,Not Placed,average,excellent,average,average
+1,Tier 1,UK,100-300,2,AI/ML,Manufacturing,Placed,average,average,good,average
+2,Tier 3,UK,300+,1,Cloud,Tech,Not Placed,good,excellent,poor,poor
+1,Tier 2,Germany,100-300,5,Cloud,Other,Placed,good,good,good,average
+2,Tier 1,India,300+,0,Cybersecurity,Tech,Placed,excellent,good,good,poor
+1,Tier 2,USA,Top 100,1,Cybersecurity,Consulting,Placed,average,good,good,average
+1,Tier 1,India,Top 100,0,Core CS,Other,Not Placed,good,poor,average,average
+2,Tier 1,India,300+,2,Core CS,Finance,Not Placed,average,average,good,poor
+1,Tier 3,India,300+,1,Data Science,Other,Not Placed,average,good,average,poor
+0,Tier 2,USA,100-300,2,Data Science,Healthcare,Not Placed,good,average,average,poor
+2,Tier 2,Germany,100-300,0,AI/ML,Consulting,Placed,good,excellent,good,average
+0,Tier 2,Germany,300+,3,Cloud,Finance,Placed,average,average,excellent,average
+4,Tier 2,UK,Top 100,2,Core CS,Healthcare,Placed,average,excellent,good,poor
+1,Tier 1,Canada,300+,3,AI/ML,Finance,Placed,good,good,excellent,poor
+0,Tier 2,Germany,100-300,1,Cloud,Tech,Placed,excellent,good,poor,good
+2,Tier 3,USA,100-300,0,AI/ML,Manufacturing,Not Placed,average,good,excellent,average
+2,Tier 2,India,100-300,1,Core CS,Healthcare,Not Placed,average,excellent,poor,poor
+3,Tier 3,USA,Top 100,2,Data Science,Finance,Not Placed,average,excellent,poor,poor
+0,Tier 2,UK,100-300,1,Data Science,Healthcare,Placed,good,poor,average,poor
+4,Tier 3,Germany,100-300,3,Data Science,Other,Not Placed,poor,average,average,poor
+1,Tier 2,UK,300+,4,Data Science,Manufacturing,Placed,good,good,excellent,average
+1,Tier 2,Germany,Top 100,2,AI/ML,Other,Placed,good,average,excellent,average
+0,Tier 3,UK,300+,2,Data Science,Consulting,Not Placed,good,good,average,poor
+0,Tier 2,USA,300+,3,Data Science,Tech,Not Placed,good,excellent,good,poor
+2,Tier 1,UK,Top 100,0,Cloud,Other,Not Placed,good,good,good,poor
+0,Tier 2,UK,Top 100,1,Cloud,Other,Placed,good,good,good,poor
+0,Tier 2,USA,100-300,1,Data Science,Other,Not Placed,good,excellent,poor,poor
+1,Tier 1,Germany,300+,0,AI/ML,Other,Not Placed,average,poor,average,average
+5,Tier 3,India,300+,0,Cybersecurity,Healthcare,Not Placed,good,excellent,good,poor
+1,Tier 1,Germany,100-300,1,Data Science,Finance,Not Placed,average,average,average,poor
+3,Tier 3,Germany,Top 100,2,Data Science,Other,Not Placed,average,poor,excellent,poor
+0,Tier 1,India,100-300,2,Cybersecurity,Tech,Placed,good,good,excellent,poor
+5,Tier 2,Germany,300+,2,Data Science,Tech,Not Placed,good,poor,poor,poor
+1,Tier 3,Germany,300+,2,Core CS,Other,Placed,average,excellent,excellent,poor
+1,Tier 2,USA,100-300,1,Core CS,Manufacturing,Not Placed,average,excellent,good,poor
+3,Tier 3,Germany,300+,0,Cybersecurity,Healthcare,Not Placed,good,good,average,poor
+2,Tier 1,India,100-300,0,Core CS,Tech,Placed,average,good,good,average
+1,Tier 3,USA,300+,3,Cloud,Consulting,Placed,good,average,average,poor
+0,Tier 1,Germany,300+,0,Data Science,Other,Not Placed,average,average,good,poor
+5,Tier 3,USA,100-300,2,Core CS,Other,Not Placed,poor,excellent,average,good
+0,Tier 2,USA,300+,2,Cybersecurity,Other,Placed,average,good,poor,poor
+1,Tier 3,Canada,300+,1,Cloud,Manufacturing,Not Placed,good,excellent,average,poor
+3,Tier 3,USA,300+,0,Core CS,Manufacturing,Placed,average,poor,average,average
+1,Tier 2,UK,300+,1,AI/ML,Other,Placed,good,good,average,poor
+1,Tier 2,UK,100-300,1,Cloud,Tech,Placed,good,poor,average,poor
+0,Tier 3,Germany,100-300,2,AI/ML,Manufacturing,Placed,excellent,excellent,average,average
+1,Tier 3,Germany,100-300,3,Data Science,Other,Placed,good,good,good,poor
+0,Tier 2,Germany,300+,1,AI/ML,Finance,Not Placed,good,good,good,poor
+0,Tier 1,Canada,100-300,1,AI/ML,Tech,Placed,average,good,excellent,good
+2,Tier 3,UK,100-300,2,Cybersecurity,Healthcare,Not Placed,average,poor,excellent,poor
+2,Tier 3,USA,100-300,1,Cybersecurity,Other,Placed,good,excellent,average,poor
+1,Tier 3,USA,300+,0,Core CS,Healthcare,Placed,average,excellent,good,poor
+1,Tier 3,Canada,300+,2,Cloud,Other,Placed,good,average,poor,poor
+1,Tier 1,India,300+,0,Cloud,Healthcare,Placed,good,good,good,poor
+0,Tier 3,Canada,100-300,0,AI/ML,Tech,Placed,good,good,good,good
+1,Tier 2,Germany,300+,2,Cloud,Tech,Not Placed,average,good,average,poor
+0,Tier 1,Germany,300+,1,Data Science,Finance,Placed,good,excellent,poor,average
+1,Tier 3,USA,Top 100,1,Data Science,Healthcare,Placed,good,average,average,poor
+3,Tier 3,Canada,100-300,1,Cloud,Healthcare,Not Placed,poor,average,poor,good
+0,Tier 2,Canada,100-300,1,Data Science,Consulting,Placed,good,excellent,average,average
+0,Tier 1,Canada,100-300,0,Core CS,Tech,Placed,average,poor,average,poor
+2,Tier 1,Canada,300+,1,Core CS,Healthcare,Placed,average,good,excellent,average
+1,Tier 2,Canada,100-300,4,Data Science,Healthcare,Placed,average,good,good,poor
+3,Tier 1,USA,300+,3,AI/ML,Healthcare,Not Placed,average,good,average,poor
+0,Tier 2,India,Top 100,1,Core CS,Finance,Placed,average,poor,average,poor
+1,Tier 2,Germany,300+,1,AI/ML,Manufacturing,Placed,good,excellent,average,poor
+1,Tier 2,India,300+,3,Cybersecurity,Tech,Placed,good,excellent,average,poor
+2,Tier 1,Canada,100-300,3,Cloud,Healthcare,Placed,good,average,good,excellent
+1,Tier 3,UK,300+,2,AI/ML,Finance,Not Placed,good,excellent,poor,average
+3,Tier 2,UK,100-300,0,Cybersecurity,Tech,Not Placed,good,good,poor,good
+1,Tier 1,UK,300+,1,Cloud,Healthcare,Placed,good,excellent,average,poor
+3,Tier 3,UK,300+,0,Cybersecurity,Consulting,Not Placed,good,excellent,poor,poor
+2,Tier 1,Canada,Top 100,2,Cloud,Manufacturing,Placed,average,average,average,poor
+0,Tier 2,Canada,Top 100,2,Core CS,Tech,Placed,average,average,average,poor
+4,Tier 1,Germany,100-300,1,Data Science,Manufacturing,Not Placed,average,good,good,poor
+0,Tier 2,Canada,Top 100,2,AI/ML,Healthcare,Placed,good,poor,excellent,poor
+0,Tier 1,UK,100-300,3,Core CS,Other,Placed,good,average,good,poor
+3,Tier 2,UK,100-300,0,Data Science,Other,Not Placed,average,good,good,poor
+1,Tier 1,USA,100-300,1,Data Science,Consulting,Not Placed,good,good,excellent,poor
+2,Tier 2,USA,300+,2,AI/ML,Other,Not Placed,good,good,average,poor
+0,Tier 2,UK,300+,0,Data Science,Consulting,Not Placed,good,good,good,poor
+1,Tier 3,Canada,100-300,1,Data Science,Tech,Not Placed,poor,good,good,poor
+2,Tier 2,USA,300+,3,Core CS,Manufacturing,Not Placed,average,excellent,good,poor
+0,Tier 2,Germany,Top 100,2,Data Science,Tech,Placed,good,excellent,good,poor
+0,Tier 2,USA,100-300,4,Cybersecurity,Manufacturing,Placed,good,average,average,poor
+3,Tier 1,USA,Top 100,1,Core CS,Manufacturing,Not Placed,good,excellent,average,poor
+1,Tier 2,USA,300+,2,Core CS,Healthcare,Placed,average,average,good,average
+2,Tier 2,India,100-300,2,AI/ML,Tech,Not Placed,good,excellent,average,poor
+1,Tier 1,India,100-300,1,AI/ML,Healthcare,Placed,average,good,average,good
+1,Tier 3,Canada,300+,1,Cloud,Other,Not Placed,average,good,good,poor
+2,Tier 1,India,300+,1,Cybersecurity,Finance,Placed,average,average,good,good
+0,Tier 1,UK,300+,3,Core CS,Finance,Placed,average,excellent,average,average
+1,Tier 1,India,300+,2,Data Science,Tech,Placed,good,average,excellent,poor
+0,Tier 1,USA,100-300,2,Core CS,Manufacturing,Placed,good,excellent,average,poor
+0,Tier 2,Germany,Top 100,0,Cybersecurity,Other,Placed,average,good,good,average
+0,Tier 2,Canada,300+,1,Data Science,Tech,Not Placed,average,average,average,average
+3,Tier 2,UK,100-300,2,Data Science,Other,Not Placed,average,excellent,good,poor
+0,Tier 2,Germany,300+,0,Core CS,Tech,Not Placed,good,excellent,poor,poor
+0,Tier 3,Canada,300+,1,Core CS,Healthcare,Placed,good,good,poor,good
+1,Tier 2,India,100-300,3,Data Science,Finance,Placed,good,average,excellent,average
+2,Tier 2,India,100-300,1,AI/ML,Consulting,Placed,average,good,excellent,average
+0,Tier 2,USA,300+,0,Core CS,Tech,Placed,good,excellent,good,poor
+1,Tier 2,USA,300+,0,Core CS,Finance,Placed,average,good,good,poor
+0,Tier 3,USA,300+,2,Cybersecurity,Consulting,Placed,average,excellent,poor,poor
+1,Tier 3,USA,Top 100,0,AI/ML,Healthcare,Placed,good,average,poor,excellent
+1,Tier 1,Canada,100-300,0,Cybersecurity,Finance,Not Placed,average,good,average,poor
+2,Tier 3,UK,300+,1,AI/ML,Finance,Placed,good,average,average,good
+2,Tier 3,UK,300+,0,Data Science,Other,Placed,good,poor,average,good
+3,Tier 1,India,100-300,0,Data Science,Healthcare,Not Placed,good,good,average,poor
+1,Tier 2,UK,300+,2,AI/ML,Healthcare,Placed,average,good,excellent,poor
+0,Tier 3,UK,Top 100,1,AI/ML,Manufacturing,Placed,average,excellent,average,poor
+3,Tier 2,USA,300+,3,Core CS,Tech,Placed,good,average,excellent,poor
+1,Tier 3,India,300+,3,AI/ML,Consulting,Placed,good,average,average,average
+1,Tier 2,Canada,100-300,1,Data Science,Other,Placed,average,excellent,good,poor
+0,Tier 2,Canada,300+,1,AI/ML,Manufacturing,Not Placed,average,good,average,average
+2,Tier 3,UK,300+,2,Cloud,Healthcare,Not Placed,good,average,good,poor
+4,Tier 3,India,100-300,1,AI/ML,Manufacturing,Placed,average,excellent,excellent,poor
+1,Tier 2,Germany,300+,5,AI/ML,Consulting,Placed,average,excellent,poor,poor
+1,Tier 3,USA,300+,5,Cloud,Finance,Placed,average,excellent,average,poor
+0,Tier 1,USA,300+,1,AI/ML,Other,Placed,good,average,good,poor
+2,Tier 2,UK,Top 100,2,Cybersecurity,Finance,Placed,good,good,average,poor
+1,Tier 1,Canada,300+,1,Cybersecurity,Finance,Placed,average,good,average,good
+0,Tier 2,UK,Top 100,2,Cybersecurity,Other,Placed,good,good,good,poor
+4,Tier 3,USA,300+,1,Data Science,Tech,Not Placed,average,excellent,good,average
+0,Tier 3,UK,100-300,0,AI/ML,Manufacturing,Placed,good,average,good,average
+0,Tier 2,UK,100-300,0,Data Science,Other,Placed,average,good,poor,poor
+1,Tier 2,UK,100-300,2,Cloud,Finance,Placed,good,excellent,poor,good
+0,Tier 2,Canada,Top 100,3,Data Science,Consulting,Placed,good,average,average,good
+1,Tier 2,UK,Top 100,3,Core CS,Consulting,Placed,good,good,average,average
+3,Tier 2,USA,300+,0,AI/ML,Healthcare,Placed,good,excellent,good,average
+0,Tier 1,USA,Top 100,1,Cloud,Manufacturing,Placed,average,average,average,poor
+1,Tier 1,India,100-300,2,Core CS,Tech,Placed,good,good,excellent,average
+0,Tier 1,USA,100-300,2,Data Science,Tech,Placed,average,average,average,average
+2,Tier 2,USA,100-300,2,AI/ML,Manufacturing,Placed,good,good,excellent,poor
+2,Tier 1,India,300+,2,Core CS,Manufacturing,Not Placed,average,good,average,average
+1,Tier 2,India,300+,1,AI/ML,Manufacturing,Not Placed,average,good,excellent,poor
+1,Tier 2,India,300+,2,Cybersecurity,Tech,Not Placed,average,excellent,excellent,poor
+1,Tier 3,Canada,Top 100,3,Cybersecurity,Finance,Placed,good,average,excellent,good
+0,Tier 3,Canada,300+,5,Core CS,Finance,Placed,average,poor,average,poor
+2,Tier 2,Canada,100-300,2,Cybersecurity,Manufacturing,Not Placed,good,average,good,poor
+0,Tier 2,USA,Top 100,1,Data Science,Finance,Placed,average,average,average,good
+4,Tier 3,Germany,Top 100,1,Cybersecurity,Tech,Not Placed,average,excellent,good,poor
+4,Tier 2,UK,Top 100,0,AI/ML,Manufacturing,Not Placed,good,poor,good,poor
+1,Tier 3,UK,100-300,2,Cloud,Other,Placed,good,poor,poor,poor
+1,Tier 2,UK,Top 100,4,Cloud,Healthcare,Placed,good,good,poor,average
+1,Tier 3,USA,100-300,1,AI/ML,Manufacturing,Not Placed,average,excellent,good,average
+2,Tier 2,USA,300+,4,AI/ML,Tech,Placed,good,excellent,poor,average
+0,Tier 1,Canada,100-300,4,Core CS,Finance,Placed,average,poor,poor,average
+0,Tier 1,Germany,100-300,0,Cloud,Consulting,Not Placed,good,good,average,average
+1,Tier 1,USA,300+,0,AI/ML,Healthcare,Not Placed,average,good,good,good
+1,Tier 2,India,100-300,1,Data Science,Other,Placed,good,average,excellent,average
+2,Tier 2,Germany,300+,0,Cloud,Healthcare,Not Placed,average,excellent,good,poor
+2,Tier 1,India,100-300,1,Cloud,Tech,Not Placed,good,good,good,poor
+0,Tier 3,Germany,100-300,2,Core CS,Healthcare,Placed,good,poor,good,poor
+1,Tier 3,USA,300+,1,Data Science,Finance,Not Placed,good,excellent,poor,poor
+1,Tier 2,Germany,300+,4,Core CS,Manufacturing,Placed,good,average,good,poor
+1,Tier 3,USA,300+,2,Cloud,Other,Placed,good,excellent,poor,average
+0,Tier 2,Germany,Top 100,3,Core CS,Finance,Placed,good,average,average,average
+1,Tier 2,UK,100-300,3,AI/ML,Tech,Not Placed,average,poor,good,poor
+1,Tier 2,UK,100-300,3,Cloud,Manufacturing,Placed,good,good,good,poor
+1,Tier 3,USA,300+,2,Core CS,Other,Placed,good,average,good,good
+0,Tier 3,Germany,300+,0,Data Science,Tech,Placed,average,good,average,good
+0,Tier 2,India,100-300,2,Core CS,Finance,Placed,average,good,excellent,poor
+1,Tier 2,Canada,300+,1,Core CS,Finance,Placed,good,good,poor,average
+0,Tier 2,Canada,300+,2,Core CS,Tech,Placed,good,good,average,average
+3,Tier 3,USA,100-300,1,Data Science,Tech,Not Placed,average,good,good,poor
+1,Tier 2,Germany,300+,3,Core CS,Tech,Placed,good,average,good,average
+1,Tier 3,Canada,Top 100,0,Cloud,Healthcare,Placed,good,good,average,poor
+0,Tier 3,UK,300+,2,Data Science,Tech,Not Placed,average,average,good,average
+1,Tier 3,USA,300+,2,Core CS,Finance,Not Placed,average,good,poor,good
+0,Tier 1,Germany,100-300,2,Data Science,Manufacturing,Placed,good,excellent,poor,poor
+1,Tier 3,Canada,100-300,3,Cloud,Finance,Placed,average,good,average,average
+1,Tier 2,USA,100-300,1,Cybersecurity,Healthcare,Placed,average,excellent,average,poor
+1,Tier 2,UK,Top 100,0,Core CS,Consulting,Placed,average,average,good,poor
+4,Tier 3,India,Top 100,1,Data Science,Healthcare,Placed,average,excellent,good,poor
+0,Tier 3,India,100-300,2,Data Science,Healthcare,Placed,average,average,average,poor
+2,Tier 2,India,Top 100,3,Core CS,Other,Not Placed,average,average,average,poor
+1,Tier 1,Germany,100-300,4,Core CS,Consulting,Placed,good,average,good,average
+0,Tier 3,USA,Top 100,2,Data Science,Consulting,Placed,good,excellent,good,average
+1,Tier 3,USA,100-300,2,Cybersecurity,Other,Placed,good,excellent,excellent,poor
+1,Tier 2,Canada,100-300,3,AI/ML,Manufacturing,Placed,good,poor,excellent,poor
+1,Tier 2,India,300+,2,Core CS,Manufacturing,Placed,average,excellent,average,good
+1,Tier 3,Canada,100-300,4,Data Science,Tech,Placed,average,excellent,average,poor
+2,Tier 3,India,300+,0,AI/ML,Manufacturing,Not Placed,average,good,good,poor
+0,Tier 3,India,100-300,3,AI/ML,Manufacturing,Placed,average,good,average,average
+3,Tier 1,India,100-300,0,AI/ML,Other,Not Placed,good,excellent,poor,average
+0,Tier 1,UK,100-300,1,Core CS,Manufacturing,Placed,good,good,good,poor
+2,Tier 3,Canada,100-300,1,AI/ML,Tech,Not Placed,average,excellent,good,poor
+2,Tier 2,Germany,100-300,2,Core CS,Manufacturing,Not Placed,poor,good,average,average
+2,Tier 3,Canada,100-300,2,Cloud,Other,Placed,good,excellent,average,poor
+0,Tier 2,USA,Top 100,1,Data Science,Consulting,Placed,good,average,good,poor
+0,Tier 2,Canada,Top 100,1,Cloud,Manufacturing,Placed,average,average,good,average
+0,Tier 3,UK,Top 100,2,Core CS,Manufacturing,Not Placed,good,average,average,average
+0,Tier 2,India,100-300,1,AI/ML,Healthcare,Placed,average,excellent,average,poor
+0,Tier 3,Canada,Top 100,2,AI/ML,Consulting,Placed,average,poor,good,average
+1,Tier 3,India,300+,1,Core CS,Tech,Placed,good,excellent,good,average
+0,Tier 1,Canada,300+,0,AI/ML,Tech,Not Placed,average,average,average,poor
+2,Tier 1,India,100-300,2,Cybersecurity,Healthcare,Not Placed,poor,average,average,poor
+0,Tier 2,UK,Top 100,0,AI/ML,Other,Not Placed,good,excellent,good,average
+0,Tier 2,Canada,100-300,0,Core CS,Consulting,Placed,good,excellent,average,poor
+0,Tier 2,India,100-300,0,Cloud,Other,Placed,good,excellent,good,poor
+0,Tier 2,India,100-300,2,Data Science,Manufacturing,Placed,good,excellent,good,poor
+0,Tier 2,Germany,Top 100,2,Data Science,Tech,Placed,average,average,good,poor
+3,Tier 2,India,Top 100,0,AI/ML,Manufacturing,Placed,good,good,excellent,good
+0,Tier 2,Germany,300+,1,Core CS,Finance,Placed,good,good,average,poor
+6,Tier 2,Canada,Top 100,1,Data Science,Other,Not Placed,average,average,excellent,poor
+1,Tier 3,USA,100-300,1,Cloud,Other,Placed,average,good,good,good
+1,Tier 3,USA,300+,3,Data Science,Finance,Placed,average,average,excellent,poor
+1,Tier 1,UK,300+,1,Cybersecurity,Healthcare,Placed,average,average,excellent,poor
+2,Tier 3,Germany,Top 100,1,Data Science,Finance,Placed,good,good,good,average
+1,Tier 2,Germany,100-300,0,AI/ML,Healthcare,Not Placed,good,excellent,good,good
+1,Tier 1,Germany,300+,1,Cloud,Manufacturing,Not Placed,average,average,excellent,average
+0,Tier 2,Canada,300+,5,Data Science,Other,Placed,good,good,average,average
+0,Tier 1,Canada,100-300,2,Cybersecurity,Manufacturing,Placed,good,average,excellent,poor
+0,Tier 1,Canada,100-300,2,AI/ML,Tech,Placed,good,good,average,poor
+1,Tier 2,Canada,Top 100,1,Cloud,Consulting,Not Placed,average,good,good,poor
+1,Tier 3,Canada,300+,0,AI/ML,Tech,Not Placed,good,poor,average,poor
+2,Tier 1,Germany,300+,0,Cybersecurity,Healthcare,Placed,average,good,good,poor
+1,Tier 3,Canada,Top 100,0,Cloud,Manufacturing,Placed,good,good,good,poor
+1,Tier 3,UK,300+,2,Core CS,Consulting,Placed,average,poor,average,poor
+1,Tier 1,UK,100-300,3,Cloud,Finance,Placed,good,excellent,average,poor
+1,Tier 1,Germany,100-300,3,Core CS,Finance,Placed,average,poor,good,poor
+0,Tier 2,UK,100-300,2,Core CS,Manufacturing,Not Placed,good,good,good,good
+0,Tier 3,Germany,300+,1,AI/ML,Tech,Placed,good,good,good,average
+1,Tier 2,UK,Top 100,3,Core CS,Consulting,Placed,good,average,poor,poor
+3,Tier 2,USA,100-300,2,Data Science,Consulting,Placed,average,excellent,good,good
+2,Tier 2,India,100-300,0,Cloud,Tech,Not Placed,poor,excellent,good,poor
+2,Tier 3,Germany,Top 100,2,Core CS,Other,Not Placed,average,average,average,average
+0,Tier 3,Germany,300+,2,Core CS,Healthcare,Not Placed,average,good,poor,average
+3,Tier 2,Canada,300+,0,Core CS,Manufacturing,Not Placed,average,excellent,good,poor
+0,Tier 1,Canada,Top 100,2,Cloud,Tech,Placed,good,average,poor,good
+0,Tier 2,UK,100-300,0,AI/ML,Other,Placed,average,excellent,good,average
+1,Tier 1,Germany,300+,0,AI/ML,Finance,Placed,good,good,excellent,average
+1,Tier 3,UK,Top 100,3,Core CS,Other,Placed,good,excellent,excellent,good
+3,Tier 2,Germany,100-300,1,Cloud,Other,Not Placed,good,good,good,good
+0,Tier 2,USA,300+,1,Cybersecurity,Tech,Placed,good,good,excellent,poor
+3,Tier 2,UK,300+,1,Cloud,Other,Not Placed,average,excellent,excellent,poor
+3,Tier 3,USA,100-300,3,Cloud,Healthcare,Placed,good,good,good,average
+1,Tier 2,USA,Top 100,0,AI/ML,Tech,Placed,average,poor,average,poor
+0,Tier 3,Canada,Top 100,1,Core CS,Manufacturing,Placed,average,excellent,average,poor
+0,Tier 2,USA,100-300,1,Data Science,Consulting,Placed,good,excellent,good,average
+0,Tier 3,USA,100-300,0,Data Science,Consulting,Placed,good,good,poor,average
+1,Tier 1,USA,Top 100,1,Data Science,Healthcare,Not Placed,good,average,average,poor
+3,Tier 1,USA,300+,1,Cloud,Healthcare,Placed,average,excellent,good,average
+2,Tier 1,UK,100-300,0,Core CS,Other,Not Placed,poor,excellent,good,poor
+1,Tier 2,Germany,300+,2,Data Science,Consulting,Not Placed,good,good,poor,poor
+4,Tier 3,Germany,Top 100,2,Data Science,Healthcare,Not Placed,average,average,poor,poor
+1,Tier 2,Germany,300+,1,Data Science,Finance,Placed,good,average,average,poor
+1,Tier 2,Canada,300+,1,Core CS,Healthcare,Not Placed,average,good,excellent,average
+1,Tier 1,USA,100-300,2,Data Science,Healthcare,Placed,average,average,average,poor
+0,Tier 2,India,100-300,0,Cloud,Healthcare,Placed,good,good,average,average
+0,Tier 2,UK,Top 100,2,Core CS,Healthcare,Placed,good,good,good,good
+1,Tier 1,UK,300+,0,Cybersecurity,Finance,Placed,good,excellent,good,poor
+1,Tier 2,Germany,Top 100,1,Data Science,Other,Not Placed,average,good,poor,poor
+6,Tier 1,Canada,100-300,0,Cloud,Finance,Not Placed,average,average,poor,poor
+1,Tier 1,India,300+,1,Cloud,Other,Not Placed,average,excellent,excellent,poor
+1,Tier 1,Germany,300+,2,AI/ML,Tech,Placed,good,good,good,average
+0,Tier 2,USA,300+,1,Core CS,Manufacturing,Placed,good,good,excellent,poor
+3,Tier 2,Canada,300+,0,Cybersecurity,Other,Not Placed,good,average,average,poor
+2,Tier 2,Canada,100-300,1,Cloud,Consulting,Placed,good,average,average,average
+0,Tier 3,UK,100-300,2,Core CS,Consulting,Placed,good,excellent,excellent,poor
+2,Tier 2,Germany,100-300,3,AI/ML,Healthcare,Placed,average,good,excellent,poor
+0,Tier 3,UK,Top 100,1,AI/ML,Consulting,Placed,good,good,good,good
+0,Tier 1,USA,300+,1,AI/ML,Tech,Placed,good,average,average,poor
+0,Tier 2,Canada,300+,1,Data Science,Manufacturing,Placed,good,excellent,good,poor
+1,Tier 2,Canada,100-300,0,Core CS,Other,Placed,good,excellent,poor,average
+1,Tier 3,USA,300+,3,AI/ML,Tech,Placed,average,excellent,good,poor
+5,Tier 1,USA,100-300,2,Core CS,Other,Not Placed,poor,average,average,average
+1,Tier 2,India,100-300,0,Cloud,Healthcare,Not Placed,poor,poor,excellent,poor
+1,Tier 3,India,100-300,0,Cloud,Other,Placed,average,excellent,good,average
+2,Tier 1,Canada,100-300,2,Data Science,Finance,Placed,good,poor,average,good
+1,Tier 3,Canada,300+,1,Cloud,Consulting,Not Placed,average,excellent,good,poor
+1,Tier 1,Germany,Top 100,2,Cloud,Other,Placed,good,excellent,average,poor
+0,Tier 1,USA,100-300,0,Core CS,Tech,Placed,average,good,good,poor
+0,Tier 1,UK,100-300,3,AI/ML,Healthcare,Placed,average,good,good,average
+1,Tier 3,UK,100-300,1,Core CS,Manufacturing,Not Placed,average,good,good,poor
+0,Tier 2,Canada,300+,2,Core CS,Other,Placed,average,excellent,poor,poor
+2,Tier 3,USA,100-300,0,Cybersecurity,Other,Not Placed,average,good,good,poor
+1,Tier 3,UK,300+,1,Core CS,Consulting,Not Placed,average,poor,good,average
+1,Tier 3,India,100-300,1,Cloud,Tech,Placed,average,good,excellent,poor
+1,Tier 2,UK,300+,1,Core CS,Other,Not Placed,good,poor,average,average
+4,Tier 2,India,300+,1,AI/ML,Other,Not Placed,poor,excellent,good,poor
+0,Tier 1,USA,300+,0,Cloud,Manufacturing,Not Placed,good,average,poor,average
+1,Tier 3,UK,100-300,2,Cloud,Tech,Placed,good,average,average,poor
+2,Tier 2,Canada,Top 100,2,AI/ML,Healthcare,Placed,average,excellent,average,poor
+1,Tier 2,Canada,100-300,0,Cloud,Finance,Placed,good,excellent,average,poor
+3,Tier 2,UK,Top 100,1,Cloud,Consulting,Not Placed,average,average,average,poor
+0,Tier 2,India,300+,2,Data Science,Manufacturing,Placed,average,good,average,average
+1,Tier 3,India,300+,4,AI/ML,Manufacturing,Placed,average,good,good,good
+3,Tier 3,Canada,100-300,3,Cloud,Manufacturing,Placed,average,excellent,average,poor
+1,Tier 3,India,300+,1,Cybersecurity,Other,Not Placed,average,average,poor,average
+2,Tier 2,Canada,300+,1,Cybersecurity,Other,Not Placed,good,average,good,average
+0,Tier 3,USA,300+,0,Cloud,Other,Placed,average,excellent,average,poor
+3,Tier 3,Canada,100-300,0,Cybersecurity,Consulting,Not Placed,average,excellent,average,poor
+2,Tier 2,UK,100-300,0,Data Science,Consulting,Not Placed,average,excellent,excellent,poor
+0,Tier 3,Canada,100-300,1,AI/ML,Healthcare,Not Placed,good,poor,good,poor
+0,Tier 1,Germany,300+,1,Cloud,Tech,Placed,good,average,average,poor
+2,Tier 3,India,300+,1,Core CS,Other,Placed,average,good,excellent,poor
+2,Tier 3,Germany,100-300,1,Core CS,Manufacturing,Placed,good,good,average,poor
+0,Tier 3,Canada,100-300,0,Core CS,Consulting,Not Placed,good,average,good,average
+1,Tier 2,India,100-300,3,Data Science,Manufacturing,Placed,average,good,good,average
+2,Tier 1,USA,100-300,0,Core CS,Healthcare,Not Placed,good,good,good,poor
+0,Tier 2,India,100-300,2,AI/ML,Tech,Placed,good,poor,good,poor
+1,Tier 1,Canada,100-300,3,Data Science,Consulting,Placed,average,good,good,poor
+2,Tier 2,India,100-300,0,AI/ML,Healthcare,Not Placed,average,average,good,poor
+1,Tier 2,Germany,300+,3,Core CS,Tech,Placed,good,good,excellent,poor
+1,Tier 1,Germany,100-300,1,Core CS,Tech,Placed,good,excellent,good,poor
+0,Tier 2,UK,100-300,1,Cloud,Manufacturing,Placed,good,excellent,poor,average
+1,Tier 2,Canada,300+,1,Data Science,Manufacturing,Placed,good,excellent,excellent,average
+1,Tier 1,Germany,100-300,4,Data Science,Other,Placed,good,excellent,average,poor
+0,Tier 2,India,300+,2,Core CS,Finance,Placed,average,good,good,average
+0,Tier 2,India,100-300,1,Core CS,Finance,Placed,average,excellent,excellent,average
+3,Tier 3,USA,100-300,1,AI/ML,Tech,Placed,good,good,good,poor
+1,Tier 2,USA,300+,2,AI/ML,Manufacturing,Placed,average,good,average,average
+2,Tier 3,Germany,100-300,1,Data Science,Finance,Not Placed,average,good,good,poor
+0,Tier 1,UK,100-300,3,Cloud,Consulting,Placed,average,excellent,poor,average
+0,Tier 1,USA,300+,1,AI/ML,Healthcare,Placed,average,good,average,poor
+0,Tier 1,Canada,100-300,1,Cybersecurity,Manufacturing,Placed,good,excellent,poor,poor
+2,Tier 1,UK,300+,1,Cybersecurity,Other,Not Placed,good,good,excellent,poor
+3,Tier 1,India,100-300,0,Cybersecurity,Consulting,Not Placed,average,good,poor,poor
+0,Tier 3,Germany,300+,2,AI/ML,Manufacturing,Placed,average,excellent,average,poor
+1,Tier 1,UK,300+,3,Cloud,Other,Placed,average,average,good,good
+4,Tier 3,India,300+,1,Core CS,Manufacturing,Not Placed,average,excellent,average,poor
+3,Tier 3,India,Top 100,3,Cybersecurity,Manufacturing,Placed,good,average,good,poor
+1,Tier 1,USA,100-300,3,AI/ML,Manufacturing,Placed,average,good,average,poor
+0,Tier 2,USA,300+,2,AI/ML,Finance,Placed,good,excellent,poor,average
+0,Tier 3,Canada,Top 100,0,AI/ML,Other,Placed,excellent,excellent,good,poor
+0,Tier 1,UK,Top 100,0,Data Science,Other,Placed,average,good,excellent,poor
+4,Tier 3,Canada,100-300,1,Core CS,Other,Not Placed,average,good,good,poor
+1,Tier 1,UK,300+,1,AI/ML,Manufacturing,Not Placed,average,poor,poor,poor
+1,Tier 1,Germany,100-300,0,Cloud,Finance,Not Placed,poor,average,good,poor
+1,Tier 1,UK,300+,1,Data Science,Consulting,Placed,good,good,poor,poor
+0,Tier 1,Canada,100-300,2,Cybersecurity,Other,Placed,average,excellent,average,poor
+1,Tier 2,USA,300+,2,Cloud,Other,Placed,good,good,poor,poor
+1,Tier 3,India,300+,1,AI/ML,Healthcare,Not Placed,average,excellent,average,poor
+2,Tier 3,UK,300+,3,Core CS,Other,Not Placed,poor,average,average,poor
+2,Tier 2,Canada,100-300,1,Cloud,Consulting,Not Placed,good,average,average,poor
+0,Tier 2,India,Top 100,2,Core CS,Healthcare,Placed,good,average,excellent,poor
+3,Tier 3,UK,300+,3,Cybersecurity,Other,Not Placed,poor,average,poor,average
+1,Tier 2,Canada,100-300,1,Core CS,Other,Placed,good,good,excellent,average
+2,Tier 1,Germany,100-300,1,Data Science,Other,Not Placed,average,poor,average,poor
+1,Tier 2,India,300+,2,AI/ML,Finance,Placed,good,excellent,poor,poor
+1,Tier 3,Germany,300+,3,Cybersecurity,Finance,Placed,average,good,average,poor
+1,Tier 2,UK,100-300,3,Cybersecurity,Tech,Placed,good,poor,poor,average
+1,Tier 1,USA,100-300,3,Cloud,Healthcare,Placed,good,average,average,poor
+0,Tier 1,UK,300+,2,Core CS,Consulting,Placed,good,good,good,poor
+1,Tier 1,Germany,300+,1,Data Science,Consulting,Placed,good,good,average,poor
+2,Tier 2,Germany,300+,2,Data Science,Finance,Placed,average,excellent,poor,poor
+1,Tier 2,UK,300+,2,Data Science,Other,Placed,good,good,average,good
+2,Tier 2,UK,300+,2,Core CS,Other,Placed,average,excellent,good,poor
+1,Tier 1,USA,Top 100,2,AI/ML,Consulting,Placed,average,excellent,poor,poor
+1,Tier 1,Germany,100-300,5,Core CS,Tech,Placed,good,good,average,poor
+0,Tier 2,India,300+,1,Cloud,Tech,Placed,good,average,good,average
+1,Tier 3,USA,300+,1,Core CS,Other,Placed,average,good,good,average
+0,Tier 2,USA,300+,3,Cloud,Finance,Placed,average,poor,excellent,average
+4,Tier 2,UK,Top 100,2,AI/ML,Healthcare,Not Placed,average,excellent,average,poor
+0,Tier 3,Canada,300+,1,Core CS,Healthcare,Placed,good,good,good,good
+4,Tier 2,India,300+,3,Cybersecurity,Healthcare,Not Placed,good,good,average,average
+2,Tier 2,Germany,300+,2,Core CS,Consulting,Placed,good,average,good,poor
+2,Tier 1,USA,Top 100,0,Cloud,Manufacturing,Not Placed,average,excellent,poor,poor
+2,Tier 2,UK,100-300,3,Core CS,Finance,Not Placed,average,average,average,poor
+0,Tier 1,Canada,100-300,2,Data Science,Tech,Placed,good,average,average,poor
+1,Tier 1,USA,100-300,1,Cloud,Consulting,Placed,average,good,average,poor
+0,Tier 3,Germany,100-300,0,AI/ML,Other,Placed,good,good,excellent,poor
+1,Tier 3,Canada,300+,3,AI/ML,Manufacturing,Placed,average,good,excellent,poor
+1,Tier 3,Germany,300+,1,AI/ML,Healthcare,Placed,average,excellent,excellent,poor
+2,Tier 3,UK,100-300,0,AI/ML,Other,Placed,good,excellent,average,poor
+0,Tier 3,UK,Top 100,1,Cybersecurity,Healthcare,Placed,good,average,excellent,poor
+0,Tier 3,India,300+,0,AI/ML,Finance,Not Placed,good,poor,good,average
+0,Tier 2,UK,300+,5,Cybersecurity,Manufacturing,Placed,good,poor,excellent,poor
+1,Tier 3,Germany,100-300,0,AI/ML,Finance,Placed,good,average,average,poor
+3,Tier 2,USA,Top 100,0,Core CS,Other,Not Placed,good,average,good,poor
+1,Tier 2,India,Top 100,2,AI/ML,Other,Placed,average,average,good,good
+1,Tier 3,India,100-300,0,AI/ML,Other,Placed,good,good,excellent,average
+1,Tier 3,UK,100-300,1,Core CS,Other,Placed,good,poor,poor,poor
+0,Tier 3,USA,300+,3,Data Science,Consulting,Placed,good,good,average,average
+2,Tier 2,Germany,300+,0,AI/ML,Healthcare,Placed,average,good,good,poor
+3,Tier 2,Germany,300+,1,AI/ML,Finance,Placed,good,average,average,average
+1,Tier 1,India,Top 100,2,Cloud,Tech,Not Placed,average,poor,average,poor
+0,Tier 3,USA,100-300,1,Core CS,Manufacturing,Placed,good,poor,excellent,average
+2,Tier 2,Germany,Top 100,2,AI/ML,Tech,Placed,average,excellent,excellent,poor
+1,Tier 3,Canada,100-300,1,Cybersecurity,Other,Not Placed,good,average,poor,average
+0,Tier 3,UK,300+,0,Core CS,Other,Placed,good,good,poor,poor
+1,Tier 1,Germany,300+,1,Cloud,Consulting,Not Placed,average,good,average,poor
+3,Tier 1,Germany,100-300,1,Data Science,Tech,Not Placed,average,average,excellent,poor
+1,Tier 3,India,Top 100,2,Cloud,Manufacturing,Placed,good,average,good,average
+0,Tier 3,Germany,300+,1,Cybersecurity,Finance,Placed,good,good,excellent,poor
+1,Tier 1,Canada,Top 100,2,Data Science,Healthcare,Placed,average,good,average,poor
+2,Tier 1,India,300+,0,Core CS,Other,Placed,good,excellent,average,poor
+1,Tier 3,UK,300+,1,Core CS,Finance,Placed,good,excellent,good,poor
+0,Tier 3,Germany,300+,1,Cybersecurity,Finance,Placed,good,good,good,average
+0,Tier 2,USA,300+,1,AI/ML,Other,Placed,good,average,poor,poor
+1,Tier 2,UK,100-300,4,AI/ML,Finance,Placed,good,good,average,poor
+2,Tier 2,USA,300+,2,Cloud,Manufacturing,Placed,average,average,good,poor
+4,Tier 3,Germany,Top 100,2,Cloud,Finance,Not Placed,average,excellent,poor,poor
+2,Tier 2,UK,100-300,1,AI/ML,Tech,Not Placed,good,poor,excellent,average
+1,Tier 2,UK,300+,0,AI/ML,Tech,Placed,average,excellent,good,good
+2,Tier 2,Germany,300+,2,Cybersecurity,Tech,Placed,average,excellent,good,poor
+0,Tier 3,USA,Top 100,0,Cloud,Other,Placed,good,average,average,poor
+1,Tier 2,Germany,100-300,1,Data Science,Tech,Placed,average,average,good,average
+3,Tier 1,USA,300+,1,Cybersecurity,Tech,Not Placed,average,excellent,good,poor
+3,Tier 3,Germany,100-300,2,Core CS,Healthcare,Not Placed,average,good,good,poor
+3,Tier 2,India,100-300,0,Core CS,Manufacturing,Not Placed,good,good,good,average
+1,Tier 1,Germany,100-300,0,Cloud,Manufacturing,Not Placed,average,excellent,average,poor
+3,Tier 1,USA,Top 100,0,Cybersecurity,Manufacturing,Not Placed,average,good,average,average
+1,Tier 3,Canada,100-300,1,Data Science,Healthcare,Placed,good,excellent,poor,average
+2,Tier 1,UK,300+,0,AI/ML,Healthcare,Not Placed,good,good,poor,poor
+2,Tier 3,Canada,300+,0,Data Science,Healthcare,Placed,good,average,good,average
+2,Tier 1,USA,100-300,2,AI/ML,Other,Placed,good,average,average,poor
+0,Tier 2,Germany,100-300,2,Data Science,Healthcare,Placed,good,excellent,poor,poor
+1,Tier 2,Germany,100-300,0,Cloud,Tech,Not Placed,average,average,good,average
+0,Tier 2,India,Top 100,2,Data Science,Tech,Placed,good,average,good,average
+3,Tier 2,USA,100-300,1,AI/ML,Finance,Placed,average,good,average,poor
+0,Tier 1,UK,300+,1,Cybersecurity,Healthcare,Not Placed,good,average,good,good
+4,Tier 3,Germany,100-300,2,Cloud,Tech,Not Placed,average,average,poor,poor
+0,Tier 1,India,300+,3,Cybersecurity,Other,Placed,good,average,excellent,average
+0,Tier 2,UK,Top 100,1,AI/ML,Finance,Placed,good,excellent,average,average
+2,Tier 1,USA,300+,1,Data Science,Consulting,Not Placed,average,excellent,good,poor
+0,Tier 2,Canada,100-300,0,Cybersecurity,Other,Placed,average,average,excellent,good
+0,Tier 2,Germany,100-300,0,AI/ML,Manufacturing,Placed,good,good,average,average
+2,Tier 2,Canada,100-300,1,AI/ML,Manufacturing,Not Placed,good,poor,poor,poor
+0,Tier 2,Canada,100-300,1,Data Science,Other,Placed,good,average,good,average
+0,Tier 2,USA,300+,3,Cybersecurity,Healthcare,Placed,good,poor,excellent,poor
+1,Tier 1,Germany,300+,1,AI/ML,Healthcare,Placed,good,good,good,good
+1,Tier 1,UK,100-300,1,Core CS,Consulting,Not Placed,poor,average,average,good
+1,Tier 2,India,100-300,2,Data Science,Tech,Placed,good,average,average,poor
+0,Tier 1,USA,Top 100,1,Core CS,Finance,Placed,good,excellent,excellent,poor
+0,Tier 3,Germany,300+,2,Cybersecurity,Tech,Placed,good,excellent,poor,average
+1,Tier 3,Canada,Top 100,0,Data Science,Healthcare,Placed,average,excellent,average,poor
+2,Tier 2,USA,300+,2,Cloud,Consulting,Not Placed,average,average,poor,poor
+3,Tier 1,UK,300+,1,AI/ML,Manufacturing,Not Placed,good,good,excellent,poor
+3,Tier 2,UK,Top 100,2,Core CS,Finance,Placed,average,average,good,poor
+0,Tier 1,UK,100-300,0,AI/ML,Manufacturing,Placed,good,good,excellent,poor
+0,Tier 2,Germany,100-300,1,Data Science,Tech,Placed,good,good,poor,poor
+2,Tier 1,UK,100-300,1,Data Science,Consulting,Not Placed,good,good,average,average
+1,Tier 1,Germany,Top 100,0,AI/ML,Healthcare,Placed,average,average,poor,poor
+1,Tier 1,Germany,Top 100,1,Cloud,Tech,Placed,good,poor,average,poor
+0,Tier 1,Canada,100-300,0,Data Science,Healthcare,Placed,good,good,poor,average
+1,Tier 1,UK,100-300,4,Cybersecurity,Healthcare,Placed,good,good,average,poor
+2,Tier 2,Canada,100-300,3,Cloud,Tech,Not Placed,good,poor,poor,poor
+0,Tier 2,Germany,300+,1,Core CS,Finance,Placed,good,excellent,good,poor
+0,Tier 3,Canada,300+,2,Cloud,Consulting,Placed,average,good,good,poor
+1,Tier 1,USA,300+,0,Cybersecurity,Other,Not Placed,good,average,excellent,poor
+0,Tier 2,India,100-300,0,Data Science,Tech,Placed,good,excellent,average,good
+0,Tier 2,Germany,300+,0,Core CS,Finance,Placed,average,good,poor,average
+0,Tier 1,India,300+,3,Core CS,Manufacturing,Placed,good,good,poor,poor
+2,Tier 2,India,100-300,0,Cloud,Finance,Placed,good,excellent,good,good
+3,Tier 1,USA,Top 100,2,Cloud,Healthcare,Not Placed,average,excellent,poor,poor
+2,Tier 3,India,300+,1,Cloud,Other,Placed,average,excellent,poor,poor
+0,Tier 3,India,100-300,3,Cybersecurity,Finance,Placed,average,excellent,good,average
+1,Tier 3,India,100-300,2,AI/ML,Manufacturing,Not Placed,average,good,poor,poor
+0,Tier 3,Germany,300+,4,AI/ML,Consulting,Placed,average,poor,good,average
+0,Tier 2,Germany,300+,0,Cybersecurity,Consulting,Placed,good,excellent,average,good
+0,Tier 3,USA,100-300,5,Cybersecurity,Finance,Placed,average,good,average,poor
+0,Tier 2,India,300+,2,Cybersecurity,Finance,Placed,good,average,good,poor
+0,Tier 3,UK,100-300,3,Cloud,Healthcare,Placed,good,excellent,average,poor
+2,Tier 2,UK,100-300,0,Cloud,Finance,Placed,average,good,poor,average
+2,Tier 1,India,300+,3,Data Science,Consulting,Placed,average,average,poor,average
+2,Tier 2,India,100-300,2,Data Science,Tech,Not Placed,average,average,average,average
+1,Tier 1,Germany,100-300,2,Cybersecurity,Consulting,Placed,average,average,good,poor
+0,Tier 2,USA,300+,3,AI/ML,Healthcare,Not Placed,good,excellent,average,poor
+3,Tier 3,India,100-300,2,Cybersecurity,Healthcare,Placed,good,excellent,good,poor
+1,Tier 2,UK,100-300,1,Data Science,Other,Placed,good,good,good,average
+3,Tier 3,UK,100-300,1,Cybersecurity,Manufacturing,Not Placed,average,good,good,poor
+2,Tier 1,Canada,100-300,1,Cybersecurity,Consulting,Placed,good,poor,good,poor
+1,Tier 2,India,100-300,3,Cybersecurity,Finance,Placed,good,excellent,excellent,poor
+1,Tier 2,UK,300+,0,Cloud,Consulting,Not Placed,average,excellent,average,poor
+1,Tier 3,India,100-300,1,Core CS,Manufacturing,Placed,good,good,average,average
+4,Tier 1,UK,Top 100,2,Cloud,Manufacturing,Not Placed,average,average,average,poor
+0,Tier 2,India,300+,4,Cybersecurity,Healthcare,Placed,good,good,average,average
+2,Tier 1,Canada,300+,2,Cloud,Consulting,Not Placed,good,average,excellent,average
+2,Tier 1,Canada,100-300,5,AI/ML,Tech,Placed,average,average,excellent,poor
+2,Tier 3,USA,300+,0,AI/ML,Manufacturing,Not Placed,good,excellent,average,good
+1,Tier 2,UK,100-300,0,Cloud,Tech,Placed,average,good,average,average
+2,Tier 2,Canada,100-300,1,AI/ML,Manufacturing,Placed,good,excellent,poor,good
+0,Tier 2,USA,Top 100,1,Data Science,Manufacturing,Placed,good,good,good,average
+3,Tier 2,Germany,300+,2,AI/ML,Other,Placed,average,excellent,average,poor
+0,Tier 3,UK,300+,1,AI/ML,Finance,Placed,good,good,good,average
+0,Tier 1,Germany,300+,1,Cybersecurity,Manufacturing,Not Placed,good,good,good,average
+1,Tier 2,UK,300+,3,AI/ML,Healthcare,Placed,good,excellent,average,average
+1,Tier 2,USA,100-300,3,Core CS,Other,Not Placed,average,average,good,poor
+0,Tier 3,India,Top 100,1,Core CS,Other,Not Placed,average,average,average,average
+2,Tier 2,Canada,300+,0,Data Science,Finance,Not Placed,average,excellent,good,poor
+0,Tier 2,UK,100-300,0,Cybersecurity,Other,Placed,good,good,average,poor
+0,Tier 1,USA,300+,3,Data Science,Consulting,Placed,good,good,good,good
+0,Tier 1,USA,300+,2,AI/ML,Other,Placed,good,excellent,poor,poor
+1,Tier 1,USA,300+,2,Cybersecurity,Other,Not Placed,average,good,good,poor
+0,Tier 2,Canada,300+,0,Core CS,Finance,Placed,good,excellent,average,poor
+1,Tier 1,India,300+,1,AI/ML,Other,Placed,average,average,good,poor
+0,Tier 1,Germany,Top 100,3,Core CS,Other,Placed,good,excellent,poor,poor
+1,Tier 1,India,100-300,5,Cloud,Healthcare,Placed,good,good,good,poor
+1,Tier 1,India,Top 100,2,Data Science,Consulting,Placed,good,good,excellent,average
+1,Tier 1,UK,100-300,1,AI/ML,Finance,Not Placed,average,average,average,poor
+3,Tier 3,Germany,300+,2,Data Science,Consulting,Not Placed,good,good,good,poor
+1,Tier 3,USA,300+,0,Data Science,Tech,Placed,good,average,good,average
+2,Tier 2,Germany,100-300,1,AI/ML,Finance,Not Placed,average,good,average,poor
+2,Tier 3,UK,100-300,0,Data Science,Finance,Not Placed,poor,excellent,poor,poor
+2,Tier 2,Canada,300+,2,Core CS,Manufacturing,Not Placed,average,good,poor,poor
+1,Tier 2,India,100-300,3,Cloud,Finance,Placed,average,good,average,average
+0,Tier 3,UK,300+,3,Cloud,Manufacturing,Placed,good,average,good,poor
+1,Tier 3,UK,300+,1,Data Science,Consulting,Placed,good,excellent,average,poor
+1,Tier 2,Germany,100-300,2,Data Science,Tech,Placed,average,average,excellent,poor
+1,Tier 2,UK,300+,1,Cloud,Finance,Placed,good,good,good,poor
+1,Tier 2,Canada,100-300,1,AI/ML,Consulting,Placed,average,good,good,average
+1,Tier 1,India,Top 100,4,Core CS,Finance,Placed,average,average,average,poor
+3,Tier 1,Germany,100-300,1,AI/ML,Healthcare,Placed,good,average,average,average
+2,Tier 3,Canada,100-300,3,Core CS,Healthcare,Placed,good,good,average,average
+0,Tier 2,Germany,300+,3,Data Science,Consulting,Placed,good,good,excellent,average
+1,Tier 1,USA,300+,2,Data Science,Other,Placed,good,excellent,poor,poor
+1,Tier 1,USA,100-300,2,Data Science,Finance,Placed,good,average,average,average
+2,Tier 1,UK,Top 100,1,Cloud,Healthcare,Placed,average,poor,good,good
+1,Tier 2,Germany,300+,1,Data Science,Other,Not Placed,average,average,good,average
+2,Tier 1,USA,Top 100,3,Cloud,Other,Placed,average,good,excellent,average
+0,Tier 3,Germany,100-300,2,AI/ML,Consulting,Placed,average,excellent,good,poor
+3,Tier 3,Canada,300+,0,Cybersecurity,Healthcare,Placed,good,excellent,good,average
+1,Tier 2,India,100-300,1,Data Science,Consulting,Placed,average,good,average,poor
+2,Tier 2,UK,100-300,0,Cybersecurity,Consulting,Placed,average,good,good,average
+1,Tier 3,Canada,300+,3,AI/ML,Other,Not Placed,average,excellent,excellent,poor
+2,Tier 3,UK,300+,1,AI/ML,Finance,Placed,good,good,average,good
+0,Tier 1,Canada,100-300,1,Data Science,Manufacturing,Not Placed,average,excellent,good,average
+4,Tier 1,USA,Top 100,0,Cybersecurity,Tech,Placed,average,good,poor,poor
+0,Tier 1,USA,Top 100,0,Core CS,Consulting,Placed,good,excellent,excellent,poor
+2,Tier 2,Germany,100-300,0,Data Science,Consulting,Placed,average,excellent,excellent,poor
+0,Tier 1,India,Top 100,2,Data Science,Finance,Not Placed,average,average,excellent,average
+0,Tier 2,India,300+,1,Data Science,Consulting,Placed,good,good,good,good
+1,Tier 3,UK,100-300,1,Data Science,Tech,Placed,average,good,average,average
+2,Tier 2,UK,300+,3,Cybersecurity,Healthcare,Placed,average,good,good,average
+4,Tier 2,India,Top 100,2,Core CS,Tech,Not Placed,average,average,average,poor
+1,Tier 1,USA,100-300,2,Cloud,Tech,Placed,average,average,poor,poor
+1,Tier 1,USA,Top 100,0,Cybersecurity,Manufacturing,Not Placed,average,excellent,poor,average
+2,Tier 2,India,Top 100,1,Data Science,Finance,Placed,good,average,poor,good
+0,Tier 2,USA,100-300,2,AI/ML,Consulting,Not Placed,good,good,poor,poor
+1,Tier 2,Germany,100-300,1,Core CS,Consulting,Not Placed,average,good,average,poor
+4,Tier 2,UK,100-300,2,AI/ML,Healthcare,Not Placed,average,good,poor,poor
+2,Tier 2,Canada,100-300,3,Cybersecurity,Tech,Not Placed,average,average,good,poor
+1,Tier 2,Canada,300+,1,Cloud,Consulting,Placed,excellent,good,good,excellent
+1,Tier 1,UK,Top 100,1,Cybersecurity,Manufacturing,Placed,good,poor,good,average
+2,Tier 2,Canada,100-300,2,AI/ML,Other,Not Placed,average,average,excellent,poor
+1,Tier 3,UK,Top 100,2,AI/ML,Manufacturing,Not Placed,average,average,good,poor
+1,Tier 3,Germany,100-300,0,Data Science,Tech,Placed,average,excellent,excellent,poor
+1,Tier 2,UK,300+,1,Cybersecurity,Tech,Placed,average,average,average,average
+1,Tier 2,India,300+,1,AI/ML,Manufacturing,Not Placed,average,excellent,good,poor
+3,Tier 2,UK,100-300,0,AI/ML,Consulting,Not Placed,average,excellent,good,poor
+0,Tier 3,Germany,300+,1,Data Science,Other,Not Placed,good,good,good,average
+1,Tier 1,UK,300+,2,Cybersecurity,Tech,Not Placed,average,good,good,poor
+1,Tier 2,USA,100-300,0,Core CS,Tech,Placed,good,average,average,average
+1,Tier 1,India,100-300,1,Core CS,Tech,Placed,good,good,good,average
+3,Tier 2,Germany,300+,1,Core CS,Healthcare,Not Placed,average,average,excellent,average
+1,Tier 1,USA,300+,0,Cybersecurity,Consulting,Placed,average,excellent,good,good
+2,Tier 1,USA,300+,0,Core CS,Healthcare,Not Placed,good,good,poor,poor
+3,Tier 2,UK,100-300,4,Core CS,Manufacturing,Placed,average,average,good,poor
+0,Tier 3,Germany,300+,1,AI/ML,Tech,Placed,good,excellent,average,poor
+0,Tier 1,UK,300+,0,AI/ML,Consulting,Placed,average,good,good,poor
+2,Tier 1,India,Top 100,1,AI/ML,Healthcare,Placed,good,excellent,good,poor
+1,Tier 3,India,300+,1,Data Science,Consulting,Placed,average,good,good,good
+0,Tier 2,USA,300+,2,Data Science,Healthcare,Placed,good,excellent,excellent,average
+0,Tier 1,Germany,100-300,1,Data Science,Other,Placed,good,average,average,poor
+1,Tier 3,Canada,300+,1,Data Science,Finance,Placed,good,good,excellent,poor
+0,Tier 1,Germany,100-300,1,Core CS,Healthcare,Placed,average,excellent,average,poor
+3,Tier 3,India,300+,2,Cybersecurity,Finance,Placed,good,average,average,poor
+2,Tier 2,UK,100-300,0,Cloud,Other,Not Placed,good,poor,poor,poor
+2,Tier 2,India,Top 100,5,AI/ML,Healthcare,Placed,average,good,poor,poor
+1,Tier 1,USA,100-300,4,Cloud,Consulting,Placed,average,good,excellent,poor
+0,Tier 1,UK,300+,0,Core CS,Tech,Placed,good,poor,excellent,poor
+1,Tier 2,USA,300+,1,Core CS,Finance,Placed,good,good,average,average
+2,Tier 2,USA,300+,2,Cloud,Manufacturing,Not Placed,average,good,average,poor
+3,Tier 1,UK,100-300,1,Cybersecurity,Manufacturing,Not Placed,average,poor,good,poor
+0,Tier 2,Canada,100-300,0,Data Science,Consulting,Placed,average,average,good,poor
+0,Tier 1,Canada,100-300,3,AI/ML,Manufacturing,Not Placed,average,poor,good,poor
+1,Tier 2,Germany,300+,2,Cloud,Consulting,Placed,average,good,average,average
+2,Tier 1,Germany,100-300,0,Core CS,Finance,Not Placed,average,poor,good,average

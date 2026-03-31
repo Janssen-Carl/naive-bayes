@@ -58,36 +58,46 @@ def clean_categorical(data):
 # Binning to numeric columns
 def bin_gpa(x):
     if x < 5.5:
-        return "<5.5"
+        return "poor"
     elif x < 7:
-        return "5.5-6.99"
+        return "average"
     elif x < 9:
-        return "7-8.99"
+        return "good"
     else:
-        return "9-10"
-    
+        return "excellent"
+
 # Binning aptitude score into 5-point intervals
 def bin_aptitude(x):
-    lower = int(x // 5) * 5
-    upper = lower + 4
-    return str(lower) + "-" + str(upper)    
+    if x < 50:
+        return "poor"
+    elif x < 65:
+        return "average"
+    elif x < 80:
+        return "good"
+    else:
+        return "excellent" 
 
 # Binning communication score into 5-point intervals
 def bin_communication(x):
-    lower = int(x // 5) * 5
-    upper = lower + 4
-    return str(lower) + "-" + str(upper)
+    if x < 50:
+        return "poor"
+    elif x < 65:
+        return "average"
+    elif x < 80:
+        return "good"
+    else:
+        return "excellent"
 
 # Binning internship quality score into 5-point intervals
 def bin_internship_quality(x):
     if x < 5.5:
-        return "<5.5"
+        return "poor"
     elif x < 7:
-        return "5.5-6.99"
+        return "average"
     elif x < 9:
-        return "7-8.99"
+        return "good"
     else:
-        return "9-10"
+        return "excellent"
 
 # Apply binning to the dataset
 def apply_binning(data):
@@ -259,6 +269,33 @@ def compute_likelihoods(data):
 
     return likelihoods, feature_values
 
+# Compute feature influence scores based on likelihood differences
+def compute_feature_influence(likelihoods, feature_values):
+    influence_scores = {}
+
+    for feature in FEATURES:
+        total_diff = 0
+
+        for value in feature_values[feature]:
+            p_placed = likelihoods["Placed"][feature].get(value, 0)
+            p_not_placed = likelihoods["Not Placed"][feature].get(value, 0)
+
+            diff = abs(p_placed - p_not_placed)
+            total_diff += diff
+
+        influence_scores[feature] = total_diff
+
+    return influence_scores
+
+
+def save_feature_influence(influence_scores, filename="out/feature_influence.csv"):
+    with open(filename, "w") as file:
+        file.write("feature,influence_score\n")
+
+        for feature, score in influence_scores.items():
+            file.write(f"{feature},{score}\n")
+
+
 # Predict the class for a single row of data
 def predict_one(row, priors, likelihoods, feature_values, train_data):
     placed_total = 0
@@ -374,3 +411,23 @@ def plot_confusion_bar(TP, FP, TN, FN):
     plt.savefig(save_path)
     plt.show()
   
+def plot_feature_influence(influence_scores):
+    sorted_items = sorted(influence_scores.items(), key=lambda x: x[1], reverse=True)
+
+    features = [item[0] for item in sorted_items]
+    scores = [item[1] for item in sorted_items]
+
+    fig, ax = plt.subplots()
+
+    ax.bar(features, scores)
+
+    plt.title("Feature Influence")
+    plt.xlabel("Features")
+    plt.ylabel("Influence Score")
+
+    plt.xticks(rotation=45)
+
+    for i in range(len(scores)):
+        ax.text(i, scores[i], f"{scores[i]:.2f}", ha='center')
+        
+    plt.savefig("out/feature_influence.png")

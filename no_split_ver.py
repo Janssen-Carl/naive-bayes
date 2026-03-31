@@ -2,19 +2,23 @@
 
 import functions
 
-def load_train_data():
-    dataset = functions.load_data('data/input/train_data.csv')
-    return dataset
+dataset = functions.load_data('data/JOB_PLACEMENT_DATASET.csv')
+data = functions.convert_numeric(dataset)
+data = functions.clean_categorical(dataset)
+data = functions.apply_binning(dataset)
+data = functions.remove_numeric_columns(dataset)
 
-def load_test_data():
-    dataset = functions.load_data('data/input/test_data.csv')
-    return dataset
 
-train_data = load_train_data()
-test_data = load_test_data()
+train_data = dataset
+test_data = dataset 
 
 priors = functions.compute_priors(train_data)
 likelihoods, feature_values = functions.compute_likelihoods(train_data)
+
+influence = functions.compute_feature_influence(likelihoods, feature_values)
+functions.save_feature_influence(influence)
+functions.plot_feature_influence(influence)
+
 predictions = functions.predict_all(test_data, priors, likelihoods, feature_values, train_data)
 
 

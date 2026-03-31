@@ -2,14 +2,17 @@
 
 import functions
 
-dataset = functions.load_data('data/JOB_PLACEMENT_DATASET.csv')
-data = functions.convert_numeric(dataset)
-data = functions.clean_categorical(dataset)
-data = functions.apply_binning(dataset)
-data = functions.remove_numeric_columns(dataset)
+def load_train_data():
+    dataset = functions.load_data('data/input/train_data.csv')
+    return dataset
 
+def load_test_data():
+    dataset = functions.load_data('data/input/test_data.csv')
+    return dataset
 
-train_data, test_data = functions.train_test_split(data)
+train_data = load_train_data()
+test_data = load_test_data()
+
 priors = functions.compute_priors(train_data)
 likelihoods, feature_values = functions.compute_likelihoods(train_data)
 
