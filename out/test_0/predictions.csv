@@ -1,0 +1,2001 @@
+backlogs,college_category,country_of_residence,university_ranking,internship_count,specialization,industry,placement_status,gpa_bin,aptitude_bin,communication_bin,internship_quality_bin,predicted_placement_status
+2,Tier 2,India,300+,0,Core CS,Other,Not Placed,7-8.99,65-69,65-69,<5.5,Not Placed
+0,Tier 1,Germany,Top 100,0,Cybersecurity,Other,Placed,7-8.99,55-59,65-69,<5.5,Placed
+1,Tier 3,India,100-300,2,Cloud,Consulting,Placed,5.5-6.99,65-69,65-69,<5.5,Placed
+1,Tier 2,UK,300+,1,Cloud,Tech,Placed,7-8.99,75-79,30-34,7-8.99,Placed
+2,Tier 1,Canada,300+,2,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,40-44,75-79,7-8.99,Placed
+1,Tier 2,Germany,100-300,3,Core CS,Healthcare,Placed,7-8.99,55-59,95-99,5.5-6.99,Placed
+0,Tier 2,UK,100-300,1,Cloud,Other,Placed,5.5-6.99,80-84,80-84,5.5-6.99,Placed
+0,Tier 1,India,300+,1,Core CS,Other,Placed,7-8.99,50-54,55-59,<5.5,Placed
+0,Tier 3,Canada,300+,0,Cybersecurity,Other,Placed,7-8.99,90-94,75-79,7-8.99,Placed
+3,Tier 1,India,Top 100,0,Cloud,Consulting,Placed,5.5-6.99,65-69,75-79,<5.5,Not Placed
+0,Tier 2,Germany,Top 100,2,AI/ML,Tech,Placed,7-8.99,85-89,60-64,<5.5,Placed
+0,Tier 2,USA,100-300,3,Core CS,Consulting,Placed,7-8.99,75-79,60-64,<5.5,Placed
+2,Tier 2,India,300+,0,Data Science,Other,Not Placed,5.5-6.99,85-89,55-59,<5.5,Not Placed
+1,Tier 2,Germany,100-300,2,AI/ML,Other,Not Placed,<5.5,50-54,85-89,<5.5,Not Placed
+1,Tier 3,Germany,100-300,0,Data Science,Other,Placed,5.5-6.99,50-54,55-59,<5.5,Not Placed
+1,Tier 2,USA,100-300,3,Core CS,Other,Not Placed,5.5-6.99,55-59,65-69,<5.5,Placed
+0,Tier 2,UK,100-300,0,Cybersecurity,Finance,Placed,7-8.99,75-79,75-79,<5.5,Placed
+0,Tier 2,Germany,100-300,0,Data Science,Manufacturing,Placed,5.5-6.99,65-69,50-54,<5.5,Not Placed
+1,Tier 3,Germany,300+,1,Data Science,Manufacturing,Not Placed,5.5-6.99,80-84,50-54,5.5-6.99,Not Placed
+1,Tier 2,UK,100-300,2,Cloud,Finance,Placed,7-8.99,45-49,40-44,5.5-6.99,Placed
+0,Tier 3,India,300+,2,Cybersecurity,Other,Placed,7-8.99,75-79,75-79,<5.5,Placed
+1,Tier 1,India,100-300,2,Data Science,Healthcare,Placed,7-8.99,95-99,85-89,<5.5,Placed
+1,Tier 3,USA,300+,2,Core CS,Healthcare,Not Placed,7-8.99,70-74,55-59,5.5-6.99,Placed
+1,Tier 2,UK,100-300,0,Cloud,Manufacturing,Not Placed,5.5-6.99,75-79,65-69,<5.5,Not Placed
+1,Tier 3,Canada,Top 100,0,AI/ML,Manufacturing,Placed,7-8.99,65-69,75-79,5.5-6.99,Placed
+2,Tier 1,USA,Top 100,5,Data Science,Manufacturing,Placed,7-8.99,50-54,60-64,<5.5,Placed
+0,Tier 1,Canada,300+,0,Cloud,Other,Placed,7-8.99,95-99,50-54,<5.5,Placed
+1,Tier 1,India,Top 100,0,Cybersecurity,Other,Placed,7-8.99,70-74,50-54,5.5-6.99,Placed
+2,Tier 3,India,100-300,1,AI/ML,Consulting,Not Placed,7-8.99,80-84,45-49,<5.5,Placed
+0,Tier 1,USA,100-300,0,Core CS,Tech,Placed,5.5-6.99,65-69,65-69,<5.5,Placed
+2,Tier 3,USA,100-300,0,Cybersecurity,Other,Not Placed,5.5-6.99,60-64,40-44,5.5-6.99,Not Placed
+1,Tier 3,India,300+,0,AI/ML,Tech,Not Placed,7-8.99,85-89,75-79,<5.5,Placed
+0,Tier 2,USA,100-300,2,AI/ML,Healthcare,Placed,5.5-6.99,70-74,45-49,<5.5,Placed
+3,Tier 2,Canada,100-300,0,Cloud,Consulting,Not Placed,5.5-6.99,75-79,60-64,<5.5,Not Placed
+0,Tier 2,Germany,100-300,1,Cloud,Tech,Placed,9-10,65-69,35-39,7-8.99,Placed
+4,Tier 3,UK,300+,2,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,65-69,40-44,<5.5,Not Placed
+2,Tier 3,USA,100-300,0,Cybersecurity,Finance,Placed,7-8.99,85-89,45-49,7-8.99,Placed
+0,Tier 2,Germany,Top 100,3,Core CS,Finance,Placed,7-8.99,60-64,50-54,5.5-6.99,Placed
+4,Tier 3,India,Top 100,1,Core CS,Tech,Placed,7-8.99,55-59,70-74,5.5-6.99,Placed
+1,Tier 1,UK,100-300,5,Core CS,Consulting,Placed,5.5-6.99,40-44,50-54,<5.5,Placed
+1,Tier 1,USA,Top 100,3,Cloud,Tech,Not Placed,7-8.99,45-49,75-79,<5.5,Placed
+2,Tier 1,UK,100-300,0,Core CS,Finance,Not Placed,7-8.99,70-74,30-34,5.5-6.99,Not Placed
+1,Tier 3,Germany,300+,1,AI/ML,Other,Placed,5.5-6.99,75-79,30-34,7-8.99,Not Placed
+2,Tier 3,UK,100-300,1,AI/ML,Finance,Not Placed,7-8.99,55-59,75-79,<5.5,Placed
+0,Tier 3,USA,300+,1,Core CS,Manufacturing,Placed,7-8.99,85-89,90-94,<5.5,Placed
+2,Tier 1,Germany,300+,0,Cybersecurity,Healthcare,Placed,5.5-6.99,70-74,70-74,<5.5,Not Placed
+0,Tier 1,Germany,300+,2,Cloud,Consulting,Placed,5.5-6.99,50-54,65-69,7-8.99,Placed
+1,Tier 2,UK,300+,0,Cybersecurity,Healthcare,Placed,7-8.99,65-69,80-84,<5.5,Placed
+1,Tier 2,USA,100-300,0,Data Science,Other,Not Placed,7-8.99,75-79,35-39,<5.5,Placed
+1,Tier 2,UK,100-300,2,Data Science,Healthcare,Placed,5.5-6.99,75-79,70-74,<5.5,Placed
+0,Tier 3,India,100-300,1,Cybersecurity,Other,Placed,7-8.99,55-59,60-64,<5.5,Placed
+0,Tier 1,India,Top 100,2,Data Science,Consulting,Placed,5.5-6.99,85-89,65-69,<5.5,Placed
+2,Tier 1,USA,100-300,5,Data Science,Manufacturing,Placed,7-8.99,55-59,30-34,<5.5,Placed
+0,Tier 1,Canada,100-300,0,Cloud,Healthcare,Placed,5.5-6.99,50-54,80-84,<5.5,Placed
+0,Tier 3,UK,300+,3,Data Science,Finance,Not Placed,7-8.99,45-49,60-64,7-8.99,Placed
+0,Tier 1,USA,300+,3,AI/ML,Consulting,Not Placed,5.5-6.99,70-74,45-49,<5.5,Placed
+3,Tier 2,UK,100-300,2,Core CS,Other,Not Placed,5.5-6.99,60-64,100-104,5.5-6.99,Not Placed
+2,Tier 1,USA,300+,2,AI/ML,Consulting,Not Placed,5.5-6.99,60-64,60-64,7-8.99,Placed
+4,Tier 3,USA,300+,1,Core CS,Tech,Not Placed,5.5-6.99,70-74,60-64,<5.5,Not Placed
+2,Tier 2,Canada,300+,0,Core CS,Other,Not Placed,5.5-6.99,50-54,55-59,<5.5,Not Placed
+2,Tier 1,India,300+,1,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,50-54,55-59,7-8.99,Not Placed
+2,Tier 2,UK,100-300,0,Cloud,Other,Not Placed,<5.5,65-69,70-74,<5.5,Not Placed
+2,Tier 3,UK,100-300,1,Cloud,Other,Placed,7-8.99,75-79,40-44,5.5-6.99,Placed
+1,Tier 3,India,100-300,3,Cloud,Tech,Placed,7-8.99,45-49,80-84,<5.5,Placed
+3,Tier 3,India,100-300,2,Core CS,Other,Placed,7-8.99,55-59,70-74,<5.5,Not Placed
+0,Tier 3,India,Top 100,1,Data Science,Manufacturing,Not Placed,5.5-6.99,60-64,60-64,<5.5,Placed
+1,Tier 2,Germany,300+,1,Data Science,Other,Not Placed,7-8.99,65-69,65-69,<5.5,Placed
+3,Tier 1,UK,100-300,2,Data Science,Other,Placed,7-8.99,50-54,75-79,5.5-6.99,Placed
+2,Tier 3,USA,Top 100,1,Cybersecurity,Finance,Placed,5.5-6.99,80-84,80-84,<5.5,Placed
+1,Tier 2,USA,Top 100,5,Core CS,Manufacturing,Not Placed,7-8.99,80-84,65-69,<5.5,Placed
+0,Tier 2,Germany,300+,1,Cybersecurity,Tech,Placed,7-8.99,75-79,70-74,<5.5,Placed
+2,Tier 2,Germany,100-300,2,Core CS,Manufacturing,Placed,5.5-6.99,50-54,80-84,5.5-6.99,Not Placed
+1,Tier 2,India,100-300,1,Data Science,Healthcare,Placed,7-8.99,50-54,45-49,<5.5,Placed
+0,Tier 2,Germany,100-300,1,AI/ML,Tech,Not Placed,5.5-6.99,55-59,80-84,5.5-6.99,Placed
+1,Tier 1,UK,300+,1,Data Science,Consulting,Placed,7-8.99,65-69,45-49,<5.5,Placed
+2,Tier 2,UK,100-300,3,Cloud,Manufacturing,Placed,7-8.99,50-54,60-64,<5.5,Placed
+0,Tier 1,UK,Top 100,4,Core CS,Consulting,Placed,7-8.99,70-74,60-64,5.5-6.99,Placed
+2,Tier 2,UK,300+,2,Core CS,Manufacturing,Not Placed,5.5-6.99,65-69,65-69,5.5-6.99,Not Placed
+1,Tier 1,Germany,100-300,2,Cybersecurity,Healthcare,Not Placed,5.5-6.99,80-84,75-79,<5.5,Placed
+3,Tier 3,Canada,100-300,3,Cybersecurity,Finance,Placed,7-8.99,70-74,45-49,<5.5,Placed
+0,Tier 2,Canada,Top 100,1,AI/ML,Manufacturing,Placed,7-8.99,45-49,40-44,5.5-6.99,Placed
+0,Tier 3,Canada,300+,0,AI/ML,Manufacturing,Not Placed,5.5-6.99,55-59,40-44,<5.5,Not Placed
+2,Tier 2,Germany,Top 100,4,Cloud,Consulting,Placed,5.5-6.99,65-69,65-69,7-8.99,Placed
+2,Tier 1,USA,300+,0,Data Science,Consulting,Not Placed,5.5-6.99,75-79,60-64,5.5-6.99,Not Placed
+0,Tier 1,Canada,100-300,2,Core CS,Other,Placed,7-8.99,70-74,50-54,<5.5,Placed
+1,Tier 1,Germany,Top 100,2,Data Science,Consulting,Placed,5.5-6.99,60-64,60-64,<5.5,Placed
+2,Tier 1,Germany,100-300,2,Data Science,Manufacturing,Placed,5.5-6.99,30-34,80-84,<5.5,Not Placed
+2,Tier 3,USA,300+,2,Cybersecurity,Finance,Not Placed,<5.5,75-79,30-34,<5.5,Not Placed
+1,Tier 1,Canada,300+,1,AI/ML,Tech,Placed,7-8.99,60-64,65-69,5.5-6.99,Placed
+2,Tier 1,USA,300+,1,Cloud,Finance,Not Placed,7-8.99,70-74,55-59,5.5-6.99,Placed
+3,Tier 1,India,Top 100,1,Data Science,Healthcare,Not Placed,7-8.99,65-69,55-59,5.5-6.99,Placed
+0,Tier 1,Germany,300+,3,Core CS,Healthcare,Placed,5.5-6.99,55-59,80-84,<5.5,Placed
+2,Tier 1,Canada,300+,1,Data Science,Tech,Not Placed,5.5-6.99,70-74,55-59,<5.5,Not Placed
+1,Tier 1,Germany,Top 100,2,AI/ML,Finance,Placed,5.5-6.99,60-64,90-94,5.5-6.99,Placed
+0,Tier 1,UK,300+,0,Cybersecurity,Tech,Placed,5.5-6.99,85-89,50-54,<5.5,Placed
+1,Tier 1,Canada,100-300,2,Data Science,Finance,Placed,5.5-6.99,50-54,80-84,<5.5,Placed
+2,Tier 2,India,Top 100,4,Data Science,Tech,Placed,5.5-6.99,70-74,45-49,5.5-6.99,Placed
+0,Tier 3,USA,Top 100,2,Data Science,Consulting,Placed,7-8.99,60-64,45-49,<5.5,Placed
+3,Tier 1,Germany,Top 100,2,Core CS,Finance,Not Placed,5.5-6.99,65-69,90-94,<5.5,Not Placed
+4,Tier 1,India,100-300,2,Data Science,Finance,Not Placed,5.5-6.99,60-64,65-69,<5.5,Not Placed
+2,Tier 2,Germany,Top 100,2,AI/ML,Manufacturing,Placed,5.5-6.99,55-59,70-74,5.5-6.99,Placed
+1,Tier 3,Germany,Top 100,2,AI/ML,Healthcare,Placed,5.5-6.99,90-94,50-54,<5.5,Placed
+1,Tier 2,Germany,Top 100,4,Cloud,Tech,Placed,7-8.99,60-64,80-84,5.5-6.99,Placed
+2,Tier 2,Canada,Top 100,2,AI/ML,Healthcare,Placed,7-8.99,70-74,65-69,<5.5,Placed
+2,Tier 1,Germany,300+,0,Cybersecurity,Finance,Not Placed,5.5-6.99,65-69,65-69,<5.5,Not Placed
+1,Tier 2,UK,300+,1,Cybersecurity,Finance,Not Placed,7-8.99,75-79,75-79,<5.5,Placed
+1,Tier 2,Canada,100-300,2,Core CS,Other,Placed,7-8.99,65-69,55-59,<5.5,Placed
+0,Tier 2,Germany,300+,0,Cybersecurity,Tech,Placed,5.5-6.99,90-94,60-64,<5.5,Placed
+0,Tier 3,Germany,100-300,3,Cloud,Healthcare,Placed,5.5-6.99,85-89,60-64,<5.5,Placed
+3,Tier 1,India,Top 100,0,Core CS,Other,Not Placed,5.5-6.99,50-54,75-79,5.5-6.99,Not Placed
+2,Tier 1,Canada,100-300,2,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,80-84,45-49,<5.5,Not Placed
+1,Tier 1,Canada,Top 100,1,Cloud,Healthcare,Placed,5.5-6.99,80-84,80-84,5.5-6.99,Placed
+1,Tier 2,UK,100-300,0,AI/ML,Manufacturing,Not Placed,5.5-6.99,65-69,40-44,5.5-6.99,Not Placed
+1,Tier 2,India,100-300,3,Data Science,Consulting,Placed,7-8.99,75-79,70-74,<5.5,Placed
+1,Tier 1,USA,100-300,1,AI/ML,Consulting,Placed,7-8.99,75-79,75-79,<5.5,Placed
+1,Tier 1,Germany,300+,1,Core CS,Tech,Not Placed,7-8.99,65-69,80-84,<5.5,Placed
+1,Tier 3,Germany,100-300,2,Cloud,Tech,Not Placed,7-8.99,50-54,70-74,<5.5,Placed
+2,Tier 3,USA,300+,0,Cloud,Consulting,Not Placed,7-8.99,55-59,65-69,7-8.99,Placed
+1,Tier 2,UK,100-300,5,Cloud,Manufacturing,Not Placed,<5.5,95-99,85-89,<5.5,Placed
+2,Tier 3,UK,100-300,2,Data Science,Manufacturing,Not Placed,5.5-6.99,55-59,60-64,7-8.99,Placed
+0,Tier 2,UK,100-300,0,Core CS,Healthcare,Not Placed,5.5-6.99,40-44,55-59,<5.5,Placed
+0,Tier 2,India,100-300,2,Core CS,Tech,Placed,7-8.99,85-89,40-44,<5.5,Placed
+2,Tier 3,Germany,300+,2,Data Science,Manufacturing,Not Placed,<5.5,60-64,50-54,5.5-6.99,Not Placed
+1,Tier 3,USA,300+,1,Cloud,Tech,Not Placed,5.5-6.99,60-64,60-64,<5.5,Not Placed
+0,Tier 2,UK,300+,1,Data Science,Other,Not Placed,7-8.99,45-49,50-54,<5.5,Placed
+2,Tier 1,India,100-300,1,Cybersecurity,Consulting,Not Placed,5.5-6.99,50-54,55-59,5.5-6.99,Not Placed
+0,Tier 2,Canada,Top 100,1,Data Science,Tech,Placed,7-8.99,80-84,65-69,7-8.99,Placed
+1,Tier 3,UK,Top 100,2,Data Science,Finance,Placed,7-8.99,70-74,80-84,5.5-6.99,Placed
+0,Tier 2,Germany,Top 100,1,AI/ML,Manufacturing,Placed,5.5-6.99,70-74,80-84,5.5-6.99,Placed
+2,Tier 3,India,100-300,2,Data Science,Manufacturing,Not Placed,5.5-6.99,60-64,45-49,<5.5,Not Placed
+0,Tier 3,India,300+,3,Core CS,Tech,Placed,7-8.99,85-89,55-59,<5.5,Placed
+1,Tier 2,India,100-300,0,Data Science,Manufacturing,Not Placed,7-8.99,75-79,80-84,7-8.99,Placed
+0,Tier 1,USA,100-300,0,AI/ML,Healthcare,Not Placed,7-8.99,50-54,70-74,<5.5,Placed
+0,Tier 2,India,100-300,2,Cloud,Healthcare,Placed,7-8.99,60-64,70-74,<5.5,Placed
+3,Tier 2,Germany,100-300,0,Cybersecurity,Other,Not Placed,5.5-6.99,70-74,60-64,<5.5,Not Placed
+2,Tier 2,Canada,Top 100,2,Data Science,Finance,Placed,7-8.99,40-44,60-64,<5.5,Placed
+0,Tier 3,USA,100-300,5,Cybersecurity,Finance,Placed,5.5-6.99,65-69,60-64,<5.5,Placed
+0,Tier 2,Canada,300+,0,AI/ML,Consulting,Placed,5.5-6.99,55-59,100-104,<5.5,Placed
+1,Tier 2,UK,Top 100,1,Cloud,Manufacturing,Placed,5.5-6.99,70-74,35-39,5.5-6.99,Placed
+2,Tier 2,Canada,300+,1,Core CS,Finance,Not Placed,5.5-6.99,70-74,40-44,<5.5,Not Placed
+1,Tier 2,Canada,300+,4,Core CS,Other,Placed,7-8.99,60-64,60-64,5.5-6.99,Placed
+1,Tier 2,USA,100-300,1,Cloud,Healthcare,Placed,5.5-6.99,60-64,45-49,5.5-6.99,Placed
+1,Tier 2,India,Top 100,1,AI/ML,Consulting,Placed,7-8.99,65-69,65-69,7-8.99,Placed
+1,Tier 2,Canada,100-300,2,Cloud,Finance,Placed,5.5-6.99,55-59,55-59,<5.5,Placed
+0,Tier 1,India,300+,2,Data Science,Finance,Placed,7-8.99,60-64,75-79,<5.5,Placed
+5,Tier 3,India,Top 100,2,Core CS,Manufacturing,Not Placed,7-8.99,55-59,45-49,<5.5,Not Placed
+0,Tier 2,Germany,100-300,1,Cybersecurity,Healthcare,Placed,9-10,65-69,50-54,7-8.99,Placed
+2,Tier 1,India,300+,1,Data Science,Finance,Not Placed,5.5-6.99,75-79,65-69,5.5-6.99,Not Placed
+0,Tier 3,Canada,Top 100,2,AI/ML,Consulting,Placed,5.5-6.99,45-49,65-69,5.5-6.99,Placed
+3,Tier 1,Canada,300+,0,Cloud,Consulting,Not Placed,7-8.99,75-79,55-59,5.5-6.99,Not Placed
+0,Tier 1,Germany,100-300,4,Core CS,Manufacturing,Placed,7-8.99,75-79,85-89,<5.5,Placed
+1,Tier 2,USA,300+,3,AI/ML,Healthcare,Placed,5.5-6.99,55-59,75-79,<5.5,Placed
+0,Tier 3,UK,100-300,2,Data Science,Manufacturing,Placed,5.5-6.99,65-69,85-89,<5.5,Placed
+1,Tier 2,Germany,100-300,0,Data Science,Healthcare,Placed,5.5-6.99,85-89,90-94,5.5-6.99,Placed
+1,Tier 3,UK,300+,1,AI/ML,Other,Placed,5.5-6.99,70-74,85-89,7-8.99,Placed
+2,Tier 1,Canada,300+,2,Cybersecurity,Other,Placed,7-8.99,50-54,75-79,5.5-6.99,Placed
+3,Tier 2,USA,300+,1,Data Science,Other,Not Placed,7-8.99,85-89,65-69,<5.5,Not Placed
+4,Tier 3,USA,100-300,2,AI/ML,Other,Not Placed,5.5-6.99,55-59,60-64,<5.5,Not Placed
+4,Tier 3,UK,100-300,4,Data Science,Manufacturing,Not Placed,5.5-6.99,55-59,45-49,5.5-6.99,Not Placed
+1,Tier 1,Germany,100-300,1,AI/ML,Consulting,Not Placed,5.5-6.99,35-39,60-64,<5.5,Not Placed
+4,Tier 1,USA,100-300,1,Core CS,Manufacturing,Not Placed,5.5-6.99,70-74,80-84,<5.5,Not Placed
+1,Tier 3,Germany,300+,0,Cloud,Manufacturing,Placed,5.5-6.99,60-64,60-64,<5.5,Not Placed
+1,Tier 1,UK,Top 100,3,AI/ML,Finance,Placed,5.5-6.99,40-44,60-64,<5.5,Placed
+1,Tier 2,Germany,300+,3,Data Science,Tech,Placed,5.5-6.99,65-69,65-69,<5.5,Placed
+1,Tier 2,USA,300+,4,Cybersecurity,Consulting,Placed,5.5-6.99,85-89,75-79,<5.5,Placed
+2,Tier 3,USA,100-300,0,Cloud,Tech,Placed,7-8.99,80-84,70-74,<5.5,Placed
+1,Tier 2,Germany,300+,1,Cloud,Consulting,Placed,7-8.99,80-84,65-69,5.5-6.99,Placed
+1,Tier 3,Germany,300+,2,Cloud,Finance,Placed,5.5-6.99,65-69,65-69,7-8.99,Placed
+2,Tier 2,Germany,Top 100,2,Cloud,Consulting,Placed,5.5-6.99,55-59,75-79,5.5-6.99,Placed
+1,Tier 2,USA,100-300,4,Cloud,Tech,Placed,7-8.99,65-69,75-79,<5.5,Placed
+1,Tier 1,India,100-300,2,Data Science,Tech,Placed,5.5-6.99,85-89,45-49,5.5-6.99,Placed
+2,Tier 2,USA,300+,3,Core CS,Manufacturing,Not Placed,5.5-6.99,85-89,70-74,<5.5,Not Placed
+2,Tier 2,USA,300+,2,Cloud,Consulting,Not Placed,5.5-6.99,55-59,55-59,<5.5,Not Placed
+1,Tier 1,Germany,100-300,1,Core CS,Manufacturing,Not Placed,7-8.99,70-74,70-74,<5.5,Placed
+3,Tier 1,USA,300+,1,Cloud,Healthcare,Placed,5.5-6.99,90-94,70-74,5.5-6.99,Not Placed
+1,Tier 1,Germany,100-300,0,Cybersecurity,Healthcare,Not Placed,5.5-6.99,90-94,65-69,5.5-6.99,Placed
+6,Tier 1,Canada,300+,2,Core CS,Consulting,Not Placed,5.5-6.99,75-79,60-64,5.5-6.99,Not Placed
+0,Tier 1,UK,100-300,3,Data Science,Other,Placed,7-8.99,70-74,70-74,<5.5,Placed
+0,Tier 1,India,300+,1,Data Science,Healthcare,Placed,7-8.99,95-99,70-74,5.5-6.99,Placed
+3,Tier 2,Canada,Top 100,2,Cybersecurity,Consulting,Placed,7-8.99,80-84,45-49,<5.5,Placed
+1,Tier 3,USA,100-300,1,Cloud,Finance,Placed,5.5-6.99,40-44,65-69,<5.5,Not Placed
+1,Tier 1,Germany,300+,0,Core CS,Other,Placed,7-8.99,65-69,80-84,<5.5,Placed
+1,Tier 3,UK,100-300,3,Cybersecurity,Finance,Placed,7-8.99,45-49,40-44,<5.5,Placed
+2,Tier 3,UK,300+,1,Core CS,Other,Not Placed,5.5-6.99,30-34,70-74,<5.5,Not Placed
+2,Tier 3,India,300+,2,Core CS,Finance,Placed,5.5-6.99,60-64,85-89,7-8.99,Placed
+0,Tier 3,India,Top 100,1,Data Science,Healthcare,Placed,5.5-6.99,75-79,60-64,<5.5,Placed
+1,Tier 3,Canada,100-300,1,AI/ML,Healthcare,Placed,7-8.99,75-79,55-59,7-8.99,Placed
+3,Tier 3,Germany,Top 100,1,Data Science,Finance,Not Placed,5.5-6.99,60-64,55-59,<5.5,Not Placed
+0,Tier 3,USA,300+,1,AI/ML,Other,Placed,7-8.99,90-94,65-69,5.5-6.99,Placed
+2,Tier 1,India,300+,1,Cloud,Other,Not Placed,5.5-6.99,60-64,70-74,<5.5,Not Placed
+2,Tier 3,UK,Top 100,1,AI/ML,Tech,Placed,7-8.99,70-74,85-89,5.5-6.99,Placed
+1,Tier 3,Canada,100-300,1,Data Science,Healthcare,Placed,7-8.99,95-99,45-49,5.5-6.99,Placed
+0,Tier 2,USA,300+,0,Cybersecurity,Finance,Not Placed,5.5-6.99,60-64,100-104,<5.5,Placed
+3,Tier 3,Canada,300+,1,Cybersecurity,Consulting,Not Placed,7-8.99,70-74,70-74,5.5-6.99,Not Placed
+1,Tier 2,India,300+,1,Cybersecurity,Manufacturing,Not Placed,7-8.99,75-79,45-49,<5.5,Placed
+4,Tier 1,India,100-300,0,Core CS,Finance,Placed,7-8.99,85-89,90-94,5.5-6.99,Not Placed
+1,Tier 2,Canada,Top 100,0,Cloud,Healthcare,Placed,7-8.99,50-54,65-69,<5.5,Placed
+0,Tier 1,UK,300+,0,Core CS,Consulting,Placed,7-8.99,55-59,60-64,5.5-6.99,Placed
+1,Tier 3,India,300+,0,Data Science,Tech,Placed,7-8.99,50-54,60-64,5.5-6.99,Placed
+0,Tier 2,Germany,300+,0,Data Science,Tech,Not Placed,7-8.99,65-69,60-64,<5.5,Placed
+0,Tier 3,UK,300+,1,Core CS,Manufacturing,Not Placed,5.5-6.99,75-79,45-49,<5.5,Not Placed
+2,Tier 1,USA,100-300,1,Core CS,Manufacturing,Not Placed,5.5-6.99,80-84,90-94,<5.5,Not Placed
+1,Tier 1,Germany,100-300,0,Cloud,Finance,Not Placed,<5.5,60-64,75-79,<5.5,Not Placed
+1,Tier 1,Canada,Top 100,2,Cybersecurity,Healthcare,Placed,7-8.99,55-59,60-64,<5.5,Placed
+0,Tier 3,UK,100-300,2,Core CS,Tech,Placed,7-8.99,75-79,45-49,5.5-6.99,Placed
+2,Tier 3,Germany,100-300,1,Core CS,Manufacturing,Placed,7-8.99,75-79,55-59,<5.5,Not Placed
+1,Tier 2,USA,100-300,3,Core CS,Healthcare,Placed,5.5-6.99,90-94,80-84,<5.5,Placed
+0,Tier 2,Canada,Top 100,3,Cloud,Healthcare,Placed,7-8.99,60-64,65-69,<5.5,Placed
+1,Tier 1,Germany,Top 100,0,Core CS,Healthcare,Not Placed,5.5-6.99,70-74,65-69,<5.5,Not Placed
+2,Tier 1,UK,300+,1,Data Science,Consulting,Placed,7-8.99,90-94,60-64,5.5-6.99,Placed
+2,Tier 3,Canada,100-300,2,Cybersecurity,Finance,Placed,5.5-6.99,60-64,70-74,<5.5,Not Placed
+0,Tier 3,USA,300+,0,Data Science,Healthcare,Placed,5.5-6.99,70-74,60-64,7-8.99,Placed
+0,Tier 2,Canada,300+,2,Cloud,Finance,Placed,5.5-6.99,50-54,100-104,5.5-6.99,Placed
+0,Tier 1,UK,100-300,2,Cloud,Healthcare,Not Placed,5.5-6.99,90-94,80-84,5.5-6.99,Placed
+0,Tier 2,Canada,300+,1,Core CS,Consulting,Not Placed,5.5-6.99,55-59,50-54,<5.5,Not Placed
+0,Tier 2,India,Top 100,4,Cybersecurity,Finance,Placed,7-8.99,90-94,30-34,<5.5,Placed
+3,Tier 1,Canada,300+,0,Core CS,Manufacturing,Not Placed,5.5-6.99,80-84,70-74,<5.5,Not Placed
+1,Tier 1,USA,100-300,1,Core CS,Consulting,Not Placed,7-8.99,65-69,60-64,<5.5,Placed
+2,Tier 3,India,300+,4,Data Science,Finance,Not Placed,5.5-6.99,70-74,95-99,<5.5,Placed
+2,Tier 1,UK,100-300,3,AI/ML,Other,Placed,7-8.99,45-49,65-69,7-8.99,Placed
+2,Tier 2,Canada,100-300,0,Data Science,Other,Not Placed,7-8.99,55-59,65-69,<5.5,Not Placed
+2,Tier 3,Canada,100-300,1,Core CS,Consulting,Not Placed,7-8.99,55-59,65-69,5.5-6.99,Placed
+1,Tier 2,Germany,300+,3,Data Science,Finance,Placed,7-8.99,40-44,65-69,5.5-6.99,Placed
+0,Tier 2,USA,300+,2,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,70-74,55-59,<5.5,Placed
+2,Tier 1,Canada,300+,3,Cybersecurity,Tech,Placed,5.5-6.99,90-94,60-64,<5.5,Placed
+1,Tier 3,Canada,300+,2,AI/ML,Healthcare,Placed,5.5-6.99,60-64,60-64,5.5-6.99,Placed
+2,Tier 2,Canada,300+,1,Cybersecurity,Finance,Not Placed,5.5-6.99,75-79,50-54,5.5-6.99,Not Placed
+1,Tier 3,Canada,300+,2,AI/ML,Other,Not Placed,7-8.99,50-54,100-104,<5.5,Placed
+1,Tier 2,USA,300+,1,Cybersecurity,Consulting,Placed,7-8.99,60-64,75-79,5.5-6.99,Placed
+1,Tier 1,India,300+,1,AI/ML,Healthcare,Not Placed,5.5-6.99,80-84,30-34,<5.5,Not Placed
+2,Tier 2,India,300+,1,Data Science,Consulting,Not Placed,5.5-6.99,30-34,45-49,<5.5,Not Placed
+1,Tier 1,India,Top 100,1,Data Science,Consulting,Placed,5.5-6.99,55-59,60-64,<5.5,Not Placed
+0,Tier 3,India,100-300,2,Data Science,Healthcare,Placed,7-8.99,70-74,90-94,5.5-6.99,Placed
+2,Tier 2,India,100-300,1,Cloud,Manufacturing,Placed,5.5-6.99,50-54,80-84,<5.5,Not Placed
+3,Tier 3,UK,Top 100,1,Core CS,Consulting,Not Placed,5.5-6.99,75-79,70-74,5.5-6.99,Not Placed
+2,Tier 2,USA,300+,1,Cybersecurity,Tech,Not Placed,7-8.99,55-59,70-74,5.5-6.99,Placed
+2,Tier 2,Germany,300+,2,Core CS,Consulting,Placed,7-8.99,60-64,65-69,<5.5,Not Placed
+0,Tier 1,UK,300+,1,Data Science,Finance,Placed,7-8.99,65-69,85-89,<5.5,Placed
+1,Tier 3,USA,Top 100,4,Data Science,Consulting,Placed,7-8.99,85-89,60-64,<5.5,Placed
+3,Tier 2,India,Top 100,2,Cybersecurity,Manufacturing,Placed,7-8.99,45-49,65-69,5.5-6.99,Placed
+2,Tier 3,Canada,300+,2,Data Science,Consulting,Placed,7-8.99,70-74,75-79,<5.5,Placed
+0,Tier 3,Canada,300+,2,Data Science,Finance,Not Placed,5.5-6.99,75-79,55-59,5.5-6.99,Placed
+3,Tier 2,Germany,100-300,1,Cloud,Manufacturing,Not Placed,7-8.99,45-49,55-59,7-8.99,Placed
+1,Tier 1,UK,300+,1,Data Science,Consulting,Placed,7-8.99,65-69,35-39,<5.5,Not Placed
+2,Tier 3,Germany,300+,1,Core CS,Finance,Not Placed,5.5-6.99,55-59,75-79,<5.5,Not Placed
+1,Tier 3,Canada,300+,2,Data Science,Finance,Placed,7-8.99,70-74,65-69,<5.5,Placed
+3,Tier 2,Germany,Top 100,0,Cybersecurity,Manufacturing,Placed,7-8.99,45-49,55-59,7-8.99,Placed
+2,Tier 3,Canada,300+,1,Data Science,Manufacturing,Not Placed,7-8.99,75-79,55-59,<5.5,Not Placed
+3,Tier 3,USA,Top 100,2,Data Science,Other,Not Placed,7-8.99,65-69,65-69,7-8.99,Placed
+2,Tier 3,Canada,Top 100,1,AI/ML,Consulting,Not Placed,7-8.99,60-64,35-39,5.5-6.99,Placed
+0,Tier 2,India,Top 100,1,Cloud,Consulting,Placed,5.5-6.99,90-94,50-54,<5.5,Placed
+1,Tier 2,Germany,300+,1,Data Science,Consulting,Not Placed,5.5-6.99,75-79,55-59,<5.5,Not Placed
+5,Tier 3,USA,100-300,0,Cybersecurity,Healthcare,Not Placed,7-8.99,100-104,50-54,<5.5,Not Placed
+3,Tier 2,India,100-300,1,Core CS,Consulting,Not Placed,5.5-6.99,65-69,75-79,7-8.99,Placed
+0,Tier 3,Germany,Top 100,0,Cloud,Finance,Placed,7-8.99,75-79,45-49,<5.5,Placed
+1,Tier 1,UK,Top 100,2,AI/ML,Finance,Placed,7-8.99,70-74,65-69,5.5-6.99,Placed
+0,Tier 2,UK,300+,2,Cybersecurity,Manufacturing,Placed,7-8.99,90-94,65-69,7-8.99,Placed
+0,Tier 1,USA,300+,0,Core CS,Tech,Placed,7-8.99,75-79,55-59,7-8.99,Placed
+0,Tier 2,USA,Top 100,1,AI/ML,Consulting,Placed,7-8.99,100-104,50-54,7-8.99,Placed
+1,Tier 2,USA,100-300,0,Cloud,Manufacturing,Not Placed,5.5-6.99,90-94,45-49,<5.5,Not Placed
+1,Tier 2,USA,300+,0,AI/ML,Consulting,Not Placed,7-8.99,60-64,70-74,5.5-6.99,Placed
+1,Tier 2,Canada,300+,1,Core CS,Other,Placed,7-8.99,65-69,85-89,5.5-6.99,Placed
+0,Tier 1,USA,300+,1,Cloud,Manufacturing,Placed,5.5-6.99,40-44,90-94,<5.5,Placed
+1,Tier 1,UK,300+,1,Data Science,Healthcare,Placed,5.5-6.99,60-64,55-59,<5.5,Not Placed
+1,Tier 2,Canada,100-300,3,Core CS,Manufacturing,Not Placed,7-8.99,55-59,60-64,7-8.99,Placed
+0,Tier 3,USA,300+,4,Data Science,Tech,Placed,7-8.99,80-84,40-44,5.5-6.99,Placed
+2,Tier 3,Germany,100-300,2,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,75-79,70-74,<5.5,Not Placed
+0,Tier 1,UK,100-300,5,AI/ML,Finance,Placed,5.5-6.99,50-54,40-44,<5.5,Placed
+0,Tier 3,USA,100-300,2,AI/ML,Finance,Placed,7-8.99,55-59,85-89,5.5-6.99,Placed
+2,Tier 2,Canada,100-300,2,Data Science,Manufacturing,Placed,<5.5,75-79,65-69,<5.5,Not Placed
+0,Tier 2,India,300+,1,Core CS,Consulting,Placed,5.5-6.99,65-69,50-54,5.5-6.99,Placed
+1,Tier 1,USA,300+,1,Core CS,Manufacturing,Not Placed,5.5-6.99,65-69,75-79,<5.5,Not Placed
+1,Tier 2,USA,300+,0,Core CS,Finance,Placed,5.5-6.99,65-69,70-74,<5.5,Not Placed
+2,Tier 3,Germany,300+,1,Cybersecurity,Tech,Placed,5.5-6.99,45-49,45-49,<5.5,Not Placed
+0,Tier 1,India,100-300,5,Cybersecurity,Manufacturing,Placed,7-8.99,50-54,55-59,<5.5,Placed
+4,Tier 1,UK,300+,0,Cloud,Finance,Not Placed,5.5-6.99,75-79,35-39,<5.5,Not Placed
+0,Tier 2,India,100-300,1,Cybersecurity,Consulting,Placed,7-8.99,80-84,70-74,5.5-6.99,Placed
+0,Tier 1,Canada,100-300,1,Cybersecurity,Healthcare,Placed,5.5-6.99,65-69,100-104,<5.5,Placed
+0,Tier 2,UK,Top 100,0,Cloud,Finance,Placed,7-8.99,75-79,40-44,5.5-6.99,Placed
+0,Tier 1,USA,Top 100,1,Cloud,Finance,Placed,7-8.99,60-64,50-54,5.5-6.99,Placed
+0,Tier 2,USA,300+,2,Core CS,Finance,Placed,7-8.99,85-89,65-69,7-8.99,Placed
+0,Tier 2,USA,300+,1,Cybersecurity,Tech,Placed,7-8.99,75-79,80-84,<5.5,Placed
+3,Tier 1,UK,300+,3,Data Science,Consulting,Not Placed,7-8.99,95-99,45-49,<5.5,Placed
+2,Tier 2,India,Top 100,3,Cybersecurity,Healthcare,Placed,7-8.99,30-34,60-64,<5.5,Placed
+2,Tier 3,USA,300+,5,Cybersecurity,Tech,Placed,7-8.99,60-64,45-49,<5.5,Placed
+1,Tier 1,Germany,300+,0,Cybersecurity,Manufacturing,Placed,7-8.99,75-79,65-69,<5.5,Not Placed
+0,Tier 1,India,300+,0,Cloud,Healthcare,Placed,7-8.99,60-64,85-89,<5.5,Placed
+1,Tier 2,USA,300+,0,Core CS,Finance,Not Placed,5.5-6.99,70-74,65-69,5.5-6.99,Not Placed
+1,Tier 2,Canada,Top 100,0,Core CS,Healthcare,Not Placed,7-8.99,65-69,70-74,<5.5,Placed
+2,Tier 1,Canada,300+,0,Core CS,Tech,Not Placed,<5.5,80-84,65-69,<5.5,Not Placed
+2,Tier 2,UK,Top 100,0,AI/ML,Other,Not Placed,5.5-6.99,75-79,40-44,<5.5,Not Placed
+1,Tier 3,UK,300+,0,Data Science,Consulting,Placed,5.5-6.99,75-79,60-64,<5.5,Not Placed
+1,Tier 3,Canada,300+,2,AI/ML,Finance,Not Placed,5.5-6.99,45-49,45-49,5.5-6.99,Placed
+0,Tier 2,USA,300+,1,Data Science,Healthcare,Placed,7-8.99,70-74,75-79,<5.5,Placed
+0,Tier 3,UK,Top 100,2,Data Science,Consulting,Placed,7-8.99,30-34,80-84,<5.5,Placed
+1,Tier 2,India,300+,1,AI/ML,Finance,Placed,5.5-6.99,70-74,55-59,5.5-6.99,Placed
+2,Tier 3,USA,300+,2,Cybersecurity,Manufacturing,Placed,7-8.99,70-74,80-84,7-8.99,Placed
+0,Tier 1,India,Top 100,4,Data Science,Finance,Placed,5.5-6.99,80-84,90-94,5.5-6.99,Placed
+1,Tier 3,India,300+,1,Core CS,Other,Not Placed,5.5-6.99,60-64,70-74,5.5-6.99,Not Placed
+0,Tier 2,India,100-300,1,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,65-69,55-59,7-8.99,Placed
+2,Tier 3,Germany,100-300,2,Data Science,Consulting,Not Placed,5.5-6.99,80-84,50-54,7-8.99,Placed
+0,Tier 1,India,Top 100,2,AI/ML,Tech,Placed,7-8.99,75-79,35-39,<5.5,Placed
+1,Tier 1,USA,100-300,1,Cybersecurity,Consulting,Placed,5.5-6.99,55-59,75-79,<5.5,Not Placed
+2,Tier 2,UK,300+,1,AI/ML,Manufacturing,Not Placed,5.5-6.99,80-84,75-79,<5.5,Not Placed
+2,Tier 2,Germany,300+,2,Core CS,Manufacturing,Not Placed,5.5-6.99,55-59,65-69,<5.5,Not Placed
+1,Tier 1,UK,Top 100,0,AI/ML,Consulting,Placed,5.5-6.99,75-79,60-64,<5.5,Placed
+0,Tier 2,Germany,100-300,2,Core CS,Tech,Placed,7-8.99,65-69,55-59,<5.5,Placed
+0,Tier 2,Germany,300+,1,Cloud,Finance,Placed,5.5-6.99,80-84,55-59,5.5-6.99,Placed
+2,Tier 1,USA,100-300,2,Cloud,Tech,Placed,7-8.99,50-54,75-79,<5.5,Placed
+3,Tier 3,UK,100-300,0,Cloud,Consulting,Not Placed,5.5-6.99,50-54,75-79,<5.5,Not Placed
+2,Tier 3,Germany,100-300,3,Cloud,Consulting,Placed,<5.5,65-69,70-74,<5.5,Not Placed
+0,Tier 3,India,100-300,4,Data Science,Finance,Placed,5.5-6.99,80-84,75-79,5.5-6.99,Placed
+1,Tier 2,Canada,300+,1,Data Science,Tech,Placed,5.5-6.99,55-59,45-49,<5.5,Not Placed
+1,Tier 2,USA,300+,1,Core CS,Other,Placed,7-8.99,70-74,50-54,<5.5,Not Placed
+2,Tier 2,UK,Top 100,5,Data Science,Manufacturing,Placed,5.5-6.99,70-74,50-54,<5.5,Placed
+1,Tier 1,Canada,300+,2,Data Science,Tech,Placed,5.5-6.99,70-74,90-94,<5.5,Placed
+3,Tier 2,India,300+,3,Data Science,Healthcare,Not Placed,7-8.99,80-84,40-44,<5.5,Placed
+3,Tier 3,Germany,100-300,1,Core CS,Other,Placed,7-8.99,75-79,60-64,5.5-6.99,Not Placed
+0,Tier 3,Germany,100-300,1,Cloud,Manufacturing,Placed,5.5-6.99,90-94,70-74,<5.5,Placed
+1,Tier 1,USA,100-300,1,Cloud,Manufacturing,Placed,7-8.99,75-79,85-89,<5.5,Placed
+2,Tier 3,Canada,300+,0,Core CS,Healthcare,Not Placed,5.5-6.99,70-74,40-44,5.5-6.99,Not Placed
+1,Tier 1,Germany,Top 100,1,Cloud,Finance,Placed,7-8.99,80-84,55-59,<5.5,Placed
+1,Tier 2,Germany,300+,0,Data Science,Manufacturing,Not Placed,5.5-6.99,40-44,80-84,<5.5,Not Placed
+1,Tier 2,USA,100-300,0,Cloud,Other,Placed,5.5-6.99,55-59,75-79,<5.5,Not Placed
+2,Tier 1,Germany,100-300,3,Cybersecurity,Other,Not Placed,5.5-6.99,50-54,65-69,<5.5,Not Placed
+1,Tier 2,India,Top 100,2,Data Science,Tech,Placed,7-8.99,85-89,35-39,<5.5,Placed
+0,Tier 1,UK,300+,4,Core CS,Healthcare,Placed,5.5-6.99,55-59,30-34,5.5-6.99,Placed
+1,Tier 2,UK,300+,2,Core CS,Manufacturing,Placed,7-8.99,50-54,50-54,<5.5,Not Placed
+0,Tier 2,India,Top 100,1,Data Science,Other,Not Placed,5.5-6.99,50-54,70-74,<5.5,Placed
+4,Tier 2,Germany,300+,2,Core CS,Tech,Placed,7-8.99,80-84,35-39,5.5-6.99,Not Placed
+4,Tier 1,USA,100-300,1,Core CS,Healthcare,Not Placed,5.5-6.99,55-59,65-69,<5.5,Not Placed
+2,Tier 3,USA,100-300,1,Core CS,Finance,Not Placed,7-8.99,50-54,35-39,<5.5,Not Placed
+1,Tier 3,USA,Top 100,1,Cloud,Other,Not Placed,5.5-6.99,55-59,60-64,<5.5,Not Placed
+2,Tier 2,UK,300+,0,AI/ML,Consulting,Placed,5.5-6.99,70-74,70-74,<5.5,Not Placed
+2,Tier 1,UK,300+,2,Cybersecurity,Finance,Placed,5.5-6.99,85-89,50-54,<5.5,Not Placed
+0,Tier 1,Canada,Top 100,2,Cloud,Tech,Placed,7-8.99,50-54,45-49,7-8.99,Placed
+3,Tier 2,USA,300+,4,Data Science,Manufacturing,Not Placed,5.5-6.99,60-64,55-59,5.5-6.99,Not Placed
+1,Tier 3,USA,300+,4,Cloud,Other,Not Placed,5.5-6.99,85-89,30-34,<5.5,Not Placed
+0,Tier 2,UK,100-300,1,Data Science,Other,Placed,7-8.99,85-89,50-54,<5.5,Placed
+1,Tier 2,UK,300+,1,Cloud,Consulting,Not Placed,5.5-6.99,75-79,75-79,<5.5,Not Placed
+0,Tier 2,India,100-300,2,AI/ML,Consulting,Placed,5.5-6.99,70-74,70-74,<5.5,Placed
+1,Tier 3,India,300+,1,Cybersecurity,Consulting,Not Placed,5.5-6.99,65-69,40-44,<5.5,Not Placed
+2,Tier 2,India,Top 100,3,Data Science,Tech,Not Placed,7-8.99,70-74,50-54,<5.5,Placed
+1,Tier 3,India,100-300,1,Core CS,Finance,Placed,5.5-6.99,45-49,60-64,<5.5,Not Placed
+1,Tier 3,UK,100-300,0,Data Science,Finance,Placed,5.5-6.99,85-89,95-99,<5.5,Placed
+0,Tier 2,Canada,300+,3,Cybersecurity,Other,Placed,7-8.99,70-74,45-49,5.5-6.99,Placed
+1,Tier 3,UK,Top 100,2,Cybersecurity,Other,Placed,5.5-6.99,50-54,75-79,<5.5,Placed
+0,Tier 2,Canada,100-300,1,Cybersecurity,Consulting,Placed,7-8.99,50-54,50-54,7-8.99,Placed
+2,Tier 1,UK,300+,1,Cybersecurity,Tech,Placed,5.5-6.99,65-69,30-34,<5.5,Not Placed
+1,Tier 3,India,300+,1,Core CS,Tech,Placed,<5.5,65-69,70-74,<5.5,Not Placed
+0,Tier 3,India,300+,1,Cybersecurity,Tech,Placed,7-8.99,50-54,50-54,<5.5,Placed
+2,Tier 2,Germany,Top 100,4,Data Science,Finance,Placed,5.5-6.99,60-64,60-64,<5.5,Placed
+1,Tier 3,Germany,300+,3,Core CS,Finance,Placed,5.5-6.99,90-94,75-79,<5.5,Placed
+0,Tier 3,India,300+,2,Data Science,Healthcare,Placed,7-8.99,70-74,60-64,<5.5,Placed
+1,Tier 2,UK,100-300,3,Cloud,Finance,Placed,7-8.99,75-79,90-94,<5.5,Placed
+0,Tier 3,Canada,100-300,0,Cloud,Manufacturing,Placed,9-10,70-74,35-39,9-10,Placed
+1,Tier 1,UK,300+,1,Cloud,Healthcare,Placed,7-8.99,85-89,65-69,5.5-6.99,Placed
+0,Tier 1,UK,Top 100,2,Data Science,Other,Placed,5.5-6.99,65-69,55-59,<5.5,Placed
+0,Tier 2,Germany,300+,1,Core CS,Finance,Placed,7-8.99,70-74,55-59,<5.5,Placed
+1,Tier 2,UK,100-300,3,Cloud,Manufacturing,Placed,7-8.99,70-74,65-69,<5.5,Placed
+1,Tier 3,USA,100-300,1,Cloud,Manufacturing,Placed,7-8.99,65-69,85-89,5.5-6.99,Placed
+3,Tier 1,USA,300+,3,Data Science,Consulting,Not Placed,7-8.99,60-64,45-49,5.5-6.99,Placed
+0,Tier 1,UK,100-300,4,AI/ML,Finance,Placed,5.5-6.99,70-74,70-74,<5.5,Placed
+2,Tier 1,Canada,Top 100,2,Cybersecurity,Tech,Not Placed,<5.5,60-64,75-79,<5.5,Not Placed
+2,Tier 1,Canada,Top 100,1,AI/ML,Consulting,Placed,7-8.99,45-49,90-94,<5.5,Placed
+1,Tier 3,Canada,Top 100,0,Data Science,Manufacturing,Placed,7-8.99,55-59,60-64,9-10,Placed
+0,Tier 2,India,300+,3,Core CS,Tech,Placed,7-8.99,85-89,60-64,<5.5,Placed
+2,Tier 2,UK,100-300,1,AI/ML,Tech,Placed,7-8.99,55-59,70-74,<5.5,Placed
+1,Tier 2,Germany,300+,1,Core CS,Finance,Placed,7-8.99,95-99,60-64,<5.5,Placed
+0,Tier 2,Germany,100-300,4,Cloud,Finance,Placed,7-8.99,75-79,95-99,5.5-6.99,Placed
+3,Tier 2,UK,100-300,2,Core CS,Healthcare,Placed,5.5-6.99,60-64,65-69,<5.5,Not Placed
+1,Tier 2,UK,300+,0,Cybersecurity,Finance,Not Placed,7-8.99,55-59,40-44,<5.5,Not Placed
+1,Tier 3,UK,Top 100,2,Data Science,Tech,Placed,5.5-6.99,85-89,45-49,<5.5,Placed
+1,Tier 2,Germany,300+,0,Data Science,Healthcare,Not Placed,7-8.99,50-54,40-44,<5.5,Not Placed
+3,Tier 1,Germany,300+,4,Cloud,Consulting,Placed,<5.5,65-69,65-69,<5.5,Not Placed
+2,Tier 2,India,100-300,1,AI/ML,Consulting,Not Placed,5.5-6.99,55-59,80-84,<5.5,Not Placed
+1,Tier 1,Germany,300+,4,Cloud,Tech,Not Placed,7-8.99,45-49,55-59,<5.5,Placed
+2,Tier 2,UK,100-300,0,Data Science,Consulting,Not Placed,5.5-6.99,90-94,80-84,<5.5,Not Placed
+2,Tier 2,Canada,100-300,1,Cloud,Tech,Placed,<5.5,85-89,55-59,<5.5,Not Placed
+5,Tier 1,UK,Top 100,0,Cloud,Finance,Not Placed,<5.5,75-79,65-69,<5.5,Not Placed
+2,Tier 1,Germany,100-300,2,Cloud,Tech,Not Placed,5.5-6.99,70-74,60-64,<5.5,Not Placed
+2,Tier 2,USA,100-300,0,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,55-59,65-69,<5.5,Not Placed
+0,Tier 2,Germany,300+,3,Cybersecurity,Consulting,Placed,7-8.99,55-59,75-79,<5.5,Placed
+2,Tier 2,Germany,300+,3,Core CS,Consulting,Placed,5.5-6.99,75-79,60-64,<5.5,Not Placed
+2,Tier 3,Germany,300+,2,AI/ML,Tech,Placed,7-8.99,65-69,70-74,5.5-6.99,Placed
+0,Tier 3,USA,100-300,2,Cloud,Manufacturing,Not Placed,5.5-6.99,65-69,70-74,5.5-6.99,Placed
+0,Tier 2,UK,300+,3,Cloud,Consulting,Placed,9-10,45-49,55-59,<5.5,Placed
+0,Tier 2,Germany,300+,0,Cybersecurity,Finance,Placed,7-8.99,70-74,75-79,<5.5,Placed
+1,Tier 3,India,100-300,1,Cloud,Other,Placed,5.5-6.99,60-64,75-79,<5.5,Not Placed
+3,Tier 1,Germany,Top 100,1,Cybersecurity,Other,Not Placed,5.5-6.99,55-59,55-59,<5.5,Not Placed
+0,Tier 1,Canada,300+,2,Core CS,Healthcare,Placed,5.5-6.99,40-44,75-79,7-8.99,Placed
+0,Tier 2,Canada,100-300,4,Data Science,Consulting,Placed,7-8.99,80-84,65-69,<5.5,Placed
+0,Tier 1,USA,Top 100,3,Core CS,Manufacturing,Placed,5.5-6.99,75-79,65-69,<5.5,Placed
+1,Tier 2,Canada,300+,2,Cloud,Finance,Not Placed,5.5-6.99,80-84,50-54,<5.5,Not Placed
+4,Tier 2,Canada,Top 100,2,Cloud,Tech,Placed,7-8.99,65-69,70-74,5.5-6.99,Placed
+0,Tier 1,Canada,100-300,2,AI/ML,Manufacturing,Not Placed,7-8.99,65-69,60-64,<5.5,Placed
+2,Tier 2,India,300+,1,AI/ML,Healthcare,Not Placed,<5.5,95-99,80-84,<5.5,Not Placed
+1,Tier 1,India,100-300,0,AI/ML,Finance,Not Placed,5.5-6.99,60-64,50-54,<5.5,Not Placed
+0,Tier 2,UK,300+,1,Cybersecurity,Tech,Not Placed,7-8.99,75-79,75-79,<5.5,Placed
+3,Tier 2,Canada,100-300,2,Cloud,Consulting,Not Placed,5.5-6.99,75-79,30-34,<5.5,Not Placed
+3,Tier 1,Canada,100-300,2,Core CS,Finance,Placed,7-8.99,60-64,85-89,7-8.99,Placed
+0,Tier 2,Germany,Top 100,1,Core CS,Consulting,Placed,7-8.99,80-84,60-64,<5.5,Placed
+1,Tier 3,USA,100-300,3,AI/ML,Other,Not Placed,5.5-6.99,30-34,60-64,<5.5,Not Placed
+0,Tier 1,USA,300+,1,Data Science,Healthcare,Placed,7-8.99,80-84,80-84,<5.5,Placed
+0,Tier 3,Germany,100-300,4,Data Science,Consulting,Placed,7-8.99,80-84,30-34,<5.5,Placed
+1,Tier 2,India,300+,5,Core CS,Tech,Placed,7-8.99,30-34,35-39,<5.5,Placed
+1,Tier 3,Canada,Top 100,0,AI/ML,Manufacturing,Placed,7-8.99,75-79,60-64,<5.5,Placed
+0,Tier 3,USA,300+,2,Data Science,Consulting,Not Placed,5.5-6.99,45-49,45-49,5.5-6.99,Placed
+0,Tier 1,UK,Top 100,2,Cybersecurity,Other,Placed,7-8.99,90-94,50-54,<5.5,Placed
+1,Tier 1,UK,100-300,3,Data Science,Consulting,Placed,5.5-6.99,85-89,35-39,<5.5,Placed
+1,Tier 2,Canada,300+,1,Cloud,Consulting,Not Placed,5.5-6.99,60-64,60-64,<5.5,Not Placed
+2,Tier 3,UK,100-300,3,Cloud,Tech,Placed,5.5-6.99,65-69,65-69,<5.5,Placed
+0,Tier 2,Germany,300+,1,AI/ML,Other,Placed,7-8.99,75-79,40-44,7-8.99,Placed
+4,Tier 1,Canada,300+,1,Data Science,Manufacturing,Not Placed,7-8.99,40-44,70-74,5.5-6.99,Not Placed
+0,Tier 3,India,300+,1,Core CS,Tech,Placed,5.5-6.99,50-54,70-74,5.5-6.99,Placed
+0,Tier 1,UK,100-300,4,Core CS,Manufacturing,Placed,7-8.99,85-89,55-59,<5.5,Placed
+0,Tier 1,USA,Top 100,1,AI/ML,Finance,Placed,5.5-6.99,65-69,75-79,<5.5,Placed
+0,Tier 1,USA,300+,1,Core CS,Other,Placed,7-8.99,60-64,75-79,<5.5,Placed
+1,Tier 2,India,100-300,0,AI/ML,Finance,Not Placed,7-8.99,65-69,50-54,<5.5,Placed
+2,Tier 1,USA,100-300,1,Core CS,Consulting,Placed,5.5-6.99,55-59,35-39,5.5-6.99,Not Placed
+0,Tier 3,UK,100-300,0,AI/ML,Healthcare,Placed,7-8.99,75-79,70-74,5.5-6.99,Placed
+3,Tier 1,Canada,300+,3,Data Science,Finance,Placed,7-8.99,40-44,55-59,<5.5,Not Placed
+0,Tier 2,Germany,100-300,0,Data Science,Tech,Placed,7-8.99,85-89,50-54,7-8.99,Placed
+1,Tier 3,USA,100-300,4,AI/ML,Other,Placed,7-8.99,65-69,60-64,7-8.99,Placed
+4,Tier 1,India,Top 100,3,Cloud,Finance,Not Placed,7-8.99,85-89,45-49,<5.5,Placed
+0,Tier 3,India,100-300,0,Core CS,Consulting,Placed,5.5-6.99,60-64,55-59,<5.5,Placed
+1,Tier 2,India,100-300,0,Cybersecurity,Healthcare,Not Placed,7-8.99,65-69,75-79,<5.5,Placed
+2,Tier 2,UK,300+,0,Cybersecurity,Healthcare,Placed,7-8.99,70-74,50-54,<5.5,Not Placed
+2,Tier 2,India,100-300,1,AI/ML,Finance,Not Placed,5.5-6.99,90-94,80-84,<5.5,Placed
+1,Tier 2,UK,300+,4,Cybersecurity,Finance,Not Placed,5.5-6.99,30-34,70-74,<5.5,Placed
+1,Tier 1,Germany,300+,1,AI/ML,Healthcare,Placed,5.5-6.99,70-74,45-49,<5.5,Not Placed
+1,Tier 3,Germany,100-300,4,AI/ML,Manufacturing,Placed,5.5-6.99,60-64,65-69,5.5-6.99,Placed
+0,Tier 1,UK,Top 100,1,Cloud,Consulting,Placed,7-8.99,65-69,65-69,<5.5,Placed
+2,Tier 1,UK,Top 100,1,AI/ML,Tech,Not Placed,<5.5,70-74,60-64,5.5-6.99,Not Placed
+1,Tier 1,Canada,300+,2,Data Science,Finance,Placed,5.5-6.99,65-69,65-69,<5.5,Not Placed
+1,Tier 1,USA,300+,0,Core CS,Manufacturing,Placed,7-8.99,55-59,75-79,5.5-6.99,Placed
+2,Tier 2,India,Top 100,1,Data Science,Finance,Placed,7-8.99,55-59,45-49,7-8.99,Placed
+2,Tier 3,India,100-300,2,Cloud,Consulting,Placed,5.5-6.99,75-79,45-49,5.5-6.99,Placed
+0,Tier 3,India,100-300,1,Data Science,Tech,Placed,5.5-6.99,75-79,75-79,5.5-6.99,Placed
+2,Tier 2,USA,Top 100,1,Data Science,Healthcare,Placed,5.5-6.99,80-84,55-59,<5.5,Not Placed
+1,Tier 1,India,300+,3,AI/ML,Consulting,Placed,7-8.99,60-64,90-94,<5.5,Placed
+1,Tier 2,UK,100-300,2,Cybersecurity,Other,Placed,5.5-6.99,100-104,35-39,5.5-6.99,Placed
+0,Tier 2,Germany,Top 100,2,Cybersecurity,Manufacturing,Placed,7-8.99,90-94,60-64,5.5-6.99,Placed
+1,Tier 1,Canada,Top 100,0,Cybersecurity,Finance,Placed,7-8.99,65-69,70-74,5.5-6.99,Placed
+1,Tier 3,India,100-300,0,Data Science,Manufacturing,Placed,5.5-6.99,75-79,60-64,<5.5,Not Placed
+0,Tier 3,USA,300+,0,AI/ML,Other,Placed,7-8.99,75-79,55-59,5.5-6.99,Placed
+2,Tier 1,India,300+,2,Cloud,Other,Placed,7-8.99,65-69,85-89,5.5-6.99,Placed
+0,Tier 3,India,Top 100,1,AI/ML,Finance,Placed,5.5-6.99,60-64,40-44,<5.5,Placed
+0,Tier 1,USA,100-300,0,Core CS,Consulting,Placed,7-8.99,70-74,60-64,<5.5,Placed
+3,Tier 1,UK,Top 100,1,Cloud,Other,Placed,7-8.99,65-69,75-79,<5.5,Not Placed
+2,Tier 1,UK,100-300,4,AI/ML,Manufacturing,Not Placed,7-8.99,65-69,75-79,<5.5,Placed
+1,Tier 1,India,100-300,1,Data Science,Healthcare,Not Placed,7-8.99,65-69,70-74,<5.5,Placed
+2,Tier 2,Canada,100-300,2,AI/ML,Consulting,Not Placed,7-8.99,75-79,45-49,<5.5,Placed
+0,Tier 3,India,Top 100,2,Cybersecurity,Healthcare,Placed,7-8.99,70-74,60-64,7-8.99,Placed
+0,Tier 1,USA,300+,3,Core CS,Healthcare,Placed,5.5-6.99,60-64,50-54,7-8.99,Placed
+0,Tier 3,UK,300+,2,Cybersecurity,Manufacturing,Not Placed,7-8.99,75-79,65-69,<5.5,Placed
+2,Tier 2,India,100-300,1,Core CS,Other,Not Placed,5.5-6.99,90-94,55-59,<5.5,Not Placed
+1,Tier 3,USA,100-300,2,Cloud,Other,Not Placed,5.5-6.99,45-49,60-64,5.5-6.99,Placed
+2,Tier 1,Canada,100-300,1,Cloud,Consulting,Placed,7-8.99,50-54,50-54,7-8.99,Placed
+2,Tier 1,UK,100-300,1,Cybersecurity,Finance,Not Placed,5.5-6.99,75-79,30-34,<5.5,Not Placed
+1,Tier 3,UK,100-300,1,AI/ML,Healthcare,Placed,7-8.99,75-79,70-74,5.5-6.99,Placed
+0,Tier 2,India,Top 100,2,Cybersecurity,Other,Not Placed,7-8.99,55-59,50-54,<5.5,Placed
+2,Tier 1,Germany,300+,2,Core CS,Tech,Not Placed,7-8.99,45-49,55-59,<5.5,Not Placed
+3,Tier 3,Canada,300+,0,AI/ML,Manufacturing,Not Placed,7-8.99,55-59,75-79,<5.5,Not Placed
+1,Tier 1,UK,100-300,3,Cybersecurity,Healthcare,Placed,7-8.99,50-54,50-54,5.5-6.99,Placed
+3,Tier 1,UK,300+,1,Core CS,Finance,Not Placed,7-8.99,45-49,65-69,<5.5,Not Placed
+1,Tier 3,Germany,300+,0,Cloud,Manufacturing,Not Placed,7-8.99,70-74,60-64,<5.5,Not Placed
+2,Tier 3,UK,300+,1,AI/ML,Other,Not Placed,5.5-6.99,50-54,65-69,5.5-6.99,Not Placed
+0,Tier 1,Germany,100-300,1,Core CS,Tech,Placed,5.5-6.99,70-74,75-79,5.5-6.99,Placed
+0,Tier 3,Canada,Top 100,4,Cloud,Finance,Placed,5.5-6.99,75-79,75-79,5.5-6.99,Placed
+1,Tier 3,Canada,Top 100,3,Cybersecurity,Other,Placed,5.5-6.99,40-44,45-49,<5.5,Placed
+2,Tier 3,India,Top 100,0,Cloud,Finance,Not Placed,5.5-6.99,65-69,80-84,5.5-6.99,Placed
+3,Tier 2,USA,100-300,4,Data Science,Finance,Placed,7-8.99,65-69,75-79,5.5-6.99,Placed
+3,Tier 1,India,100-300,1,Cybersecurity,Tech,Placed,5.5-6.99,65-69,50-54,<5.5,Not Placed
+0,Tier 2,Germany,100-300,1,Core CS,Healthcare,Placed,5.5-6.99,95-99,40-44,<5.5,Placed
+1,Tier 2,India,100-300,1,AI/ML,Other,Placed,7-8.99,75-79,50-54,<5.5,Placed
+0,Tier 2,India,100-300,1,Data Science,Tech,Placed,5.5-6.99,90-94,45-49,5.5-6.99,Placed
+0,Tier 2,USA,100-300,2,Core CS,Tech,Not Placed,5.5-6.99,60-64,60-64,5.5-6.99,Placed
+2,Tier 3,India,100-300,0,Cybersecurity,Manufacturing,Placed,5.5-6.99,85-89,65-69,<5.5,Not Placed
+2,Tier 3,India,100-300,2,Core CS,Healthcare,Placed,7-8.99,65-69,50-54,5.5-6.99,Placed
+1,Tier 2,Germany,300+,2,Core CS,Finance,Placed,7-8.99,50-54,50-54,<5.5,Placed
+3,Tier 2,India,100-300,1,AI/ML,Consulting,Not Placed,7-8.99,65-69,45-49,<5.5,Not Placed
+0,Tier 2,USA,100-300,0,Core CS,Tech,Placed,7-8.99,50-54,60-64,<5.5,Placed
+1,Tier 2,Canada,300+,2,AI/ML,Healthcare,Placed,7-8.99,80-84,55-59,<5.5,Placed
+2,Tier 2,Germany,100-300,1,Core CS,Manufacturing,Not Placed,7-8.99,40-44,65-69,<5.5,Not Placed
+1,Tier 1,USA,100-300,1,Cloud,Consulting,Placed,5.5-6.99,65-69,50-54,<5.5,Not Placed
+0,Tier 1,USA,Top 100,0,AI/ML,Finance,Placed,5.5-6.99,75-79,65-69,5.5-6.99,Placed
+2,Tier 1,Germany,Top 100,0,Core CS,Consulting,Placed,5.5-6.99,70-74,70-74,5.5-6.99,Not Placed
+0,Tier 3,UK,Top 100,3,Cloud,Other,Placed,7-8.99,100-104,65-69,<5.5,Placed
+1,Tier 1,Germany,300+,4,Core CS,Consulting,Placed,7-8.99,60-64,65-69,5.5-6.99,Placed
+1,Tier 2,USA,Top 100,2,AI/ML,Consulting,Placed,7-8.99,75-79,80-84,<5.5,Placed
+0,Tier 3,Canada,100-300,1,Cybersecurity,Consulting,Not Placed,5.5-6.99,50-54,80-84,5.5-6.99,Placed
+1,Tier 2,Germany,300+,1,Data Science,Other,Not Placed,5.5-6.99,50-54,65-69,5.5-6.99,Not Placed
+0,Tier 3,USA,300+,2,Data Science,Finance,Placed,7-8.99,80-84,70-74,<5.5,Placed
+3,Tier 2,Canada,300+,1,Cloud,Other,Not Placed,7-8.99,55-59,70-74,<5.5,Not Placed
+3,Tier 3,Germany,100-300,0,Cybersecurity,Other,Not Placed,5.5-6.99,50-54,50-54,5.5-6.99,Not Placed
+0,Tier 2,Germany,300+,0,AI/ML,Consulting,Placed,7-8.99,100-104,75-79,<5.5,Placed
+4,Tier 3,Canada,300+,3,Data Science,Manufacturing,Not Placed,5.5-6.99,85-89,80-84,<5.5,Not Placed
+3,Tier 2,Canada,300+,0,Cybersecurity,Other,Not Placed,7-8.99,60-64,55-59,<5.5,Not Placed
+3,Tier 1,Germany,100-300,3,Cloud,Consulting,Not Placed,5.5-6.99,40-44,70-74,<5.5,Not Placed
+0,Tier 3,Canada,Top 100,1,Cybersecurity,Healthcare,Placed,7-8.99,70-74,45-49,5.5-6.99,Placed
+2,Tier 3,Canada,300+,4,Core CS,Finance,Placed,7-8.99,70-74,65-69,<5.5,Placed
+0,Tier 3,India,100-300,3,AI/ML,Finance,Placed,7-8.99,80-84,35-39,<5.5,Placed
+0,Tier 3,Germany,Top 100,1,AI/ML,Other,Placed,5.5-6.99,70-74,45-49,<5.5,Placed
+2,Tier 2,India,100-300,2,Core CS,Other,Placed,5.5-6.99,70-74,75-79,<5.5,Not Placed
+2,Tier 1,India,300+,2,Core CS,Consulting,Not Placed,5.5-6.99,75-79,55-59,<5.5,Not Placed
+1,Tier 1,USA,100-300,2,Core CS,Healthcare,Placed,5.5-6.99,90-94,55-59,<5.5,Placed
+1,Tier 2,Germany,300+,4,Cloud,Tech,Placed,7-8.99,60-64,50-54,5.5-6.99,Placed
+0,Tier 2,USA,Top 100,1,AI/ML,Healthcare,Placed,5.5-6.99,80-84,85-89,<5.5,Placed
+2,Tier 1,Germany,100-300,1,Cybersecurity,Tech,Placed,5.5-6.99,70-74,70-74,<5.5,Not Placed
+0,Tier 2,Canada,100-300,0,AI/ML,Tech,Placed,7-8.99,50-54,60-64,<5.5,Placed
+4,Tier 2,UK,300+,2,Core CS,Consulting,Not Placed,5.5-6.99,55-59,90-94,<5.5,Not Placed
+0,Tier 2,Canada,100-300,1,Cybersecurity,Manufacturing,Placed,7-8.99,65-69,50-54,<5.5,Placed
+1,Tier 3,Germany,300+,0,Core CS,Healthcare,Placed,5.5-6.99,65-69,65-69,<5.5,Not Placed
+0,Tier 2,Germany,300+,2,Data Science,Finance,Placed,5.5-6.99,75-79,60-64,<5.5,Placed
+0,Tier 1,UK,300+,2,AI/ML,Healthcare,Not Placed,5.5-6.99,85-89,60-64,<5.5,Placed
+0,Tier 1,Canada,300+,1,Data Science,Tech,Placed,7-8.99,45-49,65-69,<5.5,Placed
+0,Tier 3,Germany,300+,0,Cloud,Finance,Not Placed,7-8.99,70-74,70-74,5.5-6.99,Placed
+3,Tier 1,UK,300+,1,Core CS,Consulting,Not Placed,7-8.99,75-79,55-59,<5.5,Not Placed
+1,Tier 3,USA,100-300,1,Core CS,Healthcare,Placed,7-8.99,75-79,55-59,5.5-6.99,Placed
+2,Tier 2,USA,300+,1,Data Science,Tech,Not Placed,5.5-6.99,30-34,70-74,<5.5,Not Placed
+2,Tier 2,Canada,Top 100,5,Data Science,Tech,Placed,<5.5,95-99,60-64,5.5-6.99,Placed
+4,Tier 2,USA,Top 100,1,Core CS,Finance,Not Placed,7-8.99,60-64,55-59,<5.5,Not Placed
+3,Tier 2,UK,Top 100,0,AI/ML,Finance,Not Placed,5.5-6.99,85-89,65-69,<5.5,Not Placed
+3,Tier 2,UK,300+,3,AI/ML,Manufacturing,Placed,7-8.99,75-79,60-64,<5.5,Not Placed
+0,Tier 2,Germany,300+,0,Data Science,Finance,Placed,7-8.99,75-79,75-79,<5.5,Placed
+1,Tier 2,Germany,Top 100,1,AI/ML,Healthcare,Placed,7-8.99,70-74,45-49,5.5-6.99,Placed
+0,Tier 1,UK,100-300,1,AI/ML,Tech,Placed,7-8.99,50-54,60-64,<5.5,Placed
+0,Tier 1,Canada,Top 100,1,Core CS,Other,Placed,7-8.99,65-69,75-79,<5.5,Placed
+1,Tier 3,India,100-300,1,Cloud,Finance,Not Placed,5.5-6.99,45-49,70-74,<5.5,Not Placed
+1,Tier 3,USA,300+,2,Core CS,Tech,Placed,7-8.99,45-49,70-74,5.5-6.99,Placed
+1,Tier 2,USA,300+,1,AI/ML,Consulting,Placed,5.5-6.99,80-84,95-99,5.5-6.99,Placed
+3,Tier 2,UK,300+,1,Data Science,Tech,Not Placed,5.5-6.99,50-54,70-74,<5.5,Not Placed
+1,Tier 1,UK,300+,0,Cybersecurity,Manufacturing,Placed,5.5-6.99,65-69,50-54,7-8.99,Not Placed
+1,Tier 2,India,100-300,2,Core CS,Manufacturing,Not Placed,5.5-6.99,55-59,90-94,5.5-6.99,Placed
+1,Tier 3,UK,300+,1,Data Science,Healthcare,Placed,5.5-6.99,50-54,45-49,<5.5,Not Placed
+6,Tier 1,UK,100-300,2,Cloud,Other,Not Placed,<5.5,65-69,80-84,<5.5,Not Placed
+0,Tier 2,USA,Top 100,1,Cloud,Tech,Placed,7-8.99,65-69,80-84,5.5-6.99,Placed
+0,Tier 3,USA,100-300,4,Data Science,Finance,Placed,7-8.99,60-64,65-69,<5.5,Placed
+3,Tier 1,USA,100-300,2,Cloud,Finance,Placed,5.5-6.99,85-89,75-79,5.5-6.99,Placed
+2,Tier 3,UK,300+,1,AI/ML,Finance,Placed,7-8.99,75-79,55-59,7-8.99,Placed
+2,Tier 2,Canada,100-300,0,Core CS,Finance,Not Placed,7-8.99,60-64,75-79,<5.5,Not Placed
+3,Tier 1,UK,300+,3,Cloud,Other,Not Placed,5.5-6.99,45-49,30-34,5.5-6.99,Not Placed
+2,Tier 1,Canada,100-300,0,AI/ML,Consulting,Not Placed,7-8.99,60-64,45-49,<5.5,Not Placed
+3,Tier 2,USA,100-300,2,Data Science,Manufacturing,Not Placed,<5.5,90-94,65-69,<5.5,Not Placed
+0,Tier 2,India,300+,0,Core CS,Healthcare,Placed,9-10,70-74,55-59,7-8.99,Placed
+2,Tier 2,Germany,300+,1,Data Science,Finance,Not Placed,5.5-6.99,50-54,55-59,5.5-6.99,Not Placed
+1,Tier 1,Germany,300+,1,Core CS,Consulting,Placed,7-8.99,70-74,60-64,7-8.99,Placed
+0,Tier 3,India,300+,0,Cybersecurity,Manufacturing,Placed,5.5-6.99,80-84,45-49,<5.5,Not Placed
+0,Tier 2,USA,Top 100,1,Cloud,Other,Placed,7-8.99,45-49,65-69,<5.5,Placed
+3,Tier 3,Canada,100-300,1,Cloud,Finance,Not Placed,5.5-6.99,55-59,60-64,<5.5,Not Placed
+1,Tier 1,USA,100-300,3,Core CS,Consulting,Placed,5.5-6.99,65-69,75-79,<5.5,Placed
+1,Tier 3,India,Top 100,1,Core CS,Finance,Placed,7-8.99,60-64,55-59,<5.5,Placed
+1,Tier 3,UK,Top 100,1,AI/ML,Consulting,Not Placed,<5.5,75-79,55-59,<5.5,Not Placed
+1,Tier 3,USA,300+,1,Data Science,Finance,Placed,7-8.99,50-54,40-44,<5.5,Placed
+0,Tier 1,India,100-300,2,AI/ML,Consulting,Not Placed,5.5-6.99,60-64,85-89,<5.5,Placed
+1,Tier 1,Germany,100-300,2,Cybersecurity,Other,Placed,5.5-6.99,70-74,75-79,<5.5,Placed
+0,Tier 1,Germany,100-300,0,AI/ML,Other,Not Placed,7-8.99,70-74,60-64,7-8.99,Placed
+1,Tier 2,India,100-300,1,Data Science,Consulting,Placed,5.5-6.99,70-74,50-54,<5.5,Not Placed
+1,Tier 2,Canada,100-300,0,Cloud,Manufacturing,Not Placed,5.5-6.99,45-49,45-49,<5.5,Not Placed
+0,Tier 2,UK,300+,2,Cloud,Healthcare,Placed,5.5-6.99,80-84,80-84,<5.5,Placed
+0,Tier 1,Germany,100-300,1,Data Science,Other,Not Placed,7-8.99,65-69,100-104,<5.5,Placed
+1,Tier 1,India,100-300,3,Core CS,Tech,Not Placed,5.5-6.99,60-64,55-59,7-8.99,Placed
+0,Tier 2,India,300+,2,Cloud,Tech,Placed,7-8.99,65-69,45-49,5.5-6.99,Placed
+2,Tier 1,UK,300+,0,Core CS,Manufacturing,Not Placed,7-8.99,75-79,100-104,5.5-6.99,Placed
+0,Tier 2,India,300+,2,Cloud,Finance,Placed,7-8.99,90-94,75-79,<5.5,Placed
+1,Tier 1,Germany,100-300,1,Cloud,Healthcare,Placed,7-8.99,65-69,70-74,<5.5,Placed
+0,Tier 1,Germany,300+,1,Cybersecurity,Manufacturing,Not Placed,7-8.99,65-69,70-74,5.5-6.99,Placed
+1,Tier 2,Germany,100-300,3,Data Science,Finance,Placed,5.5-6.99,40-44,80-84,5.5-6.99,Placed
+1,Tier 3,UK,300+,1,Cybersecurity,Tech,Placed,7-8.99,85-89,85-89,5.5-6.99,Placed
+3,Tier 1,Germany,Top 100,1,Data Science,Manufacturing,Not Placed,5.5-6.99,65-69,45-49,<5.5,Not Placed
+0,Tier 3,USA,300+,1,Core CS,Manufacturing,Not Placed,7-8.99,80-84,45-49,<5.5,Placed
+2,Tier 2,USA,100-300,1,Core CS,Manufacturing,Not Placed,7-8.99,70-74,60-64,<5.5,Not Placed
+0,Tier 1,Germany,Top 100,4,Data Science,Finance,Placed,7-8.99,85-89,65-69,5.5-6.99,Placed
+0,Tier 2,Germany,300+,1,Core CS,Finance,Placed,7-8.99,80-84,75-79,<5.5,Placed
+0,Tier 3,Canada,Top 100,0,AI/ML,Other,Placed,9-10,80-84,75-79,<5.5,Placed
+0,Tier 2,USA,100-300,4,Data Science,Consulting,Placed,7-8.99,55-59,55-59,<5.5,Placed
+3,Tier 2,Canada,100-300,1,Core CS,Healthcare,Not Placed,5.5-6.99,100-104,45-49,<5.5,Not Placed
+1,Tier 2,India,100-300,0,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,60-64,50-54,7-8.99,Placed
+2,Tier 2,UK,Top 100,1,Core CS,Finance,Placed,5.5-6.99,95-99,50-54,<5.5,Not Placed
+1,Tier 1,India,300+,1,Data Science,Manufacturing,Placed,7-8.99,80-84,60-64,<5.5,Placed
+1,Tier 2,USA,300+,3,Data Science,Healthcare,Placed,5.5-6.99,55-59,65-69,7-8.99,Placed
+2,Tier 1,India,300+,2,AI/ML,Other,Placed,5.5-6.99,80-84,70-74,<5.5,Not Placed
+1,Tier 2,Canada,300+,2,AI/ML,Manufacturing,Not Placed,7-8.99,45-49,70-74,<5.5,Placed
+1,Tier 1,USA,100-300,2,Cloud,Tech,Placed,5.5-6.99,50-54,40-44,<5.5,Placed
+2,Tier 3,Germany,300+,2,Cloud,Other,Placed,7-8.99,85-89,90-94,<5.5,Placed
+1,Tier 2,Germany,100-300,1,Cybersecurity,Finance,Not Placed,5.5-6.99,55-59,65-69,<5.5,Not Placed
+2,Tier 1,UK,100-300,2,Cloud,Other,Not Placed,5.5-6.99,55-59,65-69,<5.5,Not Placed
+0,Tier 2,USA,100-300,3,Cybersecurity,Tech,Placed,9-10,75-79,50-54,5.5-6.99,Placed
+1,Tier 2,Canada,Top 100,2,Core CS,Finance,Placed,5.5-6.99,75-79,40-44,<5.5,Placed
+3,Tier 1,Canada,100-300,0,Cloud,Consulting,Not Placed,5.5-6.99,75-79,75-79,<5.5,Not Placed
+0,Tier 1,UK,300+,1,AI/ML,Manufacturing,Placed,7-8.99,60-64,45-49,<5.5,Placed
+1,Tier 2,UK,100-300,1,Data Science,Finance,Placed,7-8.99,55-59,60-64,<5.5,Placed
+1,Tier 1,India,100-300,2,Core CS,Manufacturing,Placed,5.5-6.99,70-74,50-54,5.5-6.99,Placed
+4,Tier 1,USA,100-300,0,AI/ML,Manufacturing,Not Placed,5.5-6.99,45-49,75-79,<5.5,Not Placed
+4,Tier 1,India,300+,1,Cybersecurity,Manufacturing,Placed,7-8.99,55-59,85-89,7-8.99,Not Placed
+1,Tier 1,USA,300+,1,AI/ML,Manufacturing,Not Placed,5.5-6.99,50-54,90-94,<5.5,Not Placed
+2,Tier 1,India,300+,1,Cybersecurity,Consulting,Not Placed,7-8.99,55-59,55-59,5.5-6.99,Placed
+1,Tier 1,UK,Top 100,0,Core CS,Other,Not Placed,5.5-6.99,30-34,70-74,<5.5,Not Placed
+0,Tier 2,UK,100-300,1,Cloud,Other,Placed,7-8.99,80-84,60-64,<5.5,Placed
+1,Tier 2,Germany,Top 100,2,AI/ML,Manufacturing,Placed,7-8.99,75-79,80-84,7-8.99,Placed
+3,Tier 3,UK,Top 100,0,Cloud,Healthcare,Placed,7-8.99,50-54,75-79,5.5-6.99,Placed
+0,Tier 2,Germany,Top 100,1,Cloud,Other,Placed,5.5-6.99,65-69,60-64,<5.5,Placed
+0,Tier 2,USA,300+,2,Core CS,Manufacturing,Placed,5.5-6.99,50-54,90-94,7-8.99,Placed
+2,Tier 1,UK,100-300,3,Data Science,Manufacturing,Placed,7-8.99,80-84,75-79,<5.5,Placed
+2,Tier 2,UK,100-300,1,Core CS,Healthcare,Not Placed,7-8.99,30-34,40-44,<5.5,Not Placed
+2,Tier 2,USA,Top 100,1,AI/ML,Manufacturing,Not Placed,5.5-6.99,45-49,70-74,<5.5,Not Placed
+2,Tier 3,UK,100-300,0,AI/ML,Tech,Not Placed,5.5-6.99,95-99,70-74,<5.5,Not Placed
+1,Tier 3,Germany,300+,0,Core CS,Manufacturing,Not Placed,7-8.99,80-84,70-74,<5.5,Not Placed
+0,Tier 2,India,100-300,0,Data Science,Consulting,Placed,5.5-6.99,55-59,45-49,5.5-6.99,Placed
+0,Tier 3,UK,300+,1,AI/ML,Healthcare,Placed,7-8.99,85-89,55-59,5.5-6.99,Placed
+2,Tier 3,USA,300+,0,AI/ML,Manufacturing,Not Placed,7-8.99,80-84,60-64,7-8.99,Placed
+1,Tier 3,UK,300+,1,Cloud,Other,Not Placed,5.5-6.99,65-69,65-69,5.5-6.99,Not Placed
+1,Tier 2,India,100-300,1,AI/ML,Healthcare,Placed,5.5-6.99,80-84,80-84,<5.5,Placed
+1,Tier 2,Canada,Top 100,1,AI/ML,Tech,Not Placed,5.5-6.99,65-69,50-54,<5.5,Placed
+3,Tier 3,UK,300+,1,Cybersecurity,Healthcare,Placed,7-8.99,90-94,90-94,5.5-6.99,Placed
+0,Tier 3,Germany,300+,0,Core CS,Manufacturing,Not Placed,5.5-6.99,85-89,75-79,<5.5,Not Placed
+1,Tier 3,Germany,100-300,1,Data Science,Manufacturing,Placed,7-8.99,75-79,45-49,<5.5,Placed
+0,Tier 1,Canada,100-300,2,Data Science,Other,Not Placed,5.5-6.99,90-94,65-69,<5.5,Placed
+1,Tier 3,USA,300+,4,Core CS,Consulting,Placed,7-8.99,65-69,55-59,<5.5,Placed
+0,Tier 1,Canada,300+,3,Core CS,Other,Placed,5.5-6.99,80-84,95-99,<5.5,Placed
+1,Tier 2,Canada,300+,1,Cloud,Consulting,Placed,7-8.99,40-44,60-64,7-8.99,Placed
+0,Tier 3,UK,Top 100,1,Cybersecurity,Healthcare,Placed,5.5-6.99,80-84,65-69,<5.5,Placed
+2,Tier 3,USA,100-300,1,Data Science,Tech,Placed,7-8.99,65-69,80-84,<5.5,Placed
+2,Tier 1,India,Top 100,1,Cybersecurity,Manufacturing,Placed,5.5-6.99,75-79,70-74,5.5-6.99,Placed
+0,Tier 2,Canada,Top 100,1,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,65-69,65-69,<5.5,Placed
+0,Tier 3,Canada,300+,2,Cloud,Manufacturing,Placed,5.5-6.99,70-74,45-49,5.5-6.99,Placed
+1,Tier 1,USA,300+,3,Core CS,Manufacturing,Not Placed,7-8.99,55-59,50-54,5.5-6.99,Placed
+0,Tier 3,UK,100-300,1,Cloud,Healthcare,Placed,7-8.99,60-64,80-84,5.5-6.99,Placed
+3,Tier 1,Germany,100-300,1,Data Science,Tech,Not Placed,5.5-6.99,50-54,35-39,<5.5,Not Placed
+0,Tier 3,Canada,300+,1,Data Science,Manufacturing,Placed,7-8.99,70-74,55-59,<5.5,Placed
+0,Tier 2,Germany,300+,2,Core CS,Other,Placed,7-8.99,80-84,55-59,<5.5,Placed
+0,Tier 2,UK,300+,2,Core CS,Other,Placed,5.5-6.99,85-89,55-59,7-8.99,Placed
+0,Tier 2,USA,300+,0,Data Science,Other,Placed,7-8.99,30-34,75-79,5.5-6.99,Placed
+0,Tier 3,USA,100-300,0,Core CS,Healthcare,Placed,7-8.99,50-54,80-84,7-8.99,Placed
+0,Tier 3,Germany,Top 100,0,Data Science,Consulting,Not Placed,5.5-6.99,55-59,50-54,<5.5,Placed
+1,Tier 3,Canada,100-300,3,Cloud,Consulting,Placed,5.5-6.99,60-64,70-74,<5.5,Placed
+0,Tier 3,Germany,Top 100,1,Cybersecurity,Finance,Not Placed,5.5-6.99,90-94,50-54,<5.5,Placed
+0,Tier 1,USA,100-300,1,Core CS,Manufacturing,Placed,5.5-6.99,65-69,50-54,5.5-6.99,Placed
+2,Tier 2,India,300+,3,Cloud,Tech,Placed,5.5-6.99,30-34,55-59,<5.5,Not Placed
+1,Tier 2,India,300+,0,Data Science,Consulting,Not Placed,5.5-6.99,75-79,60-64,5.5-6.99,Not Placed
+1,Tier 2,Canada,Top 100,1,Cloud,Finance,Placed,7-8.99,60-64,80-84,5.5-6.99,Placed
+2,Tier 3,UK,300+,0,Data Science,Finance,Not Placed,<5.5,70-74,70-74,<5.5,Not Placed
+0,Tier 3,USA,300+,1,AI/ML,Other,Placed,5.5-6.99,80-84,75-79,<5.5,Placed
+0,Tier 3,UK,300+,2,Data Science,Healthcare,Placed,5.5-6.99,70-74,65-69,5.5-6.99,Placed
+3,Tier 1,USA,Top 100,1,Core CS,Manufacturing,Not Placed,7-8.99,95-99,55-59,<5.5,Not Placed
+1,Tier 1,USA,300+,0,Data Science,Finance,Placed,7-8.99,50-54,70-74,5.5-6.99,Placed
+0,Tier 3,Canada,100-300,2,Cybersecurity,Healthcare,Placed,5.5-6.99,65-69,80-84,<5.5,Placed
+1,Tier 2,Canada,300+,0,Core CS,Tech,Placed,7-8.99,75-79,55-59,5.5-6.99,Placed
+1,Tier 1,Canada,Top 100,1,Cybersecurity,Healthcare,Placed,5.5-6.99,30-34,65-69,5.5-6.99,Placed
+1,Tier 2,USA,300+,0,Core CS,Finance,Not Placed,7-8.99,55-59,65-69,<5.5,Not Placed
+0,Tier 2,India,100-300,0,Cloud,Healthcare,Placed,7-8.99,65-69,60-64,5.5-6.99,Placed
+1,Tier 2,India,300+,2,Cybersecurity,Manufacturing,Placed,7-8.99,90-94,30-34,<5.5,Placed
+0,Tier 2,Germany,100-300,3,Cybersecurity,Tech,Placed,7-8.99,90-94,40-44,5.5-6.99,Placed
+1,Tier 2,India,100-300,3,Cloud,Finance,Placed,5.5-6.99,70-74,55-59,5.5-6.99,Placed
+3,Tier 2,Germany,Top 100,0,Cybersecurity,Consulting,Not Placed,<5.5,55-59,50-54,<5.5,Not Placed
+3,Tier 2,India,300+,0,AI/ML,Finance,Not Placed,5.5-6.99,60-64,70-74,5.5-6.99,Not Placed
+0,Tier 3,Canada,100-300,2,Data Science,Manufacturing,Placed,7-8.99,70-74,60-64,5.5-6.99,Placed
+2,Tier 1,UK,300+,0,AI/ML,Healthcare,Not Placed,7-8.99,65-69,40-44,<5.5,Not Placed
+2,Tier 1,Canada,Top 100,1,Cloud,Manufacturing,Placed,5.5-6.99,85-89,60-64,<5.5,Not Placed
+0,Tier 1,Germany,300+,1,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,65-69,55-59,5.5-6.99,Placed
+1,Tier 2,UK,300+,3,Cybersecurity,Tech,Placed,5.5-6.99,65-69,40-44,<5.5,Placed
+1,Tier 2,UK,300+,0,Cybersecurity,Tech,Not Placed,5.5-6.99,40-44,60-64,<5.5,Not Placed
+2,Tier 1,Canada,100-300,1,Core CS,Consulting,Placed,5.5-6.99,90-94,60-64,5.5-6.99,Placed
+2,Tier 2,UK,100-300,1,Core CS,Finance,Not Placed,5.5-6.99,50-54,85-89,<5.5,Not Placed
+0,Tier 3,Canada,300+,2,Data Science,Tech,Placed,5.5-6.99,65-69,40-44,5.5-6.99,Placed
+1,Tier 1,India,Top 100,2,Core CS,Finance,Placed,7-8.99,70-74,80-84,7-8.99,Placed
+0,Tier 3,India,100-300,0,AI/ML,Other,Not Placed,5.5-6.99,100-104,80-84,5.5-6.99,Placed
+1,Tier 2,India,100-300,0,Cloud,Tech,Placed,7-8.99,55-59,55-59,5.5-6.99,Placed
+1,Tier 1,UK,100-300,1,Cloud,Healthcare,Placed,7-8.99,60-64,70-74,<5.5,Placed
+1,Tier 1,India,100-300,0,Cybersecurity,Healthcare,Not Placed,5.5-6.99,85-89,40-44,<5.5,Not Placed
+1,Tier 2,Germany,100-300,5,Cloud,Other,Placed,7-8.99,70-74,75-79,5.5-6.99,Placed
+4,Tier 2,India,100-300,4,Cloud,Consulting,Placed,7-8.99,75-79,55-59,<5.5,Placed
+1,Tier 2,Canada,100-300,1,AI/ML,Manufacturing,Not Placed,5.5-6.99,60-64,35-39,<5.5,Not Placed
+2,Tier 3,USA,300+,0,Cloud,Tech,Placed,7-8.99,85-89,40-44,5.5-6.99,Placed
+0,Tier 2,Germany,Top 100,2,Core CS,Healthcare,Not Placed,5.5-6.99,55-59,75-79,<5.5,Placed
+1,Tier 1,Germany,Top 100,2,Data Science,Consulting,Placed,7-8.99,70-74,70-74,<5.5,Placed
+1,Tier 1,India,300+,1,Cybersecurity,Tech,Not Placed,7-8.99,75-79,65-69,<5.5,Placed
+0,Tier 3,Germany,100-300,2,Cybersecurity,Consulting,Placed,5.5-6.99,50-54,85-89,<5.5,Placed
+3,Tier 1,India,300+,2,Cybersecurity,Healthcare,Not Placed,5.5-6.99,65-69,45-49,5.5-6.99,Not Placed
+0,Tier 1,UK,100-300,3,AI/ML,Other,Placed,7-8.99,50-54,85-89,<5.5,Placed
+1,Tier 1,Germany,300+,2,Core CS,Consulting,Placed,7-8.99,70-74,50-54,<5.5,Placed
+1,Tier 1,UK,300+,0,Data Science,Consulting,Not Placed,5.5-6.99,100-104,75-79,<5.5,Not Placed
+1,Tier 2,Canada,300+,0,Data Science,Finance,Not Placed,5.5-6.99,55-59,50-54,7-8.99,Placed
+1,Tier 3,Germany,100-300,3,Cloud,Finance,Placed,7-8.99,45-49,85-89,<5.5,Placed
+0,Tier 2,Canada,300+,0,Cloud,Consulting,Placed,7-8.99,55-59,60-64,5.5-6.99,Placed
+0,Tier 2,India,300+,0,Cybersecurity,Tech,Placed,5.5-6.99,35-39,65-69,<5.5,Not Placed
+2,Tier 3,USA,100-300,0,AI/ML,Manufacturing,Not Placed,5.5-6.99,65-69,80-84,5.5-6.99,Not Placed
+1,Tier 3,Canada,300+,2,Cybersecurity,Healthcare,Not Placed,5.5-6.99,60-64,65-69,<5.5,Not Placed
+0,Tier 1,USA,100-300,3,AI/ML,Other,Placed,5.5-6.99,55-59,60-64,5.5-6.99,Placed
+2,Tier 1,Canada,100-300,2,Data Science,Finance,Placed,7-8.99,40-44,50-54,7-8.99,Placed
+2,Tier 2,Germany,100-300,0,AI/ML,Finance,Placed,7-8.99,50-54,65-69,<5.5,Not Placed
+3,Tier 3,Germany,300+,0,Cybersecurity,Other,Not Placed,5.5-6.99,70-74,70-74,<5.5,Not Placed
+0,Tier 1,Germany,100-300,1,Data Science,Tech,Placed,7-8.99,85-89,75-79,<5.5,Placed
+0,Tier 3,Canada,Top 100,1,Cloud,Healthcare,Placed,7-8.99,90-94,70-74,5.5-6.99,Placed
+2,Tier 3,UK,300+,3,Data Science,Tech,Placed,7-8.99,60-64,60-64,<5.5,Placed
+0,Tier 2,USA,300+,1,AI/ML,Tech,Not Placed,5.5-6.99,60-64,75-79,<5.5,Placed
+3,Tier 3,Canada,Top 100,1,Cloud,Healthcare,Not Placed,7-8.99,55-59,95-99,<5.5,Placed
+0,Tier 1,UK,100-300,0,AI/ML,Other,Placed,7-8.99,70-74,70-74,<5.5,Placed
+1,Tier 2,USA,100-300,3,Cloud,Finance,Placed,7-8.99,50-54,65-69,5.5-6.99,Placed
+3,Tier 1,Canada,100-300,4,Data Science,Other,Placed,7-8.99,60-64,55-59,<5.5,Placed
+0,Tier 2,UK,100-300,2,Core CS,Consulting,Placed,7-8.99,55-59,70-74,5.5-6.99,Placed
+1,Tier 2,Canada,100-300,0,AI/ML,Finance,Not Placed,5.5-6.99,60-64,65-69,<5.5,Not Placed
+0,Tier 3,Canada,300+,1,Cloud,Other,Not Placed,7-8.99,85-89,70-74,5.5-6.99,Placed
+2,Tier 1,India,300+,2,AI/ML,Finance,Not Placed,5.5-6.99,75-79,75-79,5.5-6.99,Placed
+3,Tier 2,Canada,100-300,3,AI/ML,Finance,Placed,5.5-6.99,60-64,70-74,<5.5,Not Placed
+3,Tier 2,USA,300+,3,Core CS,Other,Not Placed,7-8.99,55-59,55-59,5.5-6.99,Placed
+1,Tier 3,India,100-300,0,AI/ML,Manufacturing,Not Placed,7-8.99,65-69,30-34,5.5-6.99,Placed
+3,Tier 3,India,300+,2,AI/ML,Other,Placed,7-8.99,75-79,65-69,<5.5,Not Placed
+0,Tier 1,India,100-300,0,Cybersecurity,Manufacturing,Placed,5.5-6.99,65-69,60-64,<5.5,Placed
+1,Tier 1,India,300+,1,Cloud,Healthcare,Placed,5.5-6.99,75-79,45-49,5.5-6.99,Placed
+2,Tier 3,USA,300+,0,Data Science,Finance,Not Placed,5.5-6.99,60-64,70-74,7-8.99,Not Placed
+1,Tier 2,India,Top 100,1,Data Science,Consulting,Placed,5.5-6.99,65-69,70-74,<5.5,Placed
+3,Tier 2,USA,300+,1,AI/ML,Healthcare,Not Placed,5.5-6.99,80-84,75-79,<5.5,Not Placed
+2,Tier 2,Germany,100-300,1,Data Science,Manufacturing,Not Placed,5.5-6.99,85-89,70-74,<5.5,Not Placed
+1,Tier 3,USA,300+,0,Core CS,Other,Not Placed,5.5-6.99,90-94,50-54,<5.5,Not Placed
+1,Tier 2,Germany,300+,1,Data Science,Finance,Placed,7-8.99,55-59,55-59,<5.5,Placed
+0,Tier 3,Canada,100-300,1,Cybersecurity,Healthcare,Placed,7-8.99,70-74,75-79,<5.5,Placed
+0,Tier 1,USA,Top 100,1,Data Science,Manufacturing,Placed,7-8.99,60-64,50-54,5.5-6.99,Placed
+5,Tier 3,Germany,100-300,2,Core CS,Consulting,Not Placed,7-8.99,30-34,50-54,9-10,Not Placed
+0,Tier 1,India,300+,3,Cloud,Other,Placed,5.5-6.99,90-94,55-59,5.5-6.99,Placed
+5,Tier 3,India,Top 100,2,Data Science,Finance,Placed,5.5-6.99,40-44,55-59,5.5-6.99,Not Placed
+1,Tier 2,India,100-300,1,Data Science,Finance,Placed,7-8.99,55-59,45-49,<5.5,Placed
+1,Tier 1,India,100-300,1,Cybersecurity,Other,Not Placed,7-8.99,40-44,40-44,5.5-6.99,Placed
+1,Tier 2,UK,300+,3,AI/ML,Healthcare,Placed,5.5-6.99,75-79,85-89,<5.5,Placed
+3,Tier 3,UK,Top 100,2,Data Science,Other,Not Placed,7-8.99,70-74,75-79,<5.5,Placed
+1,Tier 1,India,Top 100,3,Cloud,Healthcare,Placed,7-8.99,60-64,50-54,7-8.99,Placed
+2,Tier 1,India,Top 100,1,Data Science,Consulting,Placed,5.5-6.99,65-69,70-74,<5.5,Not Placed
+1,Tier 3,India,300+,1,Data Science,Healthcare,Placed,5.5-6.99,85-89,75-79,<5.5,Not Placed
+0,Tier 3,UK,100-300,2,Data Science,Finance,Placed,7-8.99,40-44,80-84,<5.5,Placed
+2,Tier 3,India,100-300,1,Cybersecurity,Healthcare,Not Placed,<5.5,80-84,85-89,<5.5,Not Placed
+2,Tier 1,Germany,100-300,2,Core CS,Consulting,Not Placed,5.5-6.99,70-74,80-84,<5.5,Not Placed
+1,Tier 2,Germany,100-300,3,Data Science,Manufacturing,Placed,7-8.99,75-79,100-104,<5.5,Placed
+1,Tier 3,Germany,100-300,2,Cybersecurity,Healthcare,Not Placed,5.5-6.99,70-74,55-59,<5.5,Placed
+2,Tier 3,Canada,100-300,2,Core CS,Healthcare,Placed,7-8.99,60-64,50-54,<5.5,Placed
+2,Tier 1,India,300+,0,Cybersecurity,Tech,Placed,9-10,70-74,75-79,<5.5,Placed
+2,Tier 3,UK,300+,0,Data Science,Manufacturing,Placed,7-8.99,55-59,55-59,5.5-6.99,Not Placed
+0,Tier 2,USA,300+,3,Data Science,Manufacturing,Placed,5.5-6.99,80-84,65-69,5.5-6.99,Placed
+1,Tier 1,USA,300+,4,Cloud,Consulting,Placed,7-8.99,60-64,60-64,<5.5,Placed
+2,Tier 2,USA,300+,3,Core CS,Other,Placed,7-8.99,65-69,80-84,<5.5,Placed
+3,Tier 3,UK,300+,0,Core CS,Finance,Not Placed,7-8.99,60-64,55-59,<5.5,Not Placed
+0,Tier 2,Germany,Top 100,2,Cloud,Consulting,Placed,7-8.99,90-94,65-69,<5.5,Placed
+3,Tier 1,USA,Top 100,0,Data Science,Manufacturing,Not Placed,<5.5,70-74,45-49,<5.5,Not Placed
+0,Tier 3,UK,100-300,1,AI/ML,Manufacturing,Placed,5.5-6.99,85-89,40-44,<5.5,Placed
+2,Tier 1,USA,Top 100,3,Core CS,Manufacturing,Not Placed,7-8.99,55-59,80-84,<5.5,Placed
+0,Tier 2,UK,Top 100,1,AI/ML,Finance,Placed,7-8.99,90-94,60-64,5.5-6.99,Placed
+2,Tier 3,Canada,300+,1,Core CS,Tech,Placed,<5.5,55-59,70-74,<5.5,Not Placed
+0,Tier 3,Germany,100-300,2,Data Science,Other,Placed,7-8.99,60-64,60-64,5.5-6.99,Placed
+0,Tier 3,Canada,100-300,2,Cloud,Other,Placed,7-8.99,75-79,75-79,<5.5,Placed
+0,Tier 3,Canada,300+,2,Data Science,Healthcare,Placed,7-8.99,85-89,75-79,<5.5,Placed
+1,Tier 1,USA,300+,0,Cloud,Finance,Placed,7-8.99,75-79,65-69,<5.5,Placed
+0,Tier 1,UK,100-300,1,AI/ML,Consulting,Placed,5.5-6.99,50-54,65-69,7-8.99,Placed
+5,Tier 1,Germany,300+,1,Core CS,Other,Not Placed,<5.5,80-84,55-59,<5.5,Not Placed
+1,Tier 1,USA,300+,2,Cybersecurity,Healthcare,Not Placed,5.5-6.99,85-89,50-54,<5.5,Not Placed
+2,Tier 1,USA,100-300,0,AI/ML,Tech,Not Placed,5.5-6.99,80-84,60-64,<5.5,Not Placed
+3,Tier 2,India,100-300,1,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,65-69,65-69,<5.5,Not Placed
+2,Tier 1,Canada,Top 100,0,Core CS,Manufacturing,Placed,7-8.99,90-94,75-79,<5.5,Placed
+1,Tier 3,UK,Top 100,0,Data Science,Consulting,Placed,5.5-6.99,50-54,70-74,<5.5,Not Placed
+1,Tier 2,UK,300+,3,Data Science,Healthcare,Not Placed,5.5-6.99,75-79,70-74,<5.5,Placed
+1,Tier 3,USA,100-300,0,Cybersecurity,Other,Placed,7-8.99,55-59,50-54,<5.5,Not Placed
+1,Tier 3,Germany,300+,0,Data Science,Healthcare,Placed,5.5-6.99,75-79,70-74,<5.5,Not Placed
+2,Tier 3,Germany,100-300,0,Data Science,Tech,Placed,5.5-6.99,75-79,55-59,7-8.99,Placed
+2,Tier 2,Germany,100-300,0,Cybersecurity,Other,Not Placed,<5.5,70-74,60-64,<5.5,Not Placed
+2,Tier 1,Germany,100-300,2,Core CS,Healthcare,Not Placed,5.5-6.99,75-79,85-89,5.5-6.99,Placed
+2,Tier 2,UK,100-300,2,AI/ML,Healthcare,Not Placed,5.5-6.99,80-84,70-74,5.5-6.99,Placed
+2,Tier 3,Canada,Top 100,1,Cybersecurity,Healthcare,Placed,7-8.99,60-64,75-79,7-8.99,Placed
+1,Tier 3,India,300+,2,Cybersecurity,Consulting,Not Placed,7-8.99,65-69,60-64,7-8.99,Placed
+3,Tier 2,UK,100-300,0,Data Science,Healthcare,Not Placed,5.5-6.99,90-94,55-59,<5.5,Not Placed
+1,Tier 3,India,100-300,0,Cybersecurity,Tech,Not Placed,5.5-6.99,90-94,45-49,<5.5,Placed
+0,Tier 1,UK,300+,2,Core CS,Consulting,Placed,5.5-6.99,75-79,65-69,<5.5,Placed
+1,Tier 1,USA,300+,3,AI/ML,Consulting,Placed,5.5-6.99,60-64,80-84,<5.5,Placed
+0,Tier 2,UK,300+,0,Cloud,Healthcare,Placed,7-8.99,85-89,65-69,<5.5,Placed
+0,Tier 2,India,100-300,2,Cybersecurity,Healthcare,Placed,7-8.99,80-84,40-44,<5.5,Placed
+1,Tier 2,India,300+,2,Data Science,Other,Placed,7-8.99,90-94,80-84,5.5-6.99,Placed
+1,Tier 1,UK,100-300,1,Core CS,Consulting,Placed,7-8.99,35-39,65-69,9-10,Placed
+2,Tier 2,UK,100-300,5,Data Science,Other,Placed,7-8.99,95-99,70-74,7-8.99,Placed
+0,Tier 1,Germany,300+,0,Cybersecurity,Manufacturing,Placed,5.5-6.99,90-94,40-44,<5.5,Not Placed
+1,Tier 2,UK,300+,1,AI/ML,Healthcare,Placed,7-8.99,45-49,95-99,5.5-6.99,Placed
+4,Tier 2,India,300+,3,Data Science,Healthcare,Placed,7-8.99,65-69,100-104,5.5-6.99,Placed
+2,Tier 3,India,300+,0,AI/ML,Healthcare,Placed,5.5-6.99,60-64,60-64,5.5-6.99,Not Placed
+2,Tier 3,India,300+,0,AI/ML,Finance,Not Placed,7-8.99,55-59,85-89,<5.5,Not Placed
+0,Tier 3,India,300+,2,Cybersecurity,Tech,Placed,7-8.99,70-74,50-54,5.5-6.99,Placed
+1,Tier 1,USA,Top 100,3,Cybersecurity,Consulting,Placed,7-8.99,60-64,70-74,5.5-6.99,Placed
+0,Tier 1,USA,100-300,1,Cybersecurity,Other,Not Placed,5.5-6.99,50-54,60-64,<5.5,Placed
+2,Tier 2,UK,300+,1,Cybersecurity,Finance,Not Placed,5.5-6.99,70-74,60-64,<5.5,Not Placed
+4,Tier 2,Germany,Top 100,2,Cloud,Tech,Not Placed,5.5-6.99,75-79,75-79,<5.5,Not Placed
+0,Tier 1,Germany,100-300,0,Cloud,Other,Placed,5.5-6.99,50-54,55-59,<5.5,Not Placed
+3,Tier 1,UK,300+,1,Core CS,Other,Not Placed,5.5-6.99,30-34,45-49,<5.5,Not Placed
+1,Tier 2,Canada,Top 100,2,Cloud,Consulting,Placed,5.5-6.99,75-79,30-34,<5.5,Placed
+0,Tier 2,Canada,Top 100,0,Cybersecurity,Other,Not Placed,5.5-6.99,80-84,55-59,5.5-6.99,Placed
+0,Tier 2,UK,Top 100,2,Cloud,Tech,Placed,5.5-6.99,50-54,50-54,<5.5,Placed
+1,Tier 2,Germany,Top 100,2,AI/ML,Other,Placed,7-8.99,60-64,80-84,5.5-6.99,Placed
+0,Tier 2,UK,Top 100,2,Data Science,Healthcare,Placed,5.5-6.99,70-74,75-79,<5.5,Placed
+2,Tier 2,USA,300+,2,Data Science,Consulting,Placed,5.5-6.99,80-84,50-54,<5.5,Not Placed
+0,Tier 2,Germany,300+,1,AI/ML,Finance,Not Placed,7-8.99,75-79,75-79,<5.5,Placed
+0,Tier 1,USA,Top 100,3,Cybersecurity,Tech,Placed,7-8.99,55-59,55-59,<5.5,Placed
+0,Tier 1,UK,300+,2,AI/ML,Other,Not Placed,5.5-6.99,60-64,90-94,<5.5,Placed
+1,Tier 1,India,Top 100,2,Cybersecurity,Tech,Placed,5.5-6.99,75-79,70-74,5.5-6.99,Placed
+0,Tier 2,Germany,300+,1,Core CS,Consulting,Placed,7-8.99,65-69,40-44,7-8.99,Placed
+2,Tier 2,Germany,Top 100,2,Cloud,Finance,Placed,5.5-6.99,60-64,50-54,5.5-6.99,Placed
+1,Tier 1,Germany,100-300,1,Core CS,Manufacturing,Placed,7-8.99,50-54,40-44,<5.5,Not Placed
+0,Tier 2,USA,300+,2,Data Science,Consulting,Placed,5.5-6.99,65-69,70-74,5.5-6.99,Placed
+2,Tier 1,Canada,300+,2,AI/ML,Manufacturing,Not Placed,7-8.99,35-39,55-59,<5.5,Not Placed
+0,Tier 2,USA,100-300,2,Cybersecurity,Finance,Placed,5.5-6.99,70-74,55-59,<5.5,Placed
+1,Tier 2,Canada,100-300,2,Core CS,Manufacturing,Not Placed,7-8.99,70-74,50-54,5.5-6.99,Placed
+1,Tier 2,Germany,100-300,3,Cloud,Healthcare,Not Placed,5.5-6.99,40-44,85-89,<5.5,Placed
+2,Tier 2,Canada,Top 100,2,Cybersecurity,Other,Placed,5.5-6.99,90-94,85-89,<5.5,Placed
+2,Tier 2,USA,100-300,1,Data Science,Finance,Placed,7-8.99,90-94,70-74,<5.5,Placed
+2,Tier 1,USA,300+,1,Cybersecurity,Healthcare,Placed,7-8.99,80-84,70-74,<5.5,Not Placed
+0,Tier 2,India,100-300,2,Cloud,Other,Placed,7-8.99,60-64,45-49,<5.5,Placed
+1,Tier 1,USA,Top 100,1,Core CS,Healthcare,Placed,7-8.99,70-74,80-84,<5.5,Placed
+1,Tier 1,UK,300+,1,Core CS,Tech,Placed,7-8.99,95-99,50-54,5.5-6.99,Placed
+1,Tier 2,India,100-300,1,AI/ML,Healthcare,Not Placed,7-8.99,70-74,50-54,<5.5,Placed
+1,Tier 2,UK,300+,1,Core CS,Consulting,Not Placed,5.5-6.99,75-79,85-89,<5.5,Not Placed
+1,Tier 3,USA,100-300,1,Data Science,Finance,Placed,7-8.99,65-69,60-64,7-8.99,Placed
+1,Tier 2,India,Top 100,0,Data Science,Tech,Placed,7-8.99,65-69,60-64,<5.5,Placed
+0,Tier 1,UK,100-300,3,Cloud,Consulting,Placed,5.5-6.99,95-99,40-44,5.5-6.99,Placed
+2,Tier 2,UK,100-300,1,Core CS,Other,Not Placed,7-8.99,55-59,70-74,<5.5,Not Placed
+3,Tier 2,UK,100-300,1,Cloud,Consulting,Not Placed,5.5-6.99,75-79,55-59,<5.5,Not Placed
+2,Tier 2,USA,100-300,3,Cybersecurity,Manufacturing,Placed,7-8.99,50-54,60-64,5.5-6.99,Placed
+1,Tier 2,Canada,300+,1,Cloud,Manufacturing,Not Placed,5.5-6.99,75-79,95-99,<5.5,Not Placed
+1,Tier 2,Canada,300+,4,Cybersecurity,Other,Placed,5.5-6.99,80-84,40-44,<5.5,Placed
+2,Tier 2,Germany,Top 100,1,Cloud,Consulting,Placed,7-8.99,80-84,95-99,<5.5,Placed
+2,Tier 3,Canada,300+,0,Cybersecurity,Other,Not Placed,5.5-6.99,95-99,35-39,<5.5,Not Placed
+2,Tier 2,Germany,300+,0,Data Science,Other,Not Placed,7-8.99,70-74,60-64,<5.5,Not Placed
+0,Tier 1,USA,Top 100,0,Cybersecurity,Manufacturing,Placed,5.5-6.99,70-74,65-69,<5.5,Placed
+3,Tier 2,Canada,300+,2,AI/ML,Other,Not Placed,5.5-6.99,75-79,45-49,<5.5,Not Placed
+1,Tier 1,UK,100-300,2,AI/ML,Manufacturing,Placed,5.5-6.99,45-49,50-54,7-8.99,Placed
+2,Tier 1,Canada,Top 100,2,Cloud,Manufacturing,Placed,5.5-6.99,60-64,60-64,<5.5,Not Placed
+0,Tier 2,India,300+,5,Data Science,Other,Placed,7-8.99,75-79,80-84,<5.5,Placed
+6,Tier 2,UK,100-300,0,Core CS,Manufacturing,Not Placed,7-8.99,60-64,40-44,<5.5,Not Placed
+1,Tier 2,India,100-300,1,AI/ML,Healthcare,Not Placed,5.5-6.99,45-49,85-89,<5.5,Placed
+1,Tier 1,Canada,100-300,0,Core CS,Finance,Placed,5.5-6.99,60-64,45-49,<5.5,Not Placed
+4,Tier 3,Canada,300+,2,Cloud,Healthcare,Not Placed,7-8.99,55-59,45-49,<5.5,Not Placed
+1,Tier 3,USA,Top 100,1,Core CS,Other,Placed,7-8.99,75-79,80-84,5.5-6.99,Placed
+1,Tier 3,UK,300+,1,Cloud,Consulting,Placed,7-8.99,60-64,30-34,<5.5,Not Placed
+0,Tier 1,Germany,300+,1,Data Science,Finance,Placed,5.5-6.99,35-39,95-99,<5.5,Placed
+2,Tier 1,India,300+,1,Cloud,Healthcare,Placed,7-8.99,60-64,70-74,<5.5,Not Placed
+2,Tier 3,Germany,100-300,0,Core CS,Other,Not Placed,5.5-6.99,55-59,60-64,<5.5,Not Placed
+2,Tier 3,Canada,300+,4,Cloud,Other,Placed,7-8.99,55-59,45-49,<5.5,Placed
+2,Tier 1,Canada,100-300,0,Cybersecurity,Healthcare,Not Placed,5.5-6.99,50-54,65-69,<5.5,Not Placed
+3,Tier 1,Germany,300+,3,Data Science,Manufacturing,Not Placed,5.5-6.99,70-74,65-69,5.5-6.99,Not Placed
+2,Tier 2,USA,300+,0,Core CS,Other,Placed,7-8.99,70-74,55-59,<5.5,Not Placed
+2,Tier 3,UK,300+,1,Cybersecurity,Other,Not Placed,7-8.99,50-54,40-44,<5.5,Not Placed
+0,Tier 1,Germany,300+,0,Cloud,Healthcare,Placed,9-10,45-49,100-104,7-8.99,Placed
+3,Tier 2,Canada,300+,3,Core CS,Finance,Placed,7-8.99,75-79,45-49,<5.5,Placed
+4,Tier 2,Germany,300+,0,Data Science,Tech,Placed,5.5-6.99,90-94,45-49,5.5-6.99,Not Placed
+1,Tier 3,UK,300+,0,Data Science,Other,Not Placed,7-8.99,65-69,70-74,7-8.99,Placed
+1,Tier 1,UK,Top 100,2,AI/ML,Tech,Placed,7-8.99,45-49,40-44,5.5-6.99,Placed
+0,Tier 2,India,100-300,1,AI/ML,Healthcare,Not Placed,5.5-6.99,50-54,55-59,<5.5,Placed
+2,Tier 1,India,300+,0,Cloud,Consulting,Placed,7-8.99,60-64,60-64,5.5-6.99,Placed
+1,Tier 2,India,300+,2,Cloud,Finance,Not Placed,7-8.99,80-84,55-59,<5.5,Placed
+2,Tier 3,UK,Top 100,2,Core CS,Finance,Not Placed,5.5-6.99,45-49,65-69,<5.5,Not Placed
+1,Tier 1,Canada,300+,3,Core CS,Healthcare,Placed,<5.5,80-84,65-69,7-8.99,Placed
+2,Tier 2,India,Top 100,1,Cloud,Other,Not Placed,<5.5,50-54,85-89,5.5-6.99,Not Placed
+1,Tier 2,Germany,100-300,0,AI/ML,Manufacturing,Placed,5.5-6.99,60-64,90-94,7-8.99,Placed
+1,Tier 3,Germany,100-300,3,Core CS,Manufacturing,Placed,5.5-6.99,55-59,85-89,5.5-6.99,Placed
+0,Tier 2,USA,100-300,1,Core CS,Tech,Placed,7-8.99,75-79,60-64,<5.5,Placed
+2,Tier 2,Canada,100-300,1,Cloud,Consulting,Not Placed,7-8.99,55-59,60-64,<5.5,Not Placed
+3,Tier 3,Germany,300+,3,AI/ML,Finance,Placed,5.5-6.99,70-74,45-49,<5.5,Not Placed
+2,Tier 3,USA,Top 100,3,Data Science,Manufacturing,Placed,7-8.99,65-69,55-59,<5.5,Placed
+3,Tier 1,Canada,300+,0,AI/ML,Other,Not Placed,5.5-6.99,65-69,45-49,5.5-6.99,Not Placed
+0,Tier 3,USA,300+,1,Cloud,Tech,Placed,7-8.99,55-59,75-79,<5.5,Placed
+0,Tier 3,Germany,300+,1,Cybersecurity,Other,Not Placed,7-8.99,60-64,55-59,<5.5,Placed
+1,Tier 2,USA,300+,2,AI/ML,Manufacturing,Placed,7-8.99,45-49,60-64,5.5-6.99,Placed
+0,Tier 3,India,Top 100,2,Core CS,Manufacturing,Placed,7-8.99,70-74,65-69,<5.5,Placed
+1,Tier 3,India,Top 100,0,Core CS,Healthcare,Placed,5.5-6.99,70-74,55-59,<5.5,Not Placed
+1,Tier 2,Canada,100-300,0,Core CS,Finance,Placed,7-8.99,65-69,50-54,5.5-6.99,Placed
+3,Tier 2,Germany,100-300,0,Cloud,Consulting,Not Placed,5.5-6.99,85-89,55-59,5.5-6.99,Not Placed
+2,Tier 3,UK,100-300,1,Core CS,Other,Placed,7-8.99,90-94,70-74,<5.5,Placed
+2,Tier 3,Germany,100-300,1,Core CS,Healthcare,Not Placed,5.5-6.99,85-89,45-49,<5.5,Not Placed
+0,Tier 3,India,100-300,3,Data Science,Manufacturing,Placed,7-8.99,50-54,50-54,<5.5,Placed
+0,Tier 2,UK,100-300,2,Cybersecurity,Tech,Placed,7-8.99,90-94,90-94,5.5-6.99,Placed
+4,Tier 2,Canada,300+,0,AI/ML,Tech,Not Placed,7-8.99,70-74,70-74,5.5-6.99,Not Placed
+1,Tier 2,USA,300+,0,Data Science,Tech,Placed,7-8.99,50-54,50-54,<5.5,Not Placed
+1,Tier 2,India,100-300,4,Cybersecurity,Healthcare,Placed,7-8.99,60-64,80-84,<5.5,Placed
+4,Tier 2,UK,300+,1,Cybersecurity,Consulting,Not Placed,7-8.99,50-54,80-84,<5.5,Not Placed
+1,Tier 3,Canada,100-300,1,Data Science,Tech,Placed,5.5-6.99,70-74,60-64,<5.5,Placed
+0,Tier 2,USA,100-300,1,Cybersecurity,Healthcare,Placed,5.5-6.99,60-64,65-69,7-8.99,Placed
+0,Tier 2,Germany,300+,2,Cloud,Consulting,Placed,7-8.99,70-74,65-69,<5.5,Placed
+1,Tier 1,Germany,300+,4,Cybersecurity,Consulting,Placed,7-8.99,55-59,55-59,<5.5,Placed
+3,Tier 2,UK,100-300,0,Cybersecurity,Tech,Not Placed,7-8.99,70-74,45-49,7-8.99,Placed
+1,Tier 3,USA,300+,0,Core CS,Healthcare,Placed,5.5-6.99,70-74,85-89,<5.5,Not Placed
+1,Tier 3,Canada,Top 100,0,Cloud,Manufacturing,Placed,7-8.99,75-79,70-74,<5.5,Placed
+4,Tier 3,Germany,Top 100,2,Cloud,Finance,Not Placed,5.5-6.99,100-104,45-49,<5.5,Not Placed
+0,Tier 1,Germany,Top 100,1,Cloud,Manufacturing,Placed,7-8.99,90-94,75-79,7-8.99,Placed
+1,Tier 3,Canada,Top 100,1,AI/ML,Tech,Placed,5.5-6.99,90-94,80-84,<5.5,Placed
+4,Tier 3,Germany,300+,4,AI/ML,Tech,Not Placed,5.5-6.99,75-79,45-49,5.5-6.99,Not Placed
+2,Tier 2,Germany,300+,1,Core CS,Finance,Not Placed,7-8.99,85-89,60-64,<5.5,Not Placed
+2,Tier 1,USA,300+,2,AI/ML,Finance,Not Placed,7-8.99,85-89,50-54,<5.5,Placed
+0,Tier 1,Canada,300+,0,Core CS,Healthcare,Placed,7-8.99,70-74,60-64,5.5-6.99,Placed
+1,Tier 3,India,300+,3,Core CS,Other,Placed,7-8.99,70-74,100-104,<5.5,Placed
+0,Tier 3,Germany,100-300,2,Cybersecurity,Manufacturing,Placed,5.5-6.99,85-89,70-74,<5.5,Placed
+0,Tier 3,UK,Top 100,1,Cloud,Finance,Not Placed,5.5-6.99,65-69,50-54,<5.5,Placed
+4,Tier 1,UK,300+,0,Data Science,Tech,Not Placed,<5.5,60-64,85-89,<5.5,Not Placed
+1,Tier 2,USA,300+,2,Core CS,Other,Placed,7-8.99,40-44,50-54,<5.5,Placed
+1,Tier 1,Canada,300+,2,AI/ML,Finance,Placed,5.5-6.99,85-89,70-74,<5.5,Placed
+2,Tier 1,UK,300+,0,Data Science,Tech,Not Placed,5.5-6.99,85-89,40-44,5.5-6.99,Not Placed
+1,Tier 3,UK,300+,1,Core CS,Finance,Not Placed,5.5-6.99,60-64,65-69,5.5-6.99,Not Placed
+0,Tier 1,USA,300+,0,Data Science,Other,Not Placed,7-8.99,75-79,50-54,<5.5,Placed
+1,Tier 2,UK,Top 100,1,Cybersecurity,Manufacturing,Placed,7-8.99,80-84,30-34,<5.5,Placed
+1,Tier 1,Canada,300+,0,Data Science,Manufacturing,Placed,7-8.99,80-84,50-54,5.5-6.99,Placed
+2,Tier 2,India,100-300,2,AI/ML,Manufacturing,Placed,7-8.99,35-39,90-94,7-8.99,Placed
+2,Tier 2,Canada,300+,5,Core CS,Consulting,Not Placed,5.5-6.99,70-74,80-84,5.5-6.99,Placed
+0,Tier 3,Canada,300+,2,AI/ML,Manufacturing,Placed,7-8.99,60-64,60-64,<5.5,Placed
+1,Tier 3,India,100-300,5,AI/ML,Tech,Placed,7-8.99,70-74,65-69,<5.5,Placed
+2,Tier 1,India,100-300,3,Data Science,Consulting,Placed,5.5-6.99,70-74,90-94,<5.5,Placed
+2,Tier 3,Canada,300+,4,Core CS,Other,Placed,5.5-6.99,60-64,70-74,5.5-6.99,Placed
+3,Tier 2,UK,300+,2,Core CS,Other,Not Placed,5.5-6.99,50-54,30-34,<5.5,Not Placed
+1,Tier 3,Canada,100-300,1,AI/ML,Consulting,Placed,7-8.99,80-84,65-69,5.5-6.99,Placed
+1,Tier 1,UK,300+,1,Cloud,Other,Placed,5.5-6.99,65-69,70-74,7-8.99,Placed
+2,Tier 1,India,Top 100,2,Cloud,Consulting,Not Placed,7-8.99,65-69,80-84,5.5-6.99,Placed
+1,Tier 3,USA,100-300,1,Core CS,Manufacturing,Not Placed,5.5-6.99,75-79,85-89,<5.5,Placed
+1,Tier 3,UK,300+,2,Core CS,Consulting,Placed,5.5-6.99,70-74,75-79,<5.5,Not Placed
+0,Tier 3,UK,Top 100,1,Cloud,Manufacturing,Placed,7-8.99,50-54,75-79,<5.5,Placed
+1,Tier 2,USA,Top 100,3,Cloud,Other,Placed,5.5-6.99,60-64,55-59,<5.5,Placed
+2,Tier 2,Canada,100-300,2,Core CS,Healthcare,Not Placed,5.5-6.99,60-64,45-49,<5.5,Not Placed
+1,Tier 1,Germany,100-300,1,Cloud,Manufacturing,Placed,7-8.99,45-49,50-54,<5.5,Placed
+0,Tier 2,Germany,300+,0,Core CS,Tech,Not Placed,7-8.99,80-84,40-44,<5.5,Placed
+1,Tier 1,Germany,Top 100,2,Core CS,Healthcare,Placed,7-8.99,55-59,80-84,5.5-6.99,Placed
+1,Tier 1,Canada,300+,2,Core CS,Tech,Not Placed,5.5-6.99,55-59,85-89,<5.5,Placed
+0,Tier 1,Canada,100-300,3,AI/ML,Finance,Placed,7-8.99,70-74,60-64,<5.5,Placed
+2,Tier 3,India,100-300,2,Cloud,Tech,Placed,5.5-6.99,70-74,75-79,<5.5,Placed
+1,Tier 2,Germany,100-300,0,Cybersecurity,Healthcare,Placed,7-8.99,55-59,85-89,7-8.99,Placed
+2,Tier 2,USA,300+,4,AI/ML,Tech,Placed,7-8.99,90-94,45-49,5.5-6.99,Placed
+1,Tier 1,Canada,Top 100,0,Data Science,Manufacturing,Not Placed,5.5-6.99,85-89,60-64,<5.5,Not Placed
+0,Tier 1,UK,100-300,3,Cybersecurity,Tech,Placed,7-8.99,85-89,70-74,<5.5,Placed
+0,Tier 2,India,100-300,0,AI/ML,Finance,Placed,7-8.99,80-84,65-69,7-8.99,Placed
+0,Tier 3,UK,100-300,1,Data Science,Consulting,Placed,7-8.99,30-34,80-84,7-8.99,Placed
+2,Tier 3,UK,300+,3,Cybersecurity,Consulting,Placed,7-8.99,65-69,75-79,5.5-6.99,Placed
+0,Tier 2,Canada,100-300,2,Cybersecurity,Finance,Placed,7-8.99,70-74,70-74,5.5-6.99,Placed
+1,Tier 2,India,Top 100,1,Cybersecurity,Tech,Not Placed,5.5-6.99,75-79,55-59,<5.5,Placed
+2,Tier 2,India,100-300,0,Cybersecurity,Manufacturing,Not Placed,7-8.99,35-39,65-69,7-8.99,Placed
+0,Tier 2,India,300+,2,Cloud,Manufacturing,Placed,7-8.99,75-79,80-84,<5.5,Placed
+1,Tier 2,Canada,100-300,2,Data Science,Consulting,Placed,7-8.99,50-54,60-64,<5.5,Placed
+1,Tier 2,UK,Top 100,0,Data Science,Consulting,Not Placed,5.5-6.99,45-49,70-74,5.5-6.99,Placed
+2,Tier 1,Canada,100-300,1,Core CS,Other,Not Placed,7-8.99,55-59,60-64,7-8.99,Placed
+0,Tier 1,UK,100-300,2,Cybersecurity,Healthcare,Placed,7-8.99,60-64,65-69,<5.5,Placed
+1,Tier 3,Germany,300+,1,Core CS,Other,Placed,7-8.99,80-84,85-89,<5.5,Placed
+2,Tier 1,India,100-300,1,Data Science,Healthcare,Placed,7-8.99,90-94,70-74,<5.5,Placed
+1,Tier 1,Germany,100-300,3,Cybersecurity,Tech,Placed,7-8.99,70-74,50-54,5.5-6.99,Placed
+1,Tier 3,USA,300+,0,AI/ML,Tech,Not Placed,5.5-6.99,70-74,60-64,<5.5,Not Placed
+1,Tier 3,Canada,100-300,4,AI/ML,Healthcare,Placed,5.5-6.99,75-79,75-79,7-8.99,Placed
+3,Tier 3,UK,100-300,0,Data Science,Finance,Not Placed,7-8.99,55-59,55-59,<5.5,Not Placed
+0,Tier 2,UK,100-300,1,Cybersecurity,Tech,Placed,7-8.99,45-49,70-74,5.5-6.99,Placed
+1,Tier 1,USA,300+,0,AI/ML,Manufacturing,Not Placed,5.5-6.99,65-69,60-64,<5.5,Not Placed
+2,Tier 2,USA,300+,2,Data Science,Healthcare,Placed,7-8.99,75-79,60-64,<5.5,Placed
+0,Tier 1,USA,100-300,1,Cloud,Other,Placed,7-8.99,85-89,55-59,<5.5,Placed
+4,Tier 1,Canada,100-300,2,Cybersecurity,Manufacturing,Placed,7-8.99,50-54,75-79,5.5-6.99,Not Placed
+2,Tier 2,India,100-300,3,Cybersecurity,Healthcare,Not Placed,7-8.99,75-79,60-64,5.5-6.99,Placed
+1,Tier 3,USA,100-300,2,AI/ML,Healthcare,Not Placed,5.5-6.99,80-84,45-49,<5.5,Placed
+2,Tier 2,UK,300+,1,Core CS,Healthcare,Not Placed,5.5-6.99,60-64,40-44,<5.5,Not Placed
+2,Tier 1,Canada,300+,3,Data Science,Finance,Placed,7-8.99,70-74,70-74,5.5-6.99,Placed
+3,Tier 1,UK,300+,4,Cybersecurity,Finance,Placed,7-8.99,65-69,40-44,5.5-6.99,Placed
+3,Tier 3,India,300+,1,Data Science,Manufacturing,Not Placed,7-8.99,55-59,55-59,<5.5,Not Placed
+3,Tier 2,Germany,100-300,1,Core CS,Healthcare,Not Placed,<5.5,75-79,65-69,<5.5,Not Placed
+4,Tier 2,UK,300+,0,Core CS,Healthcare,Not Placed,7-8.99,65-69,35-39,5.5-6.99,Not Placed
+1,Tier 2,UK,Top 100,0,Core CS,Manufacturing,Placed,7-8.99,80-84,65-69,<5.5,Placed
+0,Tier 3,Germany,300+,1,AI/ML,Tech,Placed,7-8.99,85-89,85-89,<5.5,Placed
+1,Tier 2,UK,100-300,3,Cloud,Manufacturing,Placed,7-8.99,60-64,70-74,5.5-6.99,Placed
+0,Tier 2,India,100-300,2,Cybersecurity,Manufacturing,Placed,7-8.99,90-94,75-79,<5.5,Placed
+1,Tier 1,Germany,300+,2,AI/ML,Other,Placed,7-8.99,70-74,90-94,<5.5,Placed
+0,Tier 2,Germany,100-300,0,AI/ML,Healthcare,Placed,5.5-6.99,70-74,60-64,5.5-6.99,Placed
+2,Tier 2,Canada,300+,1,AI/ML,Healthcare,Not Placed,7-8.99,55-59,70-74,<5.5,Not Placed
+0,Tier 3,Germany,300+,1,Cybersecurity,Finance,Placed,7-8.99,75-79,85-89,<5.5,Placed
+0,Tier 2,India,300+,4,Data Science,Finance,Placed,7-8.99,40-44,65-69,5.5-6.99,Placed
+2,Tier 3,Canada,300+,1,Data Science,Healthcare,Placed,7-8.99,70-74,65-69,<5.5,Not Placed
+3,Tier 1,India,300+,1,Data Science,Other,Not Placed,<5.5,55-59,90-94,<5.5,Not Placed
+2,Tier 3,USA,100-300,1,Cloud,Consulting,Placed,5.5-6.99,80-84,60-64,<5.5,Not Placed
+2,Tier 2,UK,100-300,0,Data Science,Finance,Not Placed,7-8.99,50-54,80-84,<5.5,Not Placed
+2,Tier 3,India,Top 100,2,Data Science,Manufacturing,Placed,5.5-6.99,65-69,70-74,<5.5,Not Placed
+3,Tier 2,Germany,Top 100,0,Cybersecurity,Tech,Not Placed,<5.5,90-94,85-89,<5.5,Not Placed
+1,Tier 1,UK,100-300,1,Core CS,Finance,Placed,7-8.99,85-89,45-49,5.5-6.99,Placed
+2,Tier 1,USA,Top 100,3,Data Science,Tech,Placed,5.5-6.99,80-84,80-84,5.5-6.99,Placed
+1,Tier 3,UK,300+,3,AI/ML,Consulting,Placed,5.5-6.99,55-59,45-49,<5.5,Not Placed
+1,Tier 3,UK,300+,2,Data Science,Other,Placed,7-8.99,65-69,70-74,5.5-6.99,Placed
+1,Tier 2,UK,300+,0,Cybersecurity,Consulting,Not Placed,7-8.99,95-99,35-39,<5.5,Not Placed
+3,Tier 2,Canada,100-300,1,Core CS,Finance,Placed,7-8.99,55-59,65-69,<5.5,Not Placed
+4,Tier 3,Germany,300+,1,Cloud,Tech,Not Placed,5.5-6.99,60-64,60-64,7-8.99,Not Placed
+2,Tier 3,India,100-300,3,AI/ML,Other,Placed,7-8.99,70-74,55-59,<5.5,Placed
+2,Tier 1,USA,100-300,0,Cybersecurity,Consulting,Not Placed,5.5-6.99,50-54,80-84,<5.5,Not Placed
+2,Tier 2,India,100-300,0,Data Science,Manufacturing,Placed,5.5-6.99,90-94,55-59,5.5-6.99,Not Placed
+0,Tier 1,Canada,Top 100,1,Cloud,Other,Not Placed,7-8.99,40-44,85-89,5.5-6.99,Placed
+1,Tier 3,Germany,100-300,0,Core CS,Tech,Placed,7-8.99,50-54,80-84,<5.5,Placed
+0,Tier 3,India,100-300,1,Cybersecurity,Consulting,Placed,7-8.99,70-74,85-89,5.5-6.99,Placed
+1,Tier 3,USA,300+,5,Cybersecurity,Consulting,Placed,5.5-6.99,75-79,55-59,<5.5,Placed
+0,Tier 3,India,Top 100,2,Cybersecurity,Manufacturing,Placed,5.5-6.99,90-94,55-59,<5.5,Placed
+1,Tier 2,Canada,Top 100,1,Cloud,Consulting,Placed,7-8.99,50-54,75-79,<5.5,Placed
+4,Tier 3,Germany,300+,1,Cybersecurity,Healthcare,Not Placed,5.5-6.99,55-59,65-69,5.5-6.99,Not Placed
+1,Tier 3,Germany,100-300,2,AI/ML,Manufacturing,Not Placed,5.5-6.99,70-74,60-64,5.5-6.99,Placed
+0,Tier 3,USA,Top 100,3,Data Science,Manufacturing,Placed,7-8.99,70-74,75-79,5.5-6.99,Placed
+1,Tier 2,Germany,300+,1,AI/ML,Healthcare,Not Placed,7-8.99,55-59,60-64,7-8.99,Placed
+1,Tier 3,India,300+,1,Data Science,Consulting,Placed,5.5-6.99,65-69,65-69,7-8.99,Placed
+1,Tier 2,UK,Top 100,3,Core CS,Manufacturing,Not Placed,5.5-6.99,45-49,30-34,5.5-6.99,Placed
+3,Tier 3,India,Top 100,0,Core CS,Tech,Placed,7-8.99,95-99,55-59,<5.5,Placed
+1,Tier 1,UK,Top 100,2,AI/ML,Consulting,Placed,5.5-6.99,75-79,70-74,5.5-6.99,Placed
+1,Tier 1,India,Top 100,2,Cybersecurity,Tech,Not Placed,5.5-6.99,50-54,60-64,<5.5,Placed
+1,Tier 2,UK,Top 100,3,Core CS,Finance,Placed,7-8.99,80-84,60-64,5.5-6.99,Placed
+1,Tier 1,UK,Top 100,0,Data Science,Other,Placed,7-8.99,50-54,55-59,<5.5,Placed
+0,Tier 2,Canada,Top 100,4,Cloud,Other,Not Placed,5.5-6.99,50-54,45-49,<5.5,Placed
+0,Tier 1,Germany,300+,3,AI/ML,Tech,Placed,5.5-6.99,50-54,65-69,<5.5,Placed
+1,Tier 2,Germany,100-300,2,Core CS,Healthcare,Placed,7-8.99,70-74,85-89,<5.5,Placed
+0,Tier 1,USA,300+,3,Cybersecurity,Manufacturing,Placed,5.5-6.99,55-59,85-89,<5.5,Placed
+1,Tier 1,Canada,300+,1,Data Science,Finance,Placed,7-8.99,75-79,65-69,5.5-6.99,Placed
+0,Tier 2,Germany,300+,1,Cloud,Other,Not Placed,5.5-6.99,50-54,45-49,<5.5,Not Placed
+3,Tier 3,India,300+,2,Core CS,Finance,Placed,7-8.99,80-84,100-104,5.5-6.99,Placed
+0,Tier 3,Canada,100-300,1,Core CS,Finance,Placed,7-8.99,60-64,70-74,<5.5,Placed
+3,Tier 2,USA,300+,3,Core CS,Manufacturing,Placed,7-8.99,80-84,85-89,<5.5,Placed
+2,Tier 1,UK,100-300,0,Core CS,Healthcare,Placed,7-8.99,85-89,75-79,5.5-6.99,Placed
+1,Tier 2,India,300+,0,Data Science,Other,Not Placed,5.5-6.99,55-59,55-59,<5.5,Not Placed
+1,Tier 3,Canada,100-300,3,Cybersecurity,Manufacturing,Placed,5.5-6.99,40-44,35-39,<5.5,Not Placed
+0,Tier 3,UK,100-300,2,Core CS,Manufacturing,Placed,7-8.99,60-64,55-59,<5.5,Placed
+0,Tier 2,Germany,100-300,2,AI/ML,Healthcare,Placed,5.5-6.99,70-74,80-84,<5.5,Placed
+0,Tier 3,Germany,100-300,2,AI/ML,Manufacturing,Placed,9-10,100-104,60-64,5.5-6.99,Placed
+0,Tier 3,India,Top 100,2,Cloud,Finance,Placed,7-8.99,85-89,80-84,5.5-6.99,Placed
+0,Tier 1,UK,300+,2,Cybersecurity,Healthcare,Placed,7-8.99,70-74,55-59,5.5-6.99,Placed
+3,Tier 1,USA,300+,4,Cloud,Manufacturing,Placed,7-8.99,85-89,40-44,5.5-6.99,Placed
+2,Tier 3,UK,300+,2,Cloud,Tech,Placed,7-8.99,50-54,80-84,<5.5,Placed
+2,Tier 3,Germany,300+,5,Cybersecurity,Consulting,Not Placed,5.5-6.99,60-64,45-49,5.5-6.99,Placed
+3,Tier 1,Germany,Top 100,1,Cloud,Manufacturing,Placed,7-8.99,85-89,50-54,<5.5,Not Placed
+0,Tier 2,India,Top 100,1,Cybersecurity,Healthcare,Not Placed,5.5-6.99,70-74,40-44,<5.5,Placed
+1,Tier 2,UK,100-300,0,AI/ML,Manufacturing,Placed,7-8.99,80-84,55-59,<5.5,Placed
+4,Tier 2,Germany,100-300,1,Core CS,Tech,Not Placed,5.5-6.99,75-79,75-79,<5.5,Not Placed
+2,Tier 1,India,100-300,0,AI/ML,Manufacturing,Placed,5.5-6.99,60-64,60-64,<5.5,Not Placed
+0,Tier 3,USA,100-300,1,Core CS,Healthcare,Placed,7-8.99,75-79,70-74,<5.5,Placed
+0,Tier 2,India,100-300,0,Cybersecurity,Finance,Placed,7-8.99,55-59,65-69,7-8.99,Placed
+0,Tier 3,UK,100-300,0,Core CS,Other,Placed,5.5-6.99,65-69,65-69,<5.5,Placed
+1,Tier 3,USA,Top 100,3,Core CS,Healthcare,Placed,7-8.99,40-44,65-69,5.5-6.99,Placed
+1,Tier 1,USA,300+,1,Cloud,Healthcare,Placed,7-8.99,85-89,55-59,<5.5,Placed
+2,Tier 1,UK,300+,0,Data Science,Healthcare,Not Placed,<5.5,80-84,60-64,<5.5,Not Placed
+1,Tier 1,USA,Top 100,2,Cloud,Manufacturing,Placed,7-8.99,50-54,90-94,<5.5,Placed
+1,Tier 1,UK,300+,1,Cybersecurity,Other,Placed,5.5-6.99,75-79,80-84,<5.5,Not Placed
+0,Tier 1,Canada,Top 100,2,Cloud,Tech,Placed,7-8.99,80-84,60-64,5.5-6.99,Placed
+2,Tier 3,USA,100-300,1,Data Science,Manufacturing,Not Placed,5.5-6.99,60-64,45-49,<5.5,Not Placed
+1,Tier 1,USA,Top 100,0,Cybersecurity,Other,Placed,7-8.99,60-64,55-59,<5.5,Placed
+2,Tier 3,Canada,300+,1,Cybersecurity,Consulting,Not Placed,5.5-6.99,50-54,70-74,5.5-6.99,Not Placed
+1,Tier 3,Canada,Top 100,4,Cloud,Manufacturing,Placed,7-8.99,50-54,50-54,<5.5,Placed
+2,Tier 1,Germany,100-300,1,Cloud,Finance,Placed,7-8.99,50-54,60-64,<5.5,Not Placed
+3,Tier 2,USA,100-300,2,AI/ML,Finance,Not Placed,5.5-6.99,60-64,70-74,<5.5,Not Placed
+1,Tier 2,Germany,100-300,2,Cybersecurity,Manufacturing,Placed,7-8.99,60-64,60-64,5.5-6.99,Placed
+1,Tier 3,UK,300+,1,Cloud,Manufacturing,Placed,7-8.99,85-89,85-89,<5.5,Placed
+5,Tier 3,India,Top 100,0,AI/ML,Other,Placed,7-8.99,70-74,85-89,5.5-6.99,Not Placed
+0,Tier 2,UK,100-300,2,Core CS,Manufacturing,Placed,7-8.99,65-69,70-74,7-8.99,Placed
+4,Tier 3,Germany,Top 100,1,Cybersecurity,Healthcare,Not Placed,5.5-6.99,60-64,40-44,<5.5,Not Placed
+0,Tier 2,Canada,300+,0,AI/ML,Manufacturing,Placed,7-8.99,85-89,65-69,<5.5,Placed
+1,Tier 3,Germany,100-300,2,Cloud,Tech,Placed,5.5-6.99,65-69,60-64,<5.5,Placed
+2,Tier 1,UK,Top 100,4,Core CS,Consulting,Placed,7-8.99,100-104,85-89,<5.5,Placed
+0,Tier 2,Canada,300+,2,Data Science,Healthcare,Placed,5.5-6.99,50-54,65-69,5.5-6.99,Placed
+2,Tier 2,Canada,100-300,0,Core CS,Consulting,Not Placed,5.5-6.99,80-84,85-89,<5.5,Not Placed
+1,Tier 2,Germany,100-300,1,Cybersecurity,Manufacturing,Placed,7-8.99,90-94,60-64,<5.5,Placed
+0,Tier 2,Canada,300+,1,Data Science,Tech,Placed,7-8.99,70-74,75-79,<5.5,Placed
+2,Tier 3,USA,100-300,2,Data Science,Finance,Placed,5.5-6.99,85-89,70-74,<5.5,Not Placed
+2,Tier 2,Canada,100-300,2,Cloud,Tech,Placed,5.5-6.99,75-79,70-74,5.5-6.99,Placed
+0,Tier 2,USA,100-300,3,Cybersecurity,Consulting,Placed,5.5-6.99,80-84,70-74,<5.5,Placed
+1,Tier 3,USA,100-300,1,Cloud,Finance,Placed,5.5-6.99,75-79,65-69,<5.5,Placed
+1,Tier 2,Germany,Top 100,0,Core CS,Tech,Not Placed,5.5-6.99,75-79,45-49,<5.5,Placed
+2,Tier 1,India,300+,2,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,70-74,90-94,<5.5,Not Placed
+2,Tier 1,USA,100-300,2,Core CS,Consulting,Placed,5.5-6.99,80-84,55-59,<5.5,Not Placed
+0,Tier 2,Canada,300+,0,Data Science,Healthcare,Not Placed,5.5-6.99,75-79,65-69,<5.5,Placed
+1,Tier 3,USA,300+,5,Cloud,Finance,Placed,5.5-6.99,80-84,60-64,<5.5,Placed
+0,Tier 2,USA,300+,0,Cybersecurity,Manufacturing,Placed,7-8.99,65-69,75-79,<5.5,Placed
+1,Tier 3,USA,300+,1,Data Science,Tech,Not Placed,5.5-6.99,65-69,70-74,7-8.99,Placed
+0,Tier 1,India,Top 100,0,Data Science,Healthcare,Placed,5.5-6.99,80-84,60-64,<5.5,Placed
+2,Tier 2,Germany,300+,2,Cybersecurity,Tech,Placed,5.5-6.99,80-84,65-69,<5.5,Not Placed
+0,Tier 2,Germany,Top 100,1,Cloud,Manufacturing,Placed,7-8.99,50-54,60-64,<5.5,Placed
+0,Tier 1,Germany,300+,2,Cybersecurity,Healthcare,Placed,7-8.99,75-79,45-49,5.5-6.99,Placed
+2,Tier 2,India,100-300,2,AI/ML,Tech,Not Placed,7-8.99,95-99,55-59,<5.5,Placed
+3,Tier 1,UK,Top 100,3,Data Science,Tech,Not Placed,5.5-6.99,80-84,55-59,5.5-6.99,Placed
+2,Tier 3,USA,300+,2,Core CS,Tech,Not Placed,<5.5,75-79,55-59,<5.5,Not Placed
+4,Tier 2,UK,Top 100,0,AI/ML,Manufacturing,Not Placed,7-8.99,30-34,75-79,<5.5,Not Placed
+3,Tier 2,USA,Top 100,2,Cybersecurity,Finance,Placed,5.5-6.99,80-84,50-54,5.5-6.99,Placed
+4,Tier 1,Canada,100-300,2,Cybersecurity,Other,Placed,7-8.99,50-54,30-34,5.5-6.99,Not Placed
+2,Tier 1,Germany,300+,2,Cloud,Tech,Placed,5.5-6.99,70-74,45-49,7-8.99,Placed
+0,Tier 1,UK,Top 100,0,Data Science,Consulting,Placed,5.5-6.99,55-59,75-79,5.5-6.99,Placed
+1,Tier 3,Canada,100-300,0,Cybersecurity,Tech,Placed,7-8.99,85-89,55-59,5.5-6.99,Placed
+1,Tier 2,Germany,100-300,0,Cybersecurity,Tech,Placed,<5.5,55-59,85-89,<5.5,Not Placed
+0,Tier 1,Germany,100-300,0,Data Science,Tech,Not Placed,7-8.99,30-34,55-59,<5.5,Placed
+1,Tier 2,UK,300+,3,Cloud,Other,Placed,5.5-6.99,50-54,60-64,7-8.99,Placed
+1,Tier 2,Germany,100-300,0,AI/ML,Healthcare,Not Placed,7-8.99,100-104,65-69,7-8.99,Placed
+1,Tier 2,India,100-300,1,Data Science,Tech,Placed,5.5-6.99,65-69,75-79,<5.5,Placed
+1,Tier 3,Germany,300+,5,Core CS,Finance,Placed,7-8.99,70-74,70-74,<5.5,Placed
+2,Tier 2,India,100-300,1,Cloud,Tech,Not Placed,5.5-6.99,90-94,70-74,<5.5,Not Placed
+2,Tier 1,Canada,Top 100,0,Data Science,Tech,Not Placed,7-8.99,85-89,75-79,<5.5,Placed
+2,Tier 3,Germany,Top 100,1,AI/ML,Finance,Placed,7-8.99,70-74,50-54,5.5-6.99,Placed
+2,Tier 3,UK,300+,1,Cybersecurity,Healthcare,Not Placed,7-8.99,75-79,70-74,<5.5,Placed
+2,Tier 2,Germany,300+,2,Cloud,Manufacturing,Not Placed,5.5-6.99,70-74,55-59,5.5-6.99,Not Placed
+1,Tier 2,UK,100-300,1,Cloud,Tech,Placed,7-8.99,45-49,60-64,<5.5,Placed
+0,Tier 1,USA,300+,2,Core CS,Consulting,Placed,5.5-6.99,45-49,60-64,<5.5,Placed
+0,Tier 3,USA,300+,1,Core CS,Healthcare,Placed,7-8.99,55-59,60-64,<5.5,Placed
+3,Tier 3,India,100-300,1,Cloud,Other,Not Placed,<5.5,60-64,55-59,<5.5,Not Placed
+1,Tier 3,India,300+,3,Cloud,Manufacturing,Placed,5.5-6.99,70-74,70-74,5.5-6.99,Placed
+0,Tier 3,Germany,100-300,0,Cybersecurity,Other,Placed,5.5-6.99,45-49,60-64,<5.5,Not Placed
+1,Tier 2,USA,100-300,1,Cybersecurity,Consulting,Not Placed,7-8.99,50-54,50-54,7-8.99,Placed
+4,Tier 3,Germany,100-300,2,Cloud,Tech,Not Placed,5.5-6.99,60-64,35-39,<5.5,Not Placed
+0,Tier 1,Canada,Top 100,1,Data Science,Healthcare,Placed,5.5-6.99,100-104,80-84,<5.5,Placed
+1,Tier 1,UK,100-300,2,Cloud,Consulting,Placed,7-8.99,90-94,70-74,<5.5,Placed
+4,Tier 2,UK,Top 100,2,AI/ML,Healthcare,Not Placed,5.5-6.99,80-84,60-64,<5.5,Not Placed
+0,Tier 3,USA,Top 100,1,Cybersecurity,Healthcare,Placed,7-8.99,70-74,80-84,5.5-6.99,Placed
+2,Tier 1,Germany,300+,2,Cybersecurity,Healthcare,Placed,7-8.99,65-69,55-59,5.5-6.99,Placed
+0,Tier 2,Canada,100-300,2,Core CS,Tech,Placed,5.5-6.99,60-64,80-84,<5.5,Placed
+0,Tier 3,Canada,100-300,1,Core CS,Other,Placed,5.5-6.99,85-89,60-64,5.5-6.99,Placed
+2,Tier 1,USA,100-300,0,Cybersecurity,Other,Not Placed,<5.5,65-69,65-69,<5.5,Not Placed
+3,Tier 2,Germany,100-300,2,Cybersecurity,Manufacturing,Placed,7-8.99,90-94,40-44,5.5-6.99,Placed
+0,Tier 1,Germany,Top 100,0,Data Science,Manufacturing,Not Placed,5.5-6.99,50-54,60-64,<5.5,Placed
+0,Tier 3,Germany,300+,2,Cybersecurity,Tech,Placed,7-8.99,85-89,45-49,5.5-6.99,Placed
+2,Tier 2,Germany,Top 100,1,Data Science,Other,Placed,7-8.99,50-54,60-64,5.5-6.99,Placed
+0,Tier 2,USA,100-300,2,Core CS,Other,Placed,7-8.99,65-69,70-74,5.5-6.99,Placed
+2,Tier 2,India,Top 100,0,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,65-69,50-54,5.5-6.99,Not Placed
+2,Tier 1,USA,100-300,1,AI/ML,Tech,Placed,7-8.99,60-64,55-59,<5.5,Placed
+0,Tier 2,USA,100-300,2,Data Science,Finance,Not Placed,5.5-6.99,70-74,70-74,<5.5,Placed
+2,Tier 3,USA,Top 100,3,Core CS,Manufacturing,Not Placed,5.5-6.99,65-69,70-74,<5.5,Placed
+2,Tier 1,Germany,100-300,3,Cybersecurity,Consulting,Not Placed,5.5-6.99,65-69,50-54,<5.5,Not Placed
+3,Tier 2,India,300+,2,Core CS,Manufacturing,Not Placed,7-8.99,70-74,80-84,5.5-6.99,Placed
+2,Tier 3,USA,100-300,1,Cybersecurity,Other,Not Placed,5.5-6.99,70-74,75-79,<5.5,Not Placed
+2,Tier 1,India,300+,0,Cybersecurity,Manufacturing,Not Placed,<5.5,60-64,60-64,<5.5,Not Placed
+0,Tier 2,USA,100-300,0,Cloud,Other,Not Placed,7-8.99,60-64,45-49,<5.5,Placed
+0,Tier 3,UK,300+,2,Cybersecurity,Consulting,Placed,5.5-6.99,55-59,40-44,5.5-6.99,Placed
+0,Tier 2,India,Top 100,2,Cybersecurity,Other,Placed,7-8.99,70-74,55-59,<5.5,Placed
+0,Tier 3,USA,100-300,5,AI/ML,Other,Placed,7-8.99,65-69,50-54,<5.5,Placed
+1,Tier 1,Germany,300+,0,Core CS,Tech,Not Placed,5.5-6.99,75-79,45-49,<5.5,Not Placed
+1,Tier 3,Canada,300+,1,Cloud,Manufacturing,Not Placed,7-8.99,80-84,60-64,<5.5,Placed
+1,Tier 2,USA,Top 100,2,AI/ML,Finance,Placed,7-8.99,85-89,65-69,<5.5,Placed
+0,Tier 3,USA,300+,2,Core CS,Manufacturing,Placed,5.5-6.99,90-94,70-74,5.5-6.99,Placed
+0,Tier 2,USA,300+,1,Core CS,Manufacturing,Placed,7-8.99,80-84,60-64,<5.5,Placed
+1,Tier 2,UK,Top 100,3,Core CS,Consulting,Not Placed,5.5-6.99,80-84,60-64,<5.5,Placed
+1,Tier 1,UK,100-300,3,Cloud,Healthcare,Placed,5.5-6.99,75-79,55-59,<5.5,Placed
+1,Tier 3,Germany,100-300,1,AI/ML,Manufacturing,Not Placed,7-8.99,60-64,90-94,5.5-6.99,Placed
+2,Tier 3,UK,100-300,2,Cybersecurity,Healthcare,Not Placed,5.5-6.99,45-49,80-84,<5.5,Not Placed
+1,Tier 3,India,Top 100,2,Cloud,Manufacturing,Placed,7-8.99,60-64,75-79,5.5-6.99,Placed
+1,Tier 3,UK,300+,1,Data Science,Consulting,Placed,7-8.99,80-84,60-64,<5.5,Placed
+0,Tier 2,UK,100-300,1,Cybersecurity,Consulting,Placed,7-8.99,60-64,50-54,5.5-6.99,Placed
+3,Tier 2,USA,Top 100,2,Data Science,Manufacturing,Not Placed,5.5-6.99,95-99,60-64,7-8.99,Placed
+1,Tier 3,Germany,100-300,1,Cloud,Finance,Placed,5.5-6.99,65-69,85-89,<5.5,Placed
+3,Tier 2,India,Top 100,2,Cloud,Tech,Placed,7-8.99,80-84,80-84,<5.5,Placed
+1,Tier 2,Germany,100-300,0,AI/ML,Manufacturing,Not Placed,5.5-6.99,90-94,50-54,5.5-6.99,Placed
+0,Tier 1,USA,Top 100,4,Cybersecurity,Healthcare,Placed,7-8.99,55-59,65-69,<5.5,Placed
+2,Tier 2,Germany,300+,3,Core CS,Healthcare,Placed,5.5-6.99,65-69,55-59,<5.5,Not Placed
+0,Tier 3,UK,300+,2,Cybersecurity,Finance,Placed,7-8.99,100-104,65-69,5.5-6.99,Placed
+0,Tier 2,Germany,Top 100,5,AI/ML,Healthcare,Placed,5.5-6.99,50-54,45-49,<5.5,Placed
+1,Tier 1,USA,300+,2,Data Science,Other,Placed,7-8.99,85-89,35-39,<5.5,Placed
+1,Tier 3,Germany,100-300,0,AI/ML,Manufacturing,Not Placed,5.5-6.99,55-59,50-54,<5.5,Not Placed
+0,Tier 1,Canada,100-300,2,Core CS,Consulting,Placed,5.5-6.99,70-74,55-59,<5.5,Placed
+0,Tier 3,Canada,Top 100,4,AI/ML,Other,Placed,7-8.99,50-54,60-64,5.5-6.99,Placed
+2,Tier 2,Canada,Top 100,1,Core CS,Healthcare,Not Placed,5.5-6.99,60-64,35-39,<5.5,Not Placed
+2,Tier 3,Germany,300+,1,Cybersecurity,Manufacturing,Not Placed,<5.5,70-74,60-64,<5.5,Not Placed
+2,Tier 1,Germany,300+,0,Data Science,Other,Not Placed,5.5-6.99,60-64,50-54,7-8.99,Not Placed
+3,Tier 2,USA,300+,1,Core CS,Finance,Placed,5.5-6.99,80-84,40-44,5.5-6.99,Not Placed
+2,Tier 1,USA,100-300,2,AI/ML,Other,Placed,7-8.99,60-64,55-59,<5.5,Placed
+1,Tier 2,Germany,100-300,2,Cloud,Healthcare,Placed,5.5-6.99,95-99,70-74,<5.5,Placed
+0,Tier 1,Canada,100-300,2,AI/ML,Tech,Placed,5.5-6.99,65-69,60-64,<5.5,Placed
+0,Tier 1,India,100-300,1,Core CS,Manufacturing,Placed,7-8.99,75-79,75-79,<5.5,Placed
+1,Tier 2,UK,100-300,3,Core CS,Other,Not Placed,5.5-6.99,90-94,40-44,<5.5,Placed
+2,Tier 1,UK,100-300,4,Cybersecurity,Tech,Placed,5.5-6.99,55-59,55-59,7-8.99,Placed
+4,Tier 3,India,Top 100,0,Cybersecurity,Manufacturing,Not Placed,7-8.99,80-84,85-89,<5.5,Not Placed
+1,Tier 1,USA,100-300,1,Data Science,Consulting,Not Placed,7-8.99,70-74,80-84,<5.5,Placed
+0,Tier 3,Canada,100-300,2,Cybersecurity,Other,Placed,7-8.99,65-69,40-44,<5.5,Placed
+2,Tier 1,India,Top 100,2,Cybersecurity,Manufacturing,Placed,5.5-6.99,70-74,30-34,<5.5,Not Placed
+2,Tier 2,India,300+,1,AI/ML,Consulting,Placed,7-8.99,75-79,50-54,<5.5,Not Placed
+3,Tier 3,USA,100-300,1,Cloud,Finance,Not Placed,7-8.99,65-69,35-39,<5.5,Not Placed
+2,Tier 2,Germany,Top 100,0,AI/ML,Other,Placed,5.5-6.99,80-84,70-74,<5.5,Not Placed
+1,Tier 2,India,300+,2,Core CS,Consulting,Placed,7-8.99,50-54,75-79,<5.5,Placed
+1,Tier 1,Germany,Top 100,0,AI/ML,Healthcare,Placed,5.5-6.99,50-54,45-49,<5.5,Not Placed
+1,Tier 1,UK,100-300,1,Core CS,Consulting,Not Placed,<5.5,55-59,55-59,7-8.99,Not Placed
+2,Tier 2,Canada,300+,0,AI/ML,Tech,Not Placed,5.5-6.99,55-59,70-74,<5.5,Not Placed
+0,Tier 3,USA,100-300,1,Cybersecurity,Manufacturing,Placed,7-8.99,60-64,55-59,<5.5,Placed
+0,Tier 2,USA,300+,3,AI/ML,Healthcare,Not Placed,7-8.99,90-94,50-54,<5.5,Placed
+1,Tier 2,UK,300+,3,Cloud,Consulting,Placed,7-8.99,70-74,55-59,<5.5,Placed
+2,Tier 1,USA,Top 100,3,Cloud,Other,Placed,5.5-6.99,65-69,95-99,5.5-6.99,Placed
+2,Tier 3,UK,100-300,0,Cloud,Tech,Not Placed,5.5-6.99,55-59,60-64,5.5-6.99,Not Placed
+1,Tier 1,Germany,100-300,2,Core CS,Manufacturing,Placed,7-8.99,80-84,50-54,<5.5,Placed
+1,Tier 2,Canada,100-300,1,AI/ML,Consulting,Placed,5.5-6.99,65-69,75-79,5.5-6.99,Placed
+1,Tier 1,India,100-300,0,Core CS,Other,Placed,7-8.99,65-69,60-64,<5.5,Placed
+5,Tier 2,Canada,100-300,1,Cloud,Tech,Not Placed,5.5-6.99,40-44,75-79,5.5-6.99,Not Placed
+0,Tier 3,USA,300+,2,Cloud,Manufacturing,Placed,7-8.99,60-64,75-79,<5.5,Placed
+1,Tier 2,UK,Top 100,3,Cybersecurity,Tech,Placed,7-8.99,85-89,65-69,<5.5,Placed
+2,Tier 3,Germany,Top 100,1,Core CS,Other,Placed,7-8.99,75-79,85-89,7-8.99,Placed
+1,Tier 2,India,100-300,5,Cybersecurity,Tech,Placed,7-8.99,35-39,60-64,5.5-6.99,Placed
+3,Tier 2,India,100-300,3,Cloud,Healthcare,Not Placed,<5.5,45-49,65-69,<5.5,Not Placed
+0,Tier 1,UK,300+,5,Data Science,Tech,Placed,7-8.99,55-59,85-89,5.5-6.99,Placed
+1,Tier 1,Canada,300+,1,Data Science,Consulting,Placed,7-8.99,85-89,80-84,<5.5,Placed
+0,Tier 3,Germany,300+,2,AI/ML,Manufacturing,Placed,5.5-6.99,95-99,50-54,<5.5,Placed
+0,Tier 3,Canada,100-300,3,Data Science,Other,Placed,7-8.99,75-79,80-84,5.5-6.99,Placed
+1,Tier 1,India,300+,0,Data Science,Tech,Placed,7-8.99,45-49,55-59,7-8.99,Placed
+2,Tier 2,Germany,Top 100,3,Data Science,Healthcare,Placed,7-8.99,75-79,45-49,<5.5,Placed
+0,Tier 3,India,100-300,3,Cybersecurity,Finance,Not Placed,7-8.99,90-94,45-49,<5.5,Placed
+1,Tier 3,India,Top 100,2,Cloud,Tech,Placed,7-8.99,65-69,75-79,<5.5,Placed
+1,Tier 2,UK,Top 100,3,Data Science,Manufacturing,Placed,7-8.99,35-39,85-89,<5.5,Placed
+1,Tier 2,Canada,100-300,1,Core CS,Other,Placed,7-8.99,75-79,35-39,<5.5,Placed
+0,Tier 3,USA,300+,1,Data Science,Consulting,Placed,7-8.99,60-64,55-59,5.5-6.99,Placed
+1,Tier 3,USA,300+,1,AI/ML,Healthcare,Not Placed,7-8.99,70-74,60-64,<5.5,Placed
+0,Tier 2,Germany,100-300,2,Data Science,Finance,Placed,7-8.99,60-64,55-59,<5.5,Placed
+3,Tier 3,India,100-300,0,Cybersecurity,Other,Not Placed,5.5-6.99,70-74,70-74,5.5-6.99,Not Placed
+0,Tier 3,Germany,100-300,0,Core CS,Other,Placed,7-8.99,70-74,45-49,<5.5,Placed
+2,Tier 2,UK,300+,3,Cloud,Manufacturing,Placed,7-8.99,50-54,80-84,<5.5,Placed
+1,Tier 2,India,Top 100,1,Cybersecurity,Consulting,Placed,7-8.99,60-64,70-74,5.5-6.99,Placed
+2,Tier 1,UK,Top 100,1,Cloud,Finance,Placed,5.5-6.99,55-59,80-84,<5.5,Not Placed
+2,Tier 3,UK,100-300,0,Data Science,Finance,Not Placed,<5.5,85-89,45-49,<5.5,Not Placed
+3,Tier 2,UK,Top 100,4,Data Science,Other,Placed,7-8.99,65-69,75-79,5.5-6.99,Placed
+0,Tier 2,India,100-300,1,AI/ML,Healthcare,Placed,5.5-6.99,80-84,55-59,<5.5,Placed
+2,Tier 2,Canada,100-300,3,Cybersecurity,Finance,Not Placed,7-8.99,60-64,50-54,<5.5,Placed
+2,Tier 2,Germany,100-300,1,Core CS,Consulting,Placed,7-8.99,95-99,65-69,<5.5,Placed
+0,Tier 3,Canada,100-300,2,AI/ML,Other,Placed,7-8.99,75-79,70-74,<5.5,Placed
+0,Tier 2,Canada,Top 100,0,AI/ML,Manufacturing,Placed,7-8.99,60-64,65-69,5.5-6.99,Placed
+1,Tier 1,Germany,100-300,2,AI/ML,Manufacturing,Placed,7-8.99,50-54,60-64,5.5-6.99,Placed
+2,Tier 2,Canada,300+,2,Cloud,Healthcare,Placed,7-8.99,75-79,65-69,7-8.99,Placed
+0,Tier 2,Germany,100-300,1,AI/ML,Manufacturing,Placed,7-8.99,70-74,80-84,<5.5,Placed
+1,Tier 2,UK,300+,0,Cybersecurity,Finance,Not Placed,7-8.99,80-84,90-94,<5.5,Placed
+5,Tier 1,Canada,300+,3,Cybersecurity,Consulting,Not Placed,7-8.99,80-84,55-59,<5.5,Not Placed
+0,Tier 1,India,100-300,3,Cloud,Other,Placed,5.5-6.99,85-89,45-49,<5.5,Placed
+0,Tier 2,USA,100-300,0,Data Science,Tech,Placed,7-8.99,75-79,50-54,<5.5,Placed
+0,Tier 3,USA,100-300,1,Cloud,Other,Not Placed,5.5-6.99,80-84,30-34,<5.5,Placed
+1,Tier 2,Canada,100-300,4,Cybersecurity,Consulting,Placed,5.5-6.99,75-79,95-99,5.5-6.99,Placed
+3,Tier 2,UK,100-300,2,Data Science,Manufacturing,Not Placed,7-8.99,70-74,40-44,<5.5,Not Placed
+0,Tier 2,USA,300+,3,Data Science,Other,Placed,7-8.99,80-84,50-54,7-8.99,Placed
+0,Tier 1,India,100-300,2,Cloud,Consulting,Placed,7-8.99,75-79,45-49,5.5-6.99,Placed
+0,Tier 3,USA,100-300,2,Data Science,Finance,Placed,9-10,65-69,85-89,<5.5,Placed
+0,Tier 2,Germany,300+,2,Data Science,Manufacturing,Placed,7-8.99,55-59,50-54,7-8.99,Placed
+1,Tier 3,Canada,300+,2,Core CS,Healthcare,Not Placed,5.5-6.99,75-79,65-69,<5.5,Not Placed
+1,Tier 3,Canada,100-300,1,Cloud,Consulting,Not Placed,5.5-6.99,75-79,60-64,<5.5,Placed
+0,Tier 1,USA,Top 100,0,Cloud,Healthcare,Placed,7-8.99,30-34,60-64,5.5-6.99,Placed
+1,Tier 1,India,100-300,2,Core CS,Tech,Placed,7-8.99,70-74,90-94,5.5-6.99,Placed
+1,Tier 1,USA,300+,0,Cloud,Manufacturing,Placed,7-8.99,70-74,65-69,7-8.99,Placed
+4,Tier 2,Germany,100-300,1,Cybersecurity,Healthcare,Not Placed,5.5-6.99,85-89,65-69,<5.5,Not Placed
+0,Tier 2,UK,100-300,2,Core CS,Consulting,Not Placed,5.5-6.99,75-79,65-69,<5.5,Placed
+1,Tier 1,USA,300+,1,Core CS,Manufacturing,Not Placed,5.5-6.99,70-74,50-54,<5.5,Not Placed
+2,Tier 2,USA,100-300,2,Cloud,Healthcare,Placed,5.5-6.99,100-104,80-84,<5.5,Placed
+0,Tier 1,India,100-300,1,Cloud,Manufacturing,Placed,7-8.99,45-49,70-74,5.5-6.99,Placed
+1,Tier 2,Canada,100-300,1,Cybersecurity,Other,Not Placed,5.5-6.99,70-74,35-39,5.5-6.99,Not Placed
+0,Tier 1,Germany,300+,0,Core CS,Manufacturing,Placed,7-8.99,85-89,65-69,5.5-6.99,Placed
+4,Tier 1,UK,100-300,0,Core CS,Tech,Not Placed,5.5-6.99,70-74,85-89,5.5-6.99,Not Placed
+1,Tier 3,UK,100-300,2,Data Science,Manufacturing,Placed,5.5-6.99,80-84,75-79,<5.5,Placed
+5,Tier 1,UK,300+,2,AI/ML,Healthcare,Not Placed,5.5-6.99,60-64,60-64,<5.5,Not Placed
+0,Tier 3,UK,300+,1,AI/ML,Finance,Placed,7-8.99,75-79,75-79,5.5-6.99,Placed
+2,Tier 2,Canada,300+,0,Data Science,Finance,Not Placed,5.5-6.99,90-94,65-69,<5.5,Not Placed
+1,Tier 3,Germany,300+,0,Cloud,Tech,Placed,7-8.99,85-89,55-59,5.5-6.99,Placed
+2,Tier 2,Germany,100-300,1,AI/ML,Other,Not Placed,5.5-6.99,95-99,55-59,7-8.99,Placed
+0,Tier 2,UK,100-300,1,Core CS,Tech,Not Placed,5.5-6.99,60-64,60-64,<5.5,Placed
+3,Tier 2,USA,300+,3,Data Science,Finance,Placed,5.5-6.99,70-74,60-64,<5.5,Not Placed
+0,Tier 1,USA,100-300,1,Data Science,Manufacturing,Placed,7-8.99,85-89,55-59,<5.5,Placed
+1,Tier 1,UK,100-300,3,Cybersecurity,Healthcare,Placed,9-10,70-74,65-69,<5.5,Placed
+2,Tier 3,UK,Top 100,3,AI/ML,Other,Not Placed,7-8.99,65-69,30-34,<5.5,Placed
+0,Tier 3,Germany,300+,0,Cybersecurity,Other,Not Placed,5.5-6.99,90-94,80-84,<5.5,Placed
+1,Tier 3,Canada,100-300,1,AI/ML,Finance,Not Placed,5.5-6.99,65-69,60-64,<5.5,Not Placed
+0,Tier 1,Germany,100-300,2,Cybersecurity,Other,Placed,7-8.99,65-69,60-64,7-8.99,Placed
+1,Tier 1,Canada,300+,0,Core CS,Finance,Not Placed,5.5-6.99,90-94,35-39,<5.5,Not Placed
+0,Tier 3,USA,100-300,1,Cybersecurity,Healthcare,Placed,7-8.99,85-89,85-89,7-8.99,Placed
+0,Tier 2,UK,Top 100,4,Core CS,Manufacturing,Placed,7-8.99,80-84,60-64,<5.5,Placed
+1,Tier 2,Canada,300+,3,Data Science,Tech,Placed,7-8.99,80-84,55-59,<5.5,Placed
+2,Tier 1,Canada,300+,1,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,90-94,50-54,<5.5,Not Placed
+2,Tier 2,USA,300+,2,AI/ML,Other,Not Placed,7-8.99,70-74,60-64,<5.5,Not Placed
+4,Tier 3,India,300+,0,Data Science,Manufacturing,Not Placed,5.5-6.99,50-54,60-64,5.5-6.99,Not Placed
+4,Tier 3,Germany,Top 100,1,Core CS,Tech,Not Placed,<5.5,70-74,60-64,<5.5,Not Placed
+6,Tier 1,USA,Top 100,2,Core CS,Consulting,Not Placed,<5.5,45-49,80-84,<5.5,Not Placed
+1,Tier 3,USA,100-300,2,Cybersecurity,Other,Placed,5.5-6.99,55-59,60-64,<5.5,Not Placed
+2,Tier 3,USA,300+,0,Data Science,Tech,Not Placed,7-8.99,75-79,70-74,<5.5,Not Placed
+2,Tier 2,UK,100-300,1,Core CS,Consulting,Placed,7-8.99,80-84,60-64,7-8.99,Placed
+0,Tier 1,USA,Top 100,0,AI/ML,Healthcare,Placed,5.5-6.99,70-74,85-89,<5.5,Placed
+2,Tier 1,Germany,300+,3,Cloud,Healthcare,Not Placed,<5.5,70-74,95-99,<5.5,Not Placed
+1,Tier 1,Germany,300+,3,Cloud,Healthcare,Not Placed,5.5-6.99,85-89,80-84,<5.5,Placed
+1,Tier 1,India,100-300,3,Core CS,Finance,Placed,5.5-6.99,75-79,80-84,5.5-6.99,Placed
+2,Tier 2,USA,300+,0,Cloud,Consulting,Not Placed,5.5-6.99,50-54,55-59,<5.5,Not Placed
+1,Tier 2,UK,100-300,0,Data Science,Other,Placed,5.5-6.99,65-69,50-54,<5.5,Not Placed
+0,Tier 3,USA,100-300,1,Core CS,Manufacturing,Placed,5.5-6.99,60-64,65-69,5.5-6.99,Placed
+0,Tier 2,UK,Top 100,0,Cybersecurity,Tech,Placed,5.5-6.99,80-84,65-69,<5.5,Placed
+1,Tier 2,UK,Top 100,0,Data Science,Other,Not Placed,7-8.99,70-74,55-59,<5.5,Placed
+4,Tier 3,USA,300+,1,Core CS,Other,Not Placed,5.5-6.99,60-64,85-89,5.5-6.99,Not Placed
+1,Tier 1,UK,Top 100,0,Cybersecurity,Consulting,Not Placed,7-8.99,80-84,40-44,5.5-6.99,Placed
+1,Tier 3,USA,100-300,0,AI/ML,Manufacturing,Not Placed,7-8.99,75-79,55-59,<5.5,Placed
+2,Tier 2,USA,100-300,3,Data Science,Finance,Not Placed,5.5-6.99,60-64,45-49,<5.5,Not Placed
+0,Tier 2,Canada,300+,2,AI/ML,Healthcare,Placed,7-8.99,75-79,70-74,<5.5,Placed
+2,Tier 2,Germany,Top 100,0,Cybersecurity,Finance,Placed,5.5-6.99,100-104,90-94,<5.5,Not Placed
+3,Tier 1,India,Top 100,1,Cybersecurity,Manufacturing,Not Placed,7-8.99,65-69,90-94,<5.5,Placed
+1,Tier 3,India,300+,1,AI/ML,Finance,Not Placed,5.5-6.99,65-69,45-49,<5.5,Not Placed
+0,Tier 2,Canada,300+,1,Cloud,Consulting,Placed,5.5-6.99,65-69,35-39,5.5-6.99,Placed
+0,Tier 3,Germany,300+,0,Cybersecurity,Healthcare,Placed,7-8.99,70-74,75-79,5.5-6.99,Placed
+3,Tier 2,USA,100-300,1,Core CS,Finance,Not Placed,7-8.99,55-59,40-44,<5.5,Not Placed
+3,Tier 3,Canada,100-300,1,Data Science,Healthcare,Not Placed,7-8.99,65-69,70-74,<5.5,Not Placed
+0,Tier 2,Canada,100-300,1,Data Science,Other,Placed,7-8.99,50-54,75-79,5.5-6.99,Placed
+4,Tier 3,USA,100-300,2,Data Science,Tech,Not Placed,7-8.99,75-79,75-79,<5.5,Not Placed
+2,Tier 3,Canada,300+,2,AI/ML,Finance,Not Placed,7-8.99,50-54,55-59,5.5-6.99,Placed
+1,Tier 1,Germany,300+,0,AI/ML,Healthcare,Not Placed,5.5-6.99,60-64,30-34,<5.5,Not Placed
+0,Tier 3,USA,100-300,2,AI/ML,Healthcare,Placed,5.5-6.99,100-104,80-84,<5.5,Placed
+1,Tier 2,Canada,300+,1,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,85-89,35-39,<5.5,Not Placed
+2,Tier 2,USA,Top 100,0,Data Science,Other,Placed,5.5-6.99,70-74,60-64,<5.5,Not Placed
+0,Tier 2,USA,300+,1,Core CS,Finance,Placed,5.5-6.99,65-69,70-74,<5.5,Placed
+1,Tier 1,India,100-300,1,Data Science,Tech,Placed,7-8.99,70-74,55-59,<5.5,Placed
+2,Tier 1,Canada,Top 100,0,AI/ML,Other,Not Placed,5.5-6.99,90-94,60-64,<5.5,Not Placed
+3,Tier 1,Germany,300+,1,AI/ML,Manufacturing,Not Placed,5.5-6.99,85-89,80-84,<5.5,Not Placed
+1,Tier 3,India,100-300,0,AI/ML,Other,Not Placed,5.5-6.99,80-84,35-39,<5.5,Not Placed
+2,Tier 2,Canada,Top 100,0,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,85-89,95-99,<5.5,Not Placed
+1,Tier 2,USA,300+,1,AI/ML,Manufacturing,Placed,7-8.99,85-89,85-89,5.5-6.99,Placed
+1,Tier 3,India,100-300,1,AI/ML,Consulting,Not Placed,<5.5,60-64,45-49,5.5-6.99,Not Placed
+0,Tier 1,USA,300+,1,Core CS,Other,Placed,7-8.99,90-94,90-94,5.5-6.99,Placed
+1,Tier 3,UK,100-300,1,Core CS,Healthcare,Placed,7-8.99,45-49,55-59,<5.5,Placed
+0,Tier 1,Canada,100-300,0,Core CS,Finance,Not Placed,7-8.99,95-99,50-54,<5.5,Placed
+2,Tier 2,Germany,300+,1,Cybersecurity,Tech,Not Placed,5.5-6.99,60-64,65-69,5.5-6.99,Not Placed
+1,Tier 1,USA,100-300,0,Cybersecurity,Tech,Not Placed,7-8.99,75-79,65-69,<5.5,Placed
+1,Tier 2,India,300+,1,AI/ML,Healthcare,Placed,7-8.99,85-89,50-54,<5.5,Placed
+1,Tier 1,India,100-300,1,AI/ML,Healthcare,Placed,5.5-6.99,65-69,55-59,7-8.99,Placed
+2,Tier 2,Canada,100-300,3,Cybersecurity,Tech,Not Placed,5.5-6.99,55-59,75-79,<5.5,Placed
+1,Tier 2,Canada,300+,2,Data Science,Other,Placed,7-8.99,85-89,65-69,9-10,Placed
+1,Tier 1,Canada,Top 100,3,Cybersecurity,Healthcare,Placed,5.5-6.99,55-59,55-59,<5.5,Placed
+2,Tier 3,UK,100-300,1,Core CS,Tech,Not Placed,7-8.99,55-59,55-59,<5.5,Placed
+0,Tier 1,UK,100-300,4,Cybersecurity,Healthcare,Placed,7-8.99,55-59,85-89,<5.5,Placed
+2,Tier 3,Germany,Top 100,0,AI/ML,Finance,Placed,5.5-6.99,50-54,65-69,<5.5,Not Placed
+2,Tier 1,USA,300+,3,Cloud,Consulting,Placed,7-8.99,95-99,85-89,5.5-6.99,Placed
+0,Tier 2,USA,300+,0,Core CS,Tech,Placed,7-8.99,85-89,65-69,<5.5,Placed
+0,Tier 2,India,300+,1,Cloud,Tech,Placed,7-8.99,50-54,75-79,5.5-6.99,Placed
+1,Tier 3,USA,Top 100,2,Core CS,Healthcare,Placed,7-8.99,75-79,55-59,<5.5,Placed
+0,Tier 1,USA,100-300,3,Data Science,Tech,Placed,5.5-6.99,70-74,40-44,5.5-6.99,Placed
+0,Tier 2,USA,Top 100,2,Core CS,Healthcare,Placed,7-8.99,50-54,75-79,7-8.99,Placed
+0,Tier 2,Canada,Top 100,1,Cloud,Manufacturing,Not Placed,5.5-6.99,70-74,50-54,<5.5,Placed
+1,Tier 2,Germany,100-300,0,Data Science,Consulting,Placed,7-8.99,90-94,70-74,<5.5,Placed
+1,Tier 2,Canada,300+,2,Cloud,Finance,Not Placed,5.5-6.99,55-59,65-69,<5.5,Not Placed
+1,Tier 1,UK,300+,0,Data Science,Healthcare,Not Placed,7-8.99,100-104,60-64,<5.5,Placed
+2,Tier 3,Canada,Top 100,1,Data Science,Healthcare,Not Placed,7-8.99,70-74,90-94,<5.5,Placed
+0,Tier 3,Germany,300+,2,Core CS,Healthcare,Not Placed,5.5-6.99,70-74,45-49,5.5-6.99,Placed
+2,Tier 3,Germany,Top 100,1,Cybersecurity,Consulting,Placed,7-8.99,60-64,80-84,5.5-6.99,Placed
+1,Tier 1,Canada,100-300,0,Data Science,Tech,Not Placed,5.5-6.99,75-79,45-49,<5.5,Not Placed
+2,Tier 3,USA,100-300,1,Core CS,Tech,Not Placed,5.5-6.99,85-89,45-49,5.5-6.99,Not Placed
+1,Tier 3,India,100-300,2,Data Science,Finance,Placed,5.5-6.99,100-104,60-64,<5.5,Placed
+1,Tier 2,Germany,300+,1,Core CS,Manufacturing,Not Placed,5.5-6.99,40-44,75-79,<5.5,Not Placed
+0,Tier 2,Canada,100-300,3,Core CS,Healthcare,Placed,7-8.99,65-69,70-74,7-8.99,Placed
+1,Tier 1,UK,100-300,1,Cybersecurity,Tech,Placed,7-8.99,80-84,55-59,<5.5,Placed
+3,Tier 1,India,Top 100,2,Data Science,Healthcare,Placed,5.5-6.99,70-74,70-74,5.5-6.99,Placed
+1,Tier 2,India,300+,0,Data Science,Tech,Not Placed,5.5-6.99,75-79,70-74,5.5-6.99,Placed
+1,Tier 1,India,300+,4,Cybersecurity,Other,Not Placed,5.5-6.99,35-39,45-49,<5.5,Not Placed
+0,Tier 1,Germany,300+,3,Core CS,Consulting,Placed,7-8.99,95-99,65-69,5.5-6.99,Placed
+0,Tier 2,India,100-300,1,AI/ML,Tech,Placed,7-8.99,70-74,90-94,<5.5,Placed
+3,Tier 3,Germany,Top 100,5,Cybersecurity,Healthcare,Placed,5.5-6.99,70-74,100-104,5.5-6.99,Placed
+2,Tier 1,Germany,100-300,0,Cloud,Tech,Not Placed,7-8.99,65-69,75-79,<5.5,Placed
+1,Tier 3,India,300+,1,Cybersecurity,Manufacturing,Not Placed,7-8.99,80-84,55-59,7-8.99,Placed
+1,Tier 1,USA,300+,2,Cloud,Healthcare,Placed,<5.5,100-104,55-59,5.5-6.99,Not Placed
+0,Tier 1,Canada,100-300,2,AI/ML,Manufacturing,Placed,5.5-6.99,45-49,65-69,<5.5,Placed
+2,Tier 1,Canada,300+,2,Core CS,Consulting,Not Placed,5.5-6.99,85-89,60-64,<5.5,Not Placed
+0,Tier 1,UK,300+,0,AI/ML,Consulting,Placed,5.5-6.99,65-69,70-74,<5.5,Placed
+0,Tier 2,India,100-300,0,Data Science,Consulting,Not Placed,5.5-6.99,75-79,90-94,<5.5,Placed
+1,Tier 1,UK,300+,0,Data Science,Consulting,Not Placed,<5.5,90-94,50-54,5.5-6.99,Not Placed
+1,Tier 3,Germany,100-300,2,Cybersecurity,Tech,Placed,5.5-6.99,70-74,60-64,7-8.99,Placed
+0,Tier 2,USA,100-300,5,Cybersecurity,Tech,Placed,5.5-6.99,50-54,60-64,<5.5,Placed
+2,Tier 1,USA,Top 100,1,Cloud,Consulting,Placed,7-8.99,80-84,55-59,7-8.99,Placed
+2,Tier 1,Germany,Top 100,3,AI/ML,Other,Not Placed,5.5-6.99,65-69,70-74,<5.5,Placed
+0,Tier 3,UK,300+,2,Cloud,Tech,Placed,7-8.99,45-49,70-74,<5.5,Placed
+0,Tier 2,India,300+,4,Cybersecurity,Healthcare,Placed,7-8.99,70-74,60-64,5.5-6.99,Placed
+3,Tier 2,UK,100-300,4,Core CS,Manufacturing,Placed,5.5-6.99,60-64,75-79,<5.5,Not Placed
+1,Tier 1,Canada,100-300,1,Data Science,Finance,Placed,7-8.99,70-74,70-74,5.5-6.99,Placed
+1,Tier 2,Germany,300+,0,AI/ML,Finance,Not Placed,5.5-6.99,55-59,45-49,<5.5,Not Placed
+4,Tier 3,Germany,300+,0,Cybersecurity,Consulting,Not Placed,7-8.99,75-79,65-69,<5.5,Not Placed
+2,Tier 3,UK,300+,1,Cybersecurity,Other,Not Placed,5.5-6.99,70-74,55-59,<5.5,Not Placed
+1,Tier 3,Germany,Top 100,2,Cloud,Tech,Placed,5.5-6.99,95-99,55-59,<5.5,Placed
+2,Tier 3,India,300+,2,Cloud,Finance,Placed,5.5-6.99,85-89,75-79,5.5-6.99,Placed
+0,Tier 2,Germany,300+,3,Cloud,Finance,Placed,5.5-6.99,60-64,80-84,5.5-6.99,Placed
+2,Tier 3,Germany,100-300,1,Cybersecurity,Healthcare,Not Placed,5.5-6.99,70-74,45-49,<5.5,Not Placed
+1,Tier 2,USA,100-300,2,Cloud,Other,Placed,7-8.99,65-69,80-84,7-8.99,Placed
+3,Tier 2,UK,100-300,2,Cloud,Healthcare,Not Placed,7-8.99,100-104,75-79,5.5-6.99,Placed
+2,Tier 2,Germany,100-300,4,Cybersecurity,Other,Placed,5.5-6.99,80-84,55-59,5.5-6.99,Placed
+2,Tier 2,UK,300+,1,Cybersecurity,Manufacturing,Not Placed,7-8.99,30-34,55-59,<5.5,Not Placed
+2,Tier 3,USA,300+,1,Cloud,Healthcare,Placed,7-8.99,70-74,65-69,5.5-6.99,Placed
+2,Tier 2,India,100-300,0,Core CS,Finance,Placed,5.5-6.99,70-74,50-54,5.5-6.99,Not Placed
+2,Tier 1,Germany,100-300,2,Cloud,Finance,Placed,5.5-6.99,60-64,75-79,<5.5,Not Placed
+0,Tier 2,Germany,300+,3,Core CS,Manufacturing,Not Placed,5.5-6.99,65-69,70-74,<5.5,Placed
+1,Tier 3,India,Top 100,1,Cloud,Healthcare,Placed,7-8.99,70-74,30-34,5.5-6.99,Placed
+2,Tier 3,Germany,300+,1,Cloud,Consulting,Not Placed,5.5-6.99,75-79,70-74,<5.5,Not Placed
+2,Tier 3,Germany,300+,1,Cloud,Healthcare,Not Placed,5.5-6.99,40-44,65-69,7-8.99,Not Placed
+1,Tier 2,Germany,100-300,4,AI/ML,Healthcare,Placed,5.5-6.99,80-84,45-49,<5.5,Placed
+5,Tier 2,India,100-300,1,Cybersecurity,Healthcare,Placed,7-8.99,50-54,75-79,<5.5,Not Placed
+3,Tier 3,India,300+,1,Core CS,Consulting,Not Placed,5.5-6.99,35-39,75-79,<5.5,Not Placed
+0,Tier 2,USA,Top 100,2,Data Science,Finance,Placed,7-8.99,60-64,45-49,<5.5,Placed
+3,Tier 3,Germany,300+,1,Cloud,Finance,Not Placed,5.5-6.99,70-74,65-69,<5.5,Not Placed
+1,Tier 2,Canada,100-300,4,Cloud,Manufacturing,Placed,7-8.99,90-94,40-44,<5.5,Placed
+3,Tier 3,India,300+,0,Data Science,Tech,Not Placed,7-8.99,75-79,55-59,<5.5,Not Placed
+2,Tier 1,Canada,300+,1,Cloud,Manufacturing,Placed,5.5-6.99,50-54,35-39,<5.5,Not Placed
+0,Tier 2,USA,Top 100,0,Cloud,Other,Placed,5.5-6.99,55-59,70-74,<5.5,Placed
+2,Tier 2,India,300+,2,Cybersecurity,Tech,Not Placed,7-8.99,50-54,45-49,<5.5,Not Placed
+1,Tier 3,Germany,100-300,0,Data Science,Tech,Placed,5.5-6.99,85-89,85-89,<5.5,Placed
+1,Tier 3,Germany,300+,3,Core CS,Tech,Placed,7-8.99,70-74,50-54,<5.5,Placed
+2,Tier 2,Canada,Top 100,1,Cloud,Consulting,Not Placed,5.5-6.99,60-64,60-64,<5.5,Not Placed
+1,Tier 2,Canada,300+,2,AI/ML,Tech,Placed,5.5-6.99,75-79,45-49,5.5-6.99,Placed
+1,Tier 1,Germany,100-300,3,Core CS,Healthcare,Placed,7-8.99,70-74,50-54,5.5-6.99,Placed
+2,Tier 3,India,300+,4,AI/ML,Consulting,Not Placed,5.5-6.99,55-59,60-64,<5.5,Not Placed
+3,Tier 1,USA,Top 100,2,Cloud,Healthcare,Not Placed,5.5-6.99,100-104,35-39,<5.5,Not Placed
+1,Tier 1,UK,100-300,1,Cloud,Manufacturing,Placed,5.5-6.99,100-104,65-69,<5.5,Not Placed
+2,Tier 2,India,Top 100,0,Core CS,Consulting,Not Placed,5.5-6.99,90-94,45-49,5.5-6.99,Not Placed
+3,Tier 2,India,100-300,2,AI/ML,Finance,Not Placed,<5.5,55-59,45-49,<5.5,Not Placed
+1,Tier 3,India,100-300,2,AI/ML,Manufacturing,Not Placed,5.5-6.99,75-79,40-44,<5.5,Placed
+0,Tier 2,USA,Top 100,4,Data Science,Consulting,Placed,7-8.99,65-69,65-69,<5.5,Placed
+1,Tier 3,Canada,300+,1,Data Science,Healthcare,Placed,5.5-6.99,65-69,60-64,<5.5,Not Placed
+3,Tier 3,Germany,300+,0,Core CS,Other,Not Placed,5.5-6.99,80-84,55-59,<5.5,Not Placed
+1,Tier 1,Canada,100-300,2,Data Science,Manufacturing,Placed,7-8.99,70-74,80-84,7-8.99,Placed
+1,Tier 2,India,100-300,1,Cloud,Manufacturing,Placed,7-8.99,100-104,75-79,<5.5,Placed
+1,Tier 3,UK,300+,0,AI/ML,Tech,Placed,7-8.99,65-69,70-74,5.5-6.99,Placed
+2,Tier 2,Canada,100-300,0,Data Science,Healthcare,Not Placed,7-8.99,65-69,75-79,<5.5,Placed
+0,Tier 3,India,300+,1,Data Science,Tech,Placed,7-8.99,65-69,55-59,<5.5,Placed
+2,Tier 2,UK,100-300,1,Data Science,Other,Not Placed,7-8.99,50-54,55-59,<5.5,Not Placed
+2,Tier 3,India,300+,1,Data Science,Other,Placed,7-8.99,65-69,40-44,7-8.99,Placed
+0,Tier 1,USA,100-300,0,Core CS,Manufacturing,Not Placed,7-8.99,60-64,70-74,<5.5,Placed
+2,Tier 2,UK,100-300,2,Cybersecurity,Finance,Not Placed,7-8.99,55-59,45-49,<5.5,Placed
+2,Tier 3,Canada,300+,0,Data Science,Healthcare,Not Placed,5.5-6.99,90-94,65-69,5.5-6.99,Not Placed
+2,Tier 1,Canada,Top 100,2,Cloud,Consulting,Placed,5.5-6.99,75-79,70-74,<5.5,Placed
+4,Tier 3,Canada,300+,2,Core CS,Healthcare,Not Placed,5.5-6.99,85-89,70-74,<5.5,Not Placed
+0,Tier 2,UK,100-300,4,Cloud,Healthcare,Placed,5.5-6.99,65-69,95-99,5.5-6.99,Placed
+2,Tier 1,USA,300+,0,Cloud,Finance,Placed,5.5-6.99,100-104,95-99,5.5-6.99,Not Placed
+2,Tier 1,India,300+,0,AI/ML,Consulting,Not Placed,7-8.99,50-54,65-69,<5.5,Not Placed
+1,Tier 3,India,100-300,0,AI/ML,Other,Placed,7-8.99,75-79,85-89,5.5-6.99,Placed
+1,Tier 2,USA,300+,5,Cybersecurity,Other,Not Placed,5.5-6.99,45-49,70-74,<5.5,Placed
+0,Tier 3,Germany,100-300,0,Data Science,Consulting,Not Placed,7-8.99,65-69,80-84,5.5-6.99,Placed
+0,Tier 2,USA,300+,2,Cloud,Tech,Not Placed,7-8.99,75-79,40-44,5.5-6.99,Placed
+1,Tier 3,Germany,300+,0,Cloud,Healthcare,Not Placed,5.5-6.99,65-69,80-84,<5.5,Not Placed
+2,Tier 2,Germany,100-300,3,Data Science,Healthcare,Placed,7-8.99,75-79,65-69,<5.5,Placed
+2,Tier 2,India,300+,1,Core CS,Finance,Not Placed,<5.5,65-69,70-74,<5.5,Not Placed
+0,Tier 3,Germany,100-300,2,Data Science,Other,Placed,7-8.99,35-39,65-69,7-8.99,Placed
+0,Tier 2,UK,100-300,0,Data Science,Other,Not Placed,5.5-6.99,40-44,40-44,<5.5,Not Placed
+2,Tier 3,USA,300+,2,Cloud,Tech,Placed,5.5-6.99,60-64,80-84,7-8.99,Placed
+1,Tier 1,USA,300+,1,AI/ML,Healthcare,Placed,7-8.99,75-79,70-74,7-8.99,Placed
+1,Tier 1,USA,300+,3,Cybersecurity,Finance,Placed,5.5-6.99,100-104,55-59,<5.5,Placed
+0,Tier 3,India,100-300,2,Cloud,Tech,Placed,5.5-6.99,70-74,75-79,<5.5,Placed
+3,Tier 1,UK,300+,2,AI/ML,Tech,Not Placed,5.5-6.99,60-64,60-64,<5.5,Not Placed
+1,Tier 2,Canada,Top 100,0,AI/ML,Manufacturing,Not Placed,7-8.99,55-59,30-34,<5.5,Not Placed
+1,Tier 2,UK,100-300,1,Cybersecurity,Other,Placed,7-8.99,80-84,55-59,<5.5,Placed
+2,Tier 3,Canada,100-300,1,Cybersecurity,Tech,Not Placed,7-8.99,70-74,45-49,5.5-6.99,Placed
+0,Tier 2,India,Top 100,2,Cloud,Consulting,Placed,5.5-6.99,80-84,60-64,<5.5,Placed
+2,Tier 2,USA,100-300,2,AI/ML,Other,Placed,7-8.99,70-74,30-34,<5.5,Not Placed
+2,Tier 2,USA,100-300,3,Core CS,Manufacturing,Not Placed,5.5-6.99,60-64,75-79,<5.5,Not Placed
+2,Tier 1,USA,100-300,1,Data Science,Manufacturing,Not Placed,5.5-6.99,70-74,65-69,<5.5,Not Placed
+3,Tier 1,UK,300+,2,Data Science,Consulting,Not Placed,<5.5,75-79,50-54,5.5-6.99,Not Placed
+1,Tier 2,UK,300+,0,Cybersecurity,Healthcare,Not Placed,5.5-6.99,70-74,65-69,5.5-6.99,Not Placed
+1,Tier 1,USA,100-300,2,Cloud,Consulting,Placed,7-8.99,40-44,65-69,<5.5,Placed
+0,Tier 2,India,100-300,2,AI/ML,Consulting,Placed,5.5-6.99,55-59,65-69,<5.5,Placed
+1,Tier 1,India,Top 100,3,Core CS,Healthcare,Placed,7-8.99,75-79,80-84,7-8.99,Placed
+3,Tier 2,Germany,300+,4,Core CS,Manufacturing,Placed,5.5-6.99,65-69,70-74,7-8.99,Placed
+3,Tier 3,Germany,Top 100,2,Data Science,Other,Not Placed,7-8.99,85-89,55-59,<5.5,Placed
+1,Tier 3,Germany,300+,3,Cybersecurity,Finance,Not Placed,<5.5,55-59,50-54,<5.5,Not Placed
+3,Tier 3,Germany,300+,4,Cybersecurity,Healthcare,Not Placed,7-8.99,60-64,75-79,<5.5,Placed
+1,Tier 3,Germany,100-300,2,Data Science,Finance,Placed,5.5-6.99,65-69,60-64,7-8.99,Placed
+1,Tier 3,Germany,100-300,2,Data Science,Tech,Not Placed,7-8.99,65-69,70-74,<5.5,Placed
+2,Tier 2,Canada,100-300,2,Cybersecurity,Other,Not Placed,7-8.99,55-59,75-79,<5.5,Placed
+0,Tier 1,Germany,300+,1,Core CS,Healthcare,Placed,5.5-6.99,75-79,65-69,<5.5,Placed
+1,Tier 2,India,Top 100,2,AI/ML,Other,Placed,5.5-6.99,55-59,65-69,7-8.99,Placed
+2,Tier 2,Germany,300+,1,Cybersecurity,Healthcare,Not Placed,7-8.99,80-84,65-69,<5.5,Not Placed
+1,Tier 3,India,300+,0,Cloud,Healthcare,Placed,7-8.99,75-79,90-94,7-8.99,Placed
+3,Tier 1,Germany,100-300,3,Cloud,Healthcare,Placed,7-8.99,75-79,50-54,5.5-6.99,Placed
+2,Tier 2,Germany,300+,5,Data Science,Healthcare,Not Placed,5.5-6.99,90-94,60-64,5.5-6.99,Placed
+0,Tier 2,Germany,100-300,3,Data Science,Healthcare,Placed,5.5-6.99,60-64,60-64,<5.5,Placed
+3,Tier 1,Germany,300+,5,Cybersecurity,Consulting,Placed,7-8.99,75-79,50-54,5.5-6.99,Placed
+0,Tier 1,USA,300+,3,Cloud,Manufacturing,Placed,7-8.99,65-69,60-64,5.5-6.99,Placed
+0,Tier 2,Canada,300+,1,Core CS,Consulting,Placed,5.5-6.99,70-74,65-69,5.5-6.99,Placed
+1,Tier 1,USA,100-300,1,Cybersecurity,Healthcare,Placed,7-8.99,85-89,75-79,5.5-6.99,Placed
+0,Tier 3,Germany,100-300,1,Core CS,Tech,Placed,7-8.99,65-69,55-59,5.5-6.99,Placed
+0,Tier 2,Canada,300+,1,Cloud,Finance,Not Placed,7-8.99,65-69,60-64,5.5-6.99,Placed
+2,Tier 2,India,Top 100,2,Core CS,Healthcare,Placed,7-8.99,55-59,85-89,<5.5,Placed
+1,Tier 1,India,300+,4,Core CS,Finance,Not Placed,5.5-6.99,60-64,70-74,<5.5,Placed
+3,Tier 3,USA,Top 100,3,Core CS,Healthcare,Placed,7-8.99,70-74,65-69,<5.5,Placed
+1,Tier 3,USA,100-300,3,Core CS,Manufacturing,Placed,5.5-6.99,45-49,80-84,5.5-6.99,Placed
+1,Tier 3,Canada,100-300,1,Core CS,Manufacturing,Placed,7-8.99,65-69,55-59,<5.5,Placed
+1,Tier 2,UK,300+,1,Data Science,Consulting,Not Placed,5.5-6.99,50-54,55-59,5.5-6.99,Not Placed
+0,Tier 2,UK,300+,2,Cybersecurity,Other,Not Placed,5.5-6.99,50-54,55-59,5.5-6.99,Placed
+3,Tier 3,Canada,Top 100,0,Cloud,Finance,Not Placed,5.5-6.99,35-39,80-84,5.5-6.99,Not Placed
+1,Tier 2,UK,Top 100,0,Cloud,Healthcare,Not Placed,7-8.99,80-84,75-79,<5.5,Placed
+1,Tier 2,UK,300+,0,AI/ML,Finance,Not Placed,5.5-6.99,75-79,40-44,5.5-6.99,Placed
+3,Tier 2,USA,300+,0,Core CS,Consulting,Placed,7-8.99,70-74,55-59,5.5-6.99,Not Placed
+1,Tier 3,USA,300+,2,Core CS,Manufacturing,Placed,5.5-6.99,75-79,90-94,7-8.99,Placed
+1,Tier 2,Germany,Top 100,4,Core CS,Finance,Placed,5.5-6.99,55-59,30-34,7-8.99,Placed
+2,Tier 2,UK,100-300,1,AI/ML,Healthcare,Placed,7-8.99,75-79,45-49,<5.5,Placed
+0,Tier 3,India,100-300,4,Core CS,Healthcare,Placed,7-8.99,70-74,75-79,5.5-6.99,Placed
+1,Tier 1,India,300+,1,Core CS,Manufacturing,Not Placed,5.5-6.99,45-49,60-64,<5.5,Not Placed
+1,Tier 3,Germany,300+,2,Cloud,Manufacturing,Not Placed,5.5-6.99,40-44,85-89,<5.5,Not Placed
+0,Tier 3,USA,Top 100,1,Cloud,Tech,Placed,5.5-6.99,90-94,75-79,<5.5,Placed
+2,Tier 1,Germany,300+,1,Core CS,Other,Not Placed,5.5-6.99,70-74,40-44,<5.5,Not Placed
+3,Tier 2,UK,100-300,0,Core CS,Consulting,Not Placed,5.5-6.99,65-69,75-79,<5.5,Not Placed
+3,Tier 2,India,100-300,0,Data Science,Healthcare,Not Placed,5.5-6.99,85-89,55-59,<5.5,Not Placed
+1,Tier 2,UK,300+,2,Core CS,Healthcare,Placed,5.5-6.99,80-84,45-49,5.5-6.99,Placed
+1,Tier 2,India,300+,2,Core CS,Finance,Not Placed,5.5-6.99,30-34,80-84,<5.5,Not Placed
+3,Tier 3,India,Top 100,0,Cloud,Manufacturing,Not Placed,7-8.99,65-69,50-54,5.5-6.99,Placed
+1,Tier 2,Germany,Top 100,4,Core CS,Finance,Placed,5.5-6.99,50-54,50-54,<5.5,Placed
+0,Tier 3,UK,100-300,2,AI/ML,Finance,Placed,7-8.99,45-49,95-99,<5.5,Placed
+1,Tier 1,India,100-300,1,Cybersecurity,Consulting,Placed,7-8.99,65-69,45-49,5.5-6.99,Placed
+0,Tier 2,USA,300+,2,Data Science,Manufacturing,Not Placed,7-8.99,65-69,75-79,5.5-6.99,Placed
+0,Tier 3,USA,100-300,0,AI/ML,Tech,Placed,9-10,90-94,55-59,<5.5,Placed
+0,Tier 1,India,100-300,1,Core CS,Healthcare,Not Placed,7-8.99,70-74,55-59,<5.5,Placed
+0,Tier 2,USA,300+,2,Core CS,Other,Placed,7-8.99,60-64,45-49,5.5-6.99,Placed
+2,Tier 1,UK,300+,1,Data Science,Healthcare,Not Placed,7-8.99,40-44,70-74,5.5-6.99,Placed
+1,Tier 3,Germany,100-300,3,Core CS,Finance,Placed,5.5-6.99,60-64,75-79,7-8.99,Placed
+1,Tier 2,UK,100-300,3,Data Science,Manufacturing,Placed,5.5-6.99,40-44,65-69,<5.5,Placed
+0,Tier 1,UK,100-300,0,Cloud,Manufacturing,Not Placed,5.5-6.99,100-104,40-44,<5.5,Placed
+2,Tier 3,India,300+,3,Core CS,Healthcare,Not Placed,5.5-6.99,70-74,60-64,5.5-6.99,Placed
+0,Tier 3,Canada,100-300,0,Cloud,Finance,Placed,7-8.99,60-64,60-64,<5.5,Placed
+1,Tier 1,UK,300+,4,Cloud,Manufacturing,Placed,7-8.99,70-74,30-34,<5.5,Placed
+0,Tier 1,Germany,100-300,4,Core CS,Tech,Placed,5.5-6.99,85-89,50-54,5.5-6.99,Placed
+2,Tier 2,India,Top 100,1,Core CS,Healthcare,Not Placed,<5.5,80-84,70-74,<5.5,Not Placed
+1,Tier 3,Canada,300+,1,Data Science,Finance,Placed,7-8.99,70-74,90-94,<5.5,Placed
+3,Tier 3,Germany,100-300,0,Cloud,Finance,Not Placed,7-8.99,60-64,70-74,<5.5,Not Placed
+3,Tier 2,India,300+,1,Cloud,Healthcare,Not Placed,7-8.99,60-64,55-59,<5.5,Not Placed
+3,Tier 2,USA,100-300,3,AI/ML,Healthcare,Not Placed,7-8.99,80-84,60-64,<5.5,Placed
+3,Tier 2,USA,Top 100,1,AI/ML,Consulting,Not Placed,7-8.99,55-59,75-79,<5.5,Not Placed
+2,Tier 2,UK,300+,3,AI/ML,Tech,Not Placed,5.5-6.99,80-84,55-59,7-8.99,Placed
+3,Tier 2,UK,300+,3,Cybersecurity,Tech,Not Placed,5.5-6.99,70-74,75-79,5.5-6.99,Placed
+0,Tier 3,India,300+,2,Cybersecurity,Finance,Placed,7-8.99,60-64,60-64,<5.5,Placed
+0,Tier 3,Germany,Top 100,2,Cybersecurity,Finance,Placed,7-8.99,60-64,40-44,5.5-6.99,Placed
+2,Tier 1,UK,100-300,0,Cloud,Other,Not Placed,7-8.99,95-99,65-69,<5.5,Not Placed
+0,Tier 1,Germany,300+,1,Cloud,Tech,Not Placed,7-8.99,55-59,50-54,<5.5,Placed
+2,Tier 2,USA,300+,2,Data Science,Tech,Not Placed,7-8.99,65-69,60-64,5.5-6.99,Placed
+1,Tier 1,UK,Top 100,5,Core CS,Other,Placed,5.5-6.99,65-69,70-74,5.5-6.99,Placed
+2,Tier 3,Germany,100-300,1,Cybersecurity,Finance,Not Placed,5.5-6.99,55-59,60-64,<5.5,Not Placed
+0,Tier 3,Canada,100-300,2,AI/ML,Consulting,Placed,5.5-6.99,60-64,60-64,<5.5,Placed
+1,Tier 2,UK,Top 100,1,Cloud,Other,Placed,5.5-6.99,75-79,40-44,5.5-6.99,Placed
+0,Tier 1,Canada,300+,0,Cybersecurity,Tech,Placed,7-8.99,85-89,70-74,5.5-6.99,Placed
+1,Tier 3,Germany,100-300,2,Data Science,Other,Placed,7-8.99,45-49,60-64,5.5-6.99,Placed
+3,Tier 1,Canada,300+,3,Cloud,Finance,Placed,7-8.99,80-84,40-44,7-8.99,Placed
+0,Tier 1,Germany,100-300,3,Cloud,Tech,Placed,7-8.99,85-89,30-34,5.5-6.99,Placed
+3,Tier 1,India,300+,3,Core CS,Finance,Not Placed,5.5-6.99,80-84,45-49,<5.5,Not Placed
+5,Tier 1,UK,300+,0,AI/ML,Tech,Not Placed,5.5-6.99,60-64,80-84,<5.5,Not Placed
+4,Tier 1,USA,300+,1,Core CS,Other,Not Placed,5.5-6.99,85-89,60-64,<5.5,Not Placed
+1,Tier 2,Germany,100-300,1,Core CS,Manufacturing,Not Placed,7-8.99,60-64,60-64,<5.5,Placed
+1,Tier 2,India,300+,2,AI/ML,Tech,Placed,7-8.99,55-59,60-64,<5.5,Placed
+0,Tier 2,Germany,Top 100,2,Data Science,Healthcare,Placed,7-8.99,60-64,60-64,<5.5,Placed
+0,Tier 2,UK,Top 100,2,Core CS,Healthcare,Placed,7-8.99,70-74,65-69,7-8.99,Placed
+2,Tier 2,Canada,100-300,0,Data Science,Tech,Placed,7-8.99,80-84,70-74,<5.5,Placed
+1,Tier 2,India,100-300,1,Cybersecurity,Tech,Placed,7-8.99,75-79,40-44,5.5-6.99,Placed
+1,Tier 2,USA,300+,0,Cybersecurity,Other,Not Placed,7-8.99,60-64,45-49,7-8.99,Placed
+1,Tier 2,Canada,300+,1,Cloud,Tech,Placed,7-8.99,45-49,65-69,<5.5,Placed
+3,Tier 1,UK,300+,3,Data Science,Manufacturing,Not Placed,5.5-6.99,60-64,35-39,7-8.99,Not Placed
+1,Tier 3,USA,100-300,2,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,80-84,75-79,<5.5,Placed
+1,Tier 2,Canada,100-300,1,Cybersecurity,Tech,Placed,5.5-6.99,60-64,70-74,<5.5,Placed
+2,Tier 3,USA,100-300,0,Cybersecurity,Tech,Placed,5.5-6.99,80-84,45-49,<5.5,Not Placed
+0,Tier 3,USA,300+,1,Data Science,Other,Placed,7-8.99,30-34,65-69,<5.5,Placed
+4,Tier 2,UK,100-300,1,Cybersecurity,Healthcare,Not Placed,5.5-6.99,85-89,50-54,<5.5,Not Placed
+2,Tier 2,India,100-300,3,Cloud,Consulting,Placed,7-8.99,75-79,85-89,<5.5,Placed
+3,Tier 3,Germany,Top 100,1,Cloud,Consulting,Placed,7-8.99,55-59,60-64,5.5-6.99,Placed
+1,Tier 1,USA,100-300,2,Cloud,Manufacturing,Not Placed,5.5-6.99,80-84,50-54,5.5-6.99,Placed
+0,Tier 1,Germany,300+,0,AI/ML,Manufacturing,Placed,5.5-6.99,60-64,70-74,5.5-6.99,Placed
+5,Tier 2,Canada,Top 100,1,Cybersecurity,Tech,Not Placed,7-8.99,60-64,60-64,<5.5,Not Placed
+3,Tier 3,USA,100-300,2,Cloud,Finance,Placed,5.5-6.99,55-59,85-89,<5.5,Not Placed
+0,Tier 3,Canada,100-300,3,Data Science,Other,Placed,5.5-6.99,85-89,65-69,<5.5,Placed
+1,Tier 1,UK,100-300,2,Cybersecurity,Tech,Not Placed,5.5-6.99,55-59,50-54,5.5-6.99,Placed
+1,Tier 2,India,100-300,1,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,55-59,60-64,<5.5,Not Placed
+0,Tier 3,UK,100-300,5,Core CS,Healthcare,Placed,7-8.99,45-49,85-89,<5.5,Placed
+3,Tier 2,Canada,300+,1,Data Science,Tech,Placed,7-8.99,60-64,40-44,<5.5,Not Placed
+0,Tier 2,Germany,100-300,1,Cybersecurity,Tech,Placed,7-8.99,75-79,50-54,<5.5,Placed
+2,Tier 2,Germany,100-300,2,Core CS,Manufacturing,Placed,5.5-6.99,75-79,55-59,7-8.99,Placed
+4,Tier 1,USA,300+,3,AI/ML,Manufacturing,Not Placed,7-8.99,60-64,60-64,7-8.99,Placed
+1,Tier 2,UK,300+,2,AI/ML,Healthcare,Placed,7-8.99,75-79,85-89,<5.5,Placed
+2,Tier 2,USA,100-300,1,Cybersecurity,Consulting,Not Placed,5.5-6.99,30-34,35-39,<5.5,Not Placed
+0,Tier 1,Germany,100-300,2,Data Science,Finance,Placed,7-8.99,75-79,60-64,7-8.99,Placed
+3,Tier 3,Germany,100-300,0,AI/ML,Manufacturing,Not Placed,5.5-6.99,60-64,70-74,<5.5,Not Placed
+2,Tier 3,India,Top 100,1,AI/ML,Healthcare,Placed,7-8.99,95-99,35-39,5.5-6.99,Placed
+2,Tier 1,India,100-300,3,Data Science,Manufacturing,Not Placed,5.5-6.99,75-79,75-79,<5.5,Placed
+2,Tier 1,UK,100-300,2,Cloud,Tech,Not Placed,5.5-6.99,60-64,75-79,<5.5,Not Placed
+2,Tier 3,Germany,300+,2,AI/ML,Other,Placed,5.5-6.99,65-69,60-64,<5.5,Not Placed
+3,Tier 1,USA,300+,1,Cybersecurity,Tech,Not Placed,7-8.99,75-79,55-59,<5.5,Not Placed
+2,Tier 1,Germany,100-300,2,Core CS,Consulting,Not Placed,5.5-6.99,60-64,90-94,<5.5,Not Placed
+2,Tier 1,UK,100-300,1,Core CS,Manufacturing,Not Placed,5.5-6.99,75-79,75-79,5.5-6.99,Not Placed
+2,Tier 1,Germany,300+,1,Cybersecurity,Tech,Not Placed,7-8.99,55-59,45-49,<5.5,Not Placed
+1,Tier 1,Canada,300+,3,Cybersecurity,Tech,Placed,7-8.99,100-104,65-69,5.5-6.99,Placed
+3,Tier 1,Germany,100-300,1,Cloud,Healthcare,Placed,7-8.99,100-104,55-59,<5.5,Not Placed
+4,Tier 2,UK,Top 100,1,Cybersecurity,Consulting,Not Placed,5.5-6.99,70-74,30-34,<5.5,Not Placed
+1,Tier 1,India,100-300,1,Core CS,Consulting,Placed,7-8.99,50-54,30-34,<5.5,Not Placed
+1,Tier 2,UK,Top 100,1,Cloud,Healthcare,Placed,7-8.99,75-79,60-64,5.5-6.99,Placed
+2,Tier 3,USA,Top 100,0,Core CS,Tech,Not Placed,<5.5,75-79,65-69,<5.5,Not Placed
+6,Tier 1,Canada,100-300,0,Cybersecurity,Healthcare,Not Placed,7-8.99,90-94,55-59,<5.5,Not Placed
+1,Tier 1,USA,100-300,3,Core CS,Consulting,Placed,5.5-6.99,65-69,65-69,<5.5,Placed
+0,Tier 3,India,300+,0,Cloud,Other,Placed,5.5-6.99,90-94,55-59,<5.5,Placed
+1,Tier 2,USA,300+,0,Core CS,Healthcare,Placed,5.5-6.99,55-59,70-74,<5.5,Not Placed
+1,Tier 1,UK,100-300,1,Data Science,Consulting,Not Placed,5.5-6.99,70-74,80-84,<5.5,Placed
+2,Tier 2,Germany,300+,0,AI/ML,Tech,Not Placed,5.5-6.99,65-69,65-69,5.5-6.99,Not Placed
+0,Tier 1,Canada,300+,2,Cybersecurity,Other,Placed,5.5-6.99,85-89,80-84,<5.5,Placed
+0,Tier 3,USA,300+,3,AI/ML,Manufacturing,Placed,5.5-6.99,70-74,95-99,<5.5,Placed
+3,Tier 2,USA,100-300,0,AI/ML,Healthcare,Placed,7-8.99,60-64,70-74,<5.5,Not Placed
+3,Tier 3,India,300+,2,Cybersecurity,Finance,Placed,7-8.99,60-64,55-59,<5.5,Not Placed
+3,Tier 2,USA,300+,2,Cloud,Finance,Not Placed,5.5-6.99,75-79,55-59,5.5-6.99,Not Placed
+1,Tier 2,Germany,300+,3,Core CS,Tech,Placed,7-8.99,60-64,65-69,5.5-6.99,Placed
+1,Tier 1,India,300+,4,AI/ML,Manufacturing,Not Placed,5.5-6.99,60-64,45-49,<5.5,Placed
+3,Tier 2,USA,100-300,2,Data Science,Consulting,Placed,5.5-6.99,80-84,70-74,7-8.99,Placed
+1,Tier 3,UK,300+,2,Core CS,Consulting,Placed,5.5-6.99,60-64,75-79,<5.5,Not Placed
+4,Tier 3,USA,100-300,1,Core CS,Other,Not Placed,7-8.99,60-64,55-59,5.5-6.99,Not Placed
+1,Tier 3,USA,100-300,1,Cloud,Tech,Placed,7-8.99,65-69,75-79,5.5-6.99,Placed
+1,Tier 1,USA,100-300,4,Core CS,Consulting,Placed,7-8.99,65-69,65-69,<5.5,Placed
+1,Tier 2,Canada,300+,0,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,50-54,75-79,5.5-6.99,Not Placed
+2,Tier 3,UK,300+,1,Cloud,Other,Not Placed,5.5-6.99,70-74,75-79,<5.5,Not Placed
+1,Tier 2,UK,100-300,0,Core CS,Finance,Placed,7-8.99,70-74,65-69,<5.5,Placed
+0,Tier 1,USA,300+,2,AI/ML,Healthcare,Placed,5.5-6.99,50-54,50-54,5.5-6.99,Placed
+1,Tier 3,India,Top 100,1,Cloud,Other,Placed,5.5-6.99,85-89,100-104,7-8.99,Placed
+1,Tier 3,USA,100-300,0,Cybersecurity,Tech,Placed,7-8.99,70-74,60-64,7-8.99,Placed
+3,Tier 2,India,100-300,1,AI/ML,Manufacturing,Not Placed,5.5-6.99,70-74,65-69,<5.5,Not Placed
+0,Tier 1,Germany,300+,0,Data Science,Manufacturing,Placed,7-8.99,70-74,90-94,5.5-6.99,Placed
+1,Tier 1,USA,100-300,1,AI/ML,Tech,Placed,7-8.99,75-79,90-94,<5.5,Placed
+0,Tier 1,Germany,100-300,0,AI/ML,Consulting,Not Placed,7-8.99,65-69,75-79,<5.5,Placed
+0,Tier 1,Germany,300+,0,AI/ML,Finance,Not Placed,7-8.99,45-49,85-89,<5.5,Placed
+2,Tier 2,Canada,100-300,2,AI/ML,Healthcare,Not Placed,7-8.99,75-79,70-74,<5.5,Placed
+1,Tier 2,India,300+,2,Data Science,Other,Placed,7-8.99,35-39,70-74,<5.5,Placed
+2,Tier 2,India,300+,0,Cloud,Finance,Not Placed,<5.5,65-69,45-49,<5.5,Not Placed
+1,Tier 1,Germany,300+,3,Core CS,Healthcare,Placed,5.5-6.99,60-64,55-59,<5.5,Not Placed
+0,Tier 3,India,100-300,0,Data Science,Consulting,Placed,5.5-6.99,85-89,95-99,5.5-6.99,Placed
+1,Tier 2,Canada,100-300,1,AI/ML,Tech,Placed,7-8.99,75-79,60-64,5.5-6.99,Placed
+0,Tier 2,Germany,Top 100,0,Cybersecurity,Manufacturing,Placed,7-8.99,70-74,35-39,5.5-6.99,Placed
+1,Tier 3,USA,300+,3,AI/ML,Manufacturing,Placed,5.5-6.99,95-99,75-79,5.5-6.99,Placed
+0,Tier 3,Germany,300+,2,Data Science,Manufacturing,Placed,7-8.99,45-49,50-54,<5.5,Placed
+3,Tier 2,Canada,100-300,2,Data Science,Consulting,Placed,7-8.99,65-69,65-69,5.5-6.99,Placed
+1,Tier 2,Germany,300+,2,Cloud,Consulting,Placed,7-8.99,95-99,70-74,<5.5,Placed
+4,Tier 2,India,100-300,2,Cloud,Healthcare,Placed,5.5-6.99,65-69,50-54,<5.5,Not Placed
+0,Tier 3,India,Top 100,1,Core CS,Healthcare,Placed,5.5-6.99,90-94,30-34,<5.5,Placed
+1,Tier 3,India,100-300,0,Core CS,Other,Placed,9-10,80-84,50-54,<5.5,Placed
+2,Tier 1,Germany,Top 100,0,Core CS,Other,Placed,7-8.99,70-74,50-54,7-8.99,Placed
+4,Tier 3,USA,300+,2,Cloud,Finance,Not Placed,5.5-6.99,60-64,55-59,5.5-6.99,Not Placed
+3,Tier 1,India,100-300,2,Data Science,Manufacturing,Not Placed,7-8.99,75-79,45-49,<5.5,Not Placed
+1,Tier 3,UK,300+,1,Data Science,Finance,Placed,7-8.99,70-74,70-74,<5.5,Placed
+0,Tier 2,Germany,100-300,4,Core CS,Tech,Placed,7-8.99,85-89,45-49,5.5-6.99,Placed
+0,Tier 1,Canada,100-300,0,Core CS,Other,Placed,7-8.99,65-69,60-64,<5.5,Placed
+1,Tier 3,India,100-300,1,Cybersecurity,Consulting,Placed,7-8.99,65-69,50-54,<5.5,Placed
+2,Tier 3,UK,300+,1,Data Science,Tech,Not Placed,5.5-6.99,75-79,55-59,5.5-6.99,Not Placed
+2,Tier 3,Canada,Top 100,1,Cloud,Tech,Placed,7-8.99,45-49,75-79,<5.5,Placed
+2,Tier 1,Canada,300+,0,Data Science,Other,Not Placed,7-8.99,60-64,60-64,<5.5,Not Placed
+0,Tier 1,Germany,100-300,1,Cybersecurity,Tech,Not Placed,7-8.99,85-89,55-59,<5.5,Placed
+1,Tier 1,India,Top 100,4,Data Science,Healthcare,Placed,7-8.99,70-74,70-74,5.5-6.99,Placed
+0,Tier 2,Canada,Top 100,0,Cloud,Healthcare,Not Placed,5.5-6.99,100-104,35-39,5.5-6.99,Placed
+3,Tier 1,USA,100-300,2,Cybersecurity,Consulting,Placed,7-8.99,80-84,75-79,5.5-6.99,Placed
+0,Tier 1,Germany,300+,1,AI/ML,Healthcare,Placed,7-8.99,80-84,50-54,7-8.99,Placed
+0,Tier 2,India,100-300,1,AI/ML,Finance,Placed,7-8.99,60-64,60-64,<5.5,Placed
+1,Tier 3,UK,100-300,2,Cybersecurity,Finance,Placed,7-8.99,80-84,75-79,7-8.99,Placed
+0,Tier 1,Canada,100-300,2,Data Science,Finance,Not Placed,7-8.99,30-34,50-54,<5.5,Placed
+3,Tier 2,UK,300+,1,Cloud,Other,Not Placed,5.5-6.99,80-84,90-94,<5.5,Not Placed
+1,Tier 3,India,300+,1,AI/ML,Healthcare,Placed,7-8.99,50-54,85-89,<5.5,Placed
+2,Tier 2,USA,100-300,3,AI/ML,Tech,Placed,5.5-6.99,75-79,95-99,<5.5,Placed
+1,Tier 1,USA,Top 100,2,AI/ML,Other,Placed,5.5-6.99,65-69,65-69,<5.5,Placed
+2,Tier 2,Canada,100-300,4,AI/ML,Manufacturing,Placed,5.5-6.99,70-74,90-94,<5.5,Placed
+0,Tier 1,Canada,300+,0,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,35-39,55-59,<5.5,Not Placed
+3,Tier 3,India,Top 100,2,AI/ML,Manufacturing,Placed,7-8.99,85-89,50-54,7-8.99,Placed
+1,Tier 3,India,100-300,0,Data Science,Other,Not Placed,5.5-6.99,90-94,55-59,<5.5,Not Placed
+3,Tier 1,Germany,Top 100,0,Cloud,Healthcare,Not Placed,7-8.99,55-59,65-69,<5.5,Not Placed
+2,Tier 1,Canada,Top 100,1,Core CS,Manufacturing,Placed,7-8.99,70-74,95-99,<5.5,Placed
+1,Tier 2,USA,300+,1,Cybersecurity,Manufacturing,Placed,7-8.99,85-89,45-49,5.5-6.99,Placed
+2,Tier 2,USA,300+,2,Cybersecurity,Finance,Placed,7-8.99,60-64,60-64,5.5-6.99,Placed
+0,Tier 3,UK,300+,0,Core CS,Other,Placed,7-8.99,70-74,30-34,<5.5,Placed
+2,Tier 2,UK,300+,1,Cybersecurity,Finance,Not Placed,5.5-6.99,50-54,75-79,7-8.99,Not Placed
+0,Tier 3,India,100-300,1,Cybersecurity,Consulting,Placed,7-8.99,60-64,65-69,<5.5,Placed
+1,Tier 3,USA,300+,1,AI/ML,Manufacturing,Not Placed,5.5-6.99,100-104,75-79,<5.5,Not Placed
+0,Tier 2,UK,300+,2,AI/ML,Tech,Placed,5.5-6.99,45-49,65-69,<5.5,Placed
+0,Tier 2,Germany,Top 100,2,Cloud,Healthcare,Placed,5.5-6.99,60-64,30-34,<5.5,Placed
+1,Tier 1,Germany,300+,1,Cybersecurity,Tech,Not Placed,5.5-6.99,65-69,70-74,5.5-6.99,Placed
+1,Tier 1,UK,100-300,3,Cloud,Healthcare,Placed,7-8.99,65-69,55-59,<5.5,Placed
+1,Tier 2,Germany,100-300,2,AI/ML,Finance,Placed,5.5-6.99,85-89,90-94,<5.5,Placed
+3,Tier 3,Germany,300+,3,Cloud,Finance,Not Placed,5.5-6.99,60-64,70-74,<5.5,Not Placed
+1,Tier 2,USA,300+,1,Cloud,Other,Placed,7-8.99,70-74,60-64,<5.5,Placed
+2,Tier 1,USA,300+,2,Cybersecurity,Healthcare,Placed,7-8.99,60-64,60-64,7-8.99,Placed
+1,Tier 2,Germany,100-300,3,Core CS,Finance,Placed,7-8.99,50-54,35-39,<5.5,Placed
+2,Tier 2,India,100-300,2,Cloud,Other,Not Placed,5.5-6.99,60-64,70-74,<5.5,Not Placed
+2,Tier 2,USA,300+,0,Cloud,Finance,Placed,7-8.99,55-59,70-74,5.5-6.99,Placed
+1,Tier 1,India,300+,2,Data Science,Healthcare,Placed,7-8.99,80-84,70-74,<5.5,Placed
+1,Tier 3,Canada,Top 100,0,Core CS,Other,Not Placed,5.5-6.99,50-54,60-64,5.5-6.99,Not Placed
+2,Tier 2,Canada,300+,1,Core CS,Finance,Not Placed,5.5-6.99,65-69,55-59,<5.5,Not Placed
+1,Tier 3,USA,300+,0,Data Science,Tech,Placed,7-8.99,50-54,65-69,5.5-6.99,Placed
+3,Tier 2,USA,100-300,2,AI/ML,Manufacturing,Not Placed,5.5-6.99,45-49,50-54,5.5-6.99,Not Placed
+1,Tier 2,USA,100-300,2,Core CS,Manufacturing,Placed,5.5-6.99,70-74,70-74,<5.5,Placed
+3,Tier 2,UK,300+,1,AI/ML,Finance,Placed,5.5-6.99,80-84,60-64,7-8.99,Not Placed
+3,Tier 3,Canada,100-300,4,Data Science,Manufacturing,Not Placed,7-8.99,65-69,40-44,<5.5,Placed
+1,Tier 2,Germany,300+,0,Cloud,Other,Not Placed,7-8.99,45-49,40-44,5.5-6.99,Placed
+0,Tier 1,India,300+,3,Cybersecurity,Other,Placed,7-8.99,55-59,95-99,5.5-6.99,Placed
+2,Tier 1,India,300+,3,AI/ML,Other,Placed,5.5-6.99,100-104,65-69,<5.5,Not Placed
+2,Tier 3,Germany,100-300,5,Cybersecurity,Consulting,Placed,5.5-6.99,50-54,90-94,<5.5,Placed
+3,Tier 3,Canada,300+,1,AI/ML,Consulting,Not Placed,5.5-6.99,50-54,55-59,5.5-6.99,Not Placed
+1,Tier 3,Germany,100-300,3,AI/ML,Tech,Placed,7-8.99,50-54,60-64,<5.5,Placed
+2,Tier 1,India,100-300,0,Core CS,Other,Not Placed,7-8.99,85-89,70-74,<5.5,Not Placed
+0,Tier 2,USA,100-300,1,Cloud,Manufacturing,Placed,5.5-6.99,65-69,55-59,5.5-6.99,Placed
+0,Tier 2,USA,300+,1,Cybersecurity,Healthcare,Placed,7-8.99,70-74,60-64,5.5-6.99,Placed
+1,Tier 1,Canada,100-300,1,Core CS,Manufacturing,Not Placed,<5.5,75-79,60-64,5.5-6.99,Not Placed
+2,Tier 3,Canada,Top 100,2,Data Science,Finance,Placed,7-8.99,55-59,60-64,5.5-6.99,Placed
+2,Tier 2,UK,100-300,1,Cybersecurity,Other,Not Placed,5.5-6.99,45-49,70-74,<5.5,Not Placed
+0,Tier 1,Canada,100-300,1,Cybersecurity,Finance,Placed,7-8.99,65-69,45-49,5.5-6.99,Placed
+0,Tier 3,Germany,100-300,3,Cloud,Consulting,Placed,7-8.99,55-59,75-79,<5.5,Placed
+0,Tier 3,India,100-300,3,Data Science,Manufacturing,Not Placed,5.5-6.99,80-84,50-54,<5.5,Placed
+1,Tier 3,USA,300+,4,AI/ML,Consulting,Placed,7-8.99,50-54,60-64,<5.5,Placed
+0,Tier 1,USA,100-300,1,Cybersecurity,Consulting,Placed,5.5-6.99,65-69,70-74,<5.5,Placed
+0,Tier 1,Germany,100-300,0,Data Science,Finance,Not Placed,7-8.99,60-64,80-84,<5.5,Placed
+1,Tier 1,USA,300+,3,Data Science,Manufacturing,Placed,7-8.99,75-79,50-54,<5.5,Placed
+1,Tier 2,Canada,Top 100,2,Cybersecurity,Other,Placed,5.5-6.99,70-74,65-69,<5.5,Placed
+0,Tier 2,USA,100-300,1,Core CS,Other,Placed,7-8.99,85-89,55-59,<5.5,Placed
+0,Tier 2,USA,300+,2,Core CS,Healthcare,Placed,7-8.99,75-79,40-44,5.5-6.99,Placed
+1,Tier 3,USA,Top 100,1,Data Science,Manufacturing,Not Placed,5.5-6.99,75-79,55-59,5.5-6.99,Placed
+0,Tier 2,Germany,Top 100,1,Cybersecurity,Consulting,Placed,5.5-6.99,85-89,45-49,5.5-6.99,Placed
+4,Tier 2,India,300+,1,AI/ML,Other,Not Placed,<5.5,80-84,70-74,<5.5,Not Placed
+2,Tier 3,UK,300+,4,AI/ML,Tech,Placed,<5.5,45-49,75-79,<5.5,Not Placed
+3,Tier 2,USA,300+,4,Data Science,Tech,Not Placed,5.5-6.99,65-69,85-89,<5.5,Placed
+0,Tier 2,USA,100-300,4,Cloud,Healthcare,Placed,7-8.99,70-74,35-39,7-8.99,Placed
+0,Tier 3,Canada,300+,1,Cloud,Healthcare,Placed,7-8.99,80-84,50-54,5.5-6.99,Placed
+0,Tier 1,India,300+,1,AI/ML,Manufacturing,Placed,7-8.99,70-74,50-54,<5.5,Placed
+1,Tier 2,India,Top 100,0,Cybersecurity,Tech,Placed,7-8.99,80-84,50-54,<5.5,Placed
+1,Tier 2,UK,100-300,3,AI/ML,Consulting,Placed,5.5-6.99,80-84,35-39,5.5-6.99,Placed
+1,Tier 3,Germany,100-300,0,Core CS,Consulting,Placed,7-8.99,70-74,65-69,5.5-6.99,Placed
+1,Tier 1,India,100-300,4,Data Science,Consulting,Placed,7-8.99,55-59,65-69,<5.5,Placed
+1,Tier 3,Canada,Top 100,2,Cloud,Consulting,Placed,5.5-6.99,75-79,65-69,<5.5,Placed
+1,Tier 2,Germany,100-300,0,Cloud,Consulting,Placed,5.5-6.99,60-64,55-59,<5.5,Not Placed
+0,Tier 2,Germany,100-300,0,AI/ML,Manufacturing,Placed,7-8.99,55-59,40-44,5.5-6.99,Placed
+1,Tier 2,Germany,100-300,1,Core CS,Manufacturing,Not Placed,5.5-6.99,50-54,60-64,5.5-6.99,Not Placed
+3,Tier 3,Canada,100-300,2,Data Science,Tech,Not Placed,5.5-6.99,50-54,75-79,<5.5,Not Placed
+0,Tier 2,USA,300+,1,Core CS,Manufacturing,Placed,7-8.99,65-69,85-89,<5.5,Placed
+3,Tier 1,Canada,100-300,3,Data Science,Manufacturing,Not Placed,<5.5,45-49,55-59,<5.5,Not Placed
+1,Tier 3,UK,100-300,1,Data Science,Tech,Placed,5.5-6.99,75-79,50-54,5.5-6.99,Placed
+1,Tier 1,UK,100-300,2,Cybersecurity,Other,Placed,7-8.99,45-49,70-74,7-8.99,Placed
+1,Tier 2,Germany,100-300,1,Cybersecurity,Finance,Placed,7-8.99,95-99,60-64,<5.5,Placed
+1,Tier 1,UK,Top 100,1,AI/ML,Consulting,Placed,7-8.99,75-79,65-69,5.5-6.99,Placed
+0,Tier 3,UK,100-300,1,Cloud,Other,Placed,5.5-6.99,60-64,70-74,<5.5,Placed
+0,Tier 3,Germany,100-300,1,Cybersecurity,Other,Not Placed,5.5-6.99,60-64,45-49,<5.5,Placed
+3,Tier 3,USA,Top 100,2,Data Science,Finance,Not Placed,5.5-6.99,80-84,45-49,<5.5,Not Placed
+0,Tier 1,Canada,300+,0,AI/ML,Tech,Not Placed,5.5-6.99,55-59,55-59,<5.5,Placed
+0,Tier 3,USA,300+,2,Data Science,Manufacturing,Not Placed,5.5-6.99,45-49,50-54,<5.5,Not Placed
+0,Tier 2,India,300+,1,Cybersecurity,Healthcare,Not Placed,5.5-6.99,70-74,65-69,<5.5,Placed
+1,Tier 2,Germany,100-300,1,Core CS,Healthcare,Placed,5.5-6.99,90-94,70-74,<5.5,Placed
+3,Tier 3,Germany,100-300,1,Data Science,Finance,Not Placed,7-8.99,55-59,65-69,<5.5,Not Placed
+0,Tier 3,Germany,300+,3,Cloud,Tech,Placed,7-8.99,75-79,80-84,<5.5,Placed
+1,Tier 1,USA,100-300,4,AI/ML,Manufacturing,Placed,5.5-6.99,65-69,80-84,<5.5,Placed
+0,Tier 1,UK,100-300,3,Data Science,Tech,Placed,5.5-6.99,80-84,70-74,<5.5,Placed
+0,Tier 1,USA,100-300,1,Data Science,Other,Placed,5.5-6.99,50-54,35-39,7-8.99,Placed
+0,Tier 1,Canada,100-300,2,Cloud,Manufacturing,Placed,7-8.99,70-74,50-54,7-8.99,Placed
+0,Tier 2,UK,Top 100,4,Cloud,Tech,Placed,7-8.99,50-54,45-49,<5.5,Placed
+2,Tier 3,USA,300+,1,Core CS,Consulting,Not Placed,7-8.99,65-69,50-54,<5.5,Not Placed
+1,Tier 1,USA,Top 100,2,AI/ML,Consulting,Placed,5.5-6.99,100-104,45-49,<5.5,Placed
+3,Tier 2,Germany,100-300,1,Data Science,Tech,Not Placed,<5.5,60-64,40-44,5.5-6.99,Not Placed
+2,Tier 2,UK,Top 100,4,Data Science,Tech,Placed,5.5-6.99,70-74,50-54,5.5-6.99,Placed
+1,Tier 3,Germany,300+,3,AI/ML,Finance,Not Placed,7-8.99,40-44,40-44,<5.5,Placed
+0,Tier 2,Germany,100-300,2,AI/ML,Healthcare,Placed,7-8.99,75-79,80-84,7-8.99,Placed
+0,Tier 2,India,300+,0,AI/ML,Finance,Placed,7-8.99,55-59,80-84,7-8.99,Placed
+1,Tier 1,Canada,300+,4,Data Science,Consulting,Placed,5.5-6.99,70-74,65-69,7-8.99,Placed
+0,Tier 3,Canada,300+,1,Data Science,Tech,Placed,5.5-6.99,75-79,60-64,5.5-6.99,Placed
+2,Tier 1,UK,Top 100,0,Cybersecurity,Consulting,Not Placed,7-8.99,80-84,55-59,<5.5,Placed
+0,Tier 3,India,300+,1,Cybersecurity,Tech,Placed,5.5-6.99,60-64,60-64,<5.5,Placed
+2,Tier 1,UK,300+,2,AI/ML,Tech,Not Placed,5.5-6.99,60-64,35-39,<5.5,Not Placed
+1,Tier 3,UK,300+,0,Core CS,Finance,Placed,7-8.99,70-74,60-64,<5.5,Placed
+1,Tier 2,Germany,Top 100,3,Cybersecurity,Tech,Placed,7-8.99,60-64,60-64,5.5-6.99,Placed
+1,Tier 2,India,100-300,3,Core CS,Manufacturing,Placed,7-8.99,65-69,45-49,5.5-6.99,Placed
+0,Tier 2,Canada,300+,2,Core CS,Other,Placed,5.5-6.99,80-84,70-74,<5.5,Placed
+1,Tier 2,Canada,300+,0,Core CS,Finance,Placed,<5.5,90-94,75-79,5.5-6.99,Not Placed
+1,Tier 3,USA,Top 100,2,Cybersecurity,Manufacturing,Placed,5.5-6.99,60-64,60-64,5.5-6.99,Placed
+0,Tier 3,UK,100-300,1,Cloud,Healthcare,Placed,7-8.99,55-59,50-54,5.5-6.99,Placed
+1,Tier 2,UK,100-300,2,Core CS,Healthcare,Not Placed,5.5-6.99,75-79,55-59,5.5-6.99,Placed
+1,Tier 1,UK,100-300,0,Data Science,Tech,Placed,7-8.99,65-69,30-34,7-8.99,Placed
+2,Tier 1,UK,Top 100,1,Cloud,Healthcare,Placed,5.5-6.99,40-44,70-74,7-8.99,Placed
+0,Tier 2,India,300+,2,Core CS,Finance,Placed,5.5-6.99,75-79,70-74,5.5-6.99,Placed
+3,Tier 2,Canada,Top 100,3,Core CS,Manufacturing,Placed,7-8.99,75-79,90-94,5.5-6.99,Placed
+1,Tier 3,USA,300+,3,AI/ML,Tech,Placed,7-8.99,50-54,100-104,5.5-6.99,Placed
+1,Tier 1,India,100-300,2,Cloud,Finance,Placed,5.5-6.99,70-74,65-69,<5.5,Placed
+0,Tier 2,USA,100-300,2,Data Science,Healthcare,Not Placed,7-8.99,60-64,55-59,<5.5,Placed
+0,Tier 3,Germany,100-300,0,Cybersecurity,Consulting,Placed,7-8.99,75-79,70-74,<5.5,Placed
+1,Tier 1,UK,100-300,4,Core CS,Finance,Placed,7-8.99,80-84,80-84,7-8.99,Placed
+2,Tier 2,Canada,300+,1,Data Science,Tech,Placed,7-8.99,75-79,85-89,7-8.99,Placed
+4,Tier 1,Germany,300+,2,AI/ML,Manufacturing,Not Placed,5.5-6.99,50-54,85-89,5.5-6.99,Not Placed
+1,Tier 3,UK,Top 100,0,AI/ML,Healthcare,Not Placed,5.5-6.99,65-69,85-89,<5.5,Placed
+2,Tier 2,India,300+,1,Data Science,Consulting,Not Placed,5.5-6.99,45-49,60-64,5.5-6.99,Not Placed
+1,Tier 2,Germany,100-300,1,Cybersecurity,Manufacturing,Placed,5.5-6.99,70-74,60-64,<5.5,Not Placed
+2,Tier 2,USA,100-300,1,Cloud,Consulting,Not Placed,5.5-6.99,70-74,55-59,<5.5,Not Placed
+2,Tier 3,UK,Top 100,2,Cybersecurity,Consulting,Placed,7-8.99,85-89,60-64,5.5-6.99,Placed
+3,Tier 3,Canada,100-300,3,Data Science,Healthcare,Not Placed,5.5-6.99,30-34,55-59,<5.5,Not Placed
+4,Tier 2,USA,100-300,0,AI/ML,Manufacturing,Not Placed,5.5-6.99,75-79,70-74,<5.5,Not Placed
+2,Tier 3,UK,Top 100,3,Cybersecurity,Finance,Placed,7-8.99,60-64,40-44,5.5-6.99,Placed
+2,Tier 2,USA,300+,3,Data Science,Consulting,Not Placed,5.5-6.99,55-59,65-69,<5.5,Not Placed
+0,Tier 3,UK,100-300,1,AI/ML,Manufacturing,Not Placed,5.5-6.99,70-74,75-79,<5.5,Placed
+1,Tier 2,UK,100-300,1,Data Science,Other,Not Placed,5.5-6.99,30-34,45-49,<5.5,Not Placed
+0,Tier 3,Canada,100-300,5,Cloud,Healthcare,Placed,5.5-6.99,90-94,65-69,5.5-6.99,Placed
+4,Tier 1,USA,300+,0,Data Science,Finance,Not Placed,5.5-6.99,50-54,55-59,<5.5,Not Placed
+1,Tier 1,UK,100-300,0,Cloud,Finance,Placed,7-8.99,65-69,70-74,7-8.99,Placed
+3,Tier 2,Germany,300+,2,Cybersecurity,Manufacturing,Placed,5.5-6.99,35-39,60-64,5.5-6.99,Not Placed
+1,Tier 1,USA,Top 100,1,Data Science,Finance,Not Placed,7-8.99,50-54,50-54,<5.5,Placed
+1,Tier 3,UK,Top 100,2,Cybersecurity,Healthcare,Placed,5.5-6.99,75-79,60-64,5.5-6.99,Placed
+2,Tier 3,Canada,300+,1,Data Science,Finance,Placed,<5.5,65-69,90-94,<5.5,Not Placed
+1,Tier 2,UK,300+,2,Data Science,Tech,Placed,7-8.99,65-69,80-84,5.5-6.99,Placed
+1,Tier 2,Canada,100-300,0,Cybersecurity,Other,Not Placed,5.5-6.99,70-74,35-39,<5.5,Not Placed
+0,Tier 3,Canada,100-300,1,Data Science,Other,Placed,7-8.99,60-64,80-84,5.5-6.99,Placed
+0,Tier 2,USA,100-300,1,AI/ML,Other,Placed,5.5-6.99,75-79,70-74,<5.5,Placed
+2,Tier 3,USA,300+,1,Core CS,Healthcare,Placed,5.5-6.99,65-69,70-74,7-8.99,Placed
+0,Tier 2,UK,Top 100,2,Cybersecurity,Other,Placed,7-8.99,75-79,65-69,<5.5,Placed
+1,Tier 2,India,100-300,2,Data Science,Other,Placed,5.5-6.99,80-84,80-84,<5.5,Placed
+3,Tier 2,UK,300+,2,Data Science,Manufacturing,Not Placed,<5.5,50-54,65-69,5.5-6.99,Not Placed
+1,Tier 2,Germany,100-300,1,Data Science,Tech,Placed,5.5-6.99,55-59,65-69,5.5-6.99,Placed
+3,Tier 2,USA,Top 100,2,AI/ML,Finance,Not Placed,7-8.99,65-69,60-64,<5.5,Placed
+0,Tier 3,India,Top 100,0,Core CS,Consulting,Placed,5.5-6.99,90-94,60-64,<5.5,Placed
+1,Tier 2,Canada,300+,3,Data Science,Finance,Placed,7-8.99,75-79,65-69,<5.5,Placed
+2,Tier 3,Canada,300+,1,Core CS,Tech,Placed,7-8.99,70-74,65-69,5.5-6.99,Placed
+1,Tier 2,UK,100-300,1,Cybersecurity,Healthcare,Placed,5.5-6.99,70-74,55-59,<5.5,Not Placed
+2,Tier 3,India,300+,0,Cloud,Tech,Not Placed,5.5-6.99,60-64,35-39,5.5-6.99,Not Placed
+1,Tier 2,USA,100-300,0,AI/ML,Finance,Not Placed,7-8.99,55-59,65-69,<5.5,Placed
+1,Tier 2,Canada,300+,3,AI/ML,Tech,Placed,5.5-6.99,55-59,75-79,<5.5,Placed
+2,Tier 2,India,Top 100,1,Cybersecurity,Consulting,Placed,5.5-6.99,60-64,60-64,<5.5,Not Placed
+1,Tier 2,Canada,100-300,4,Cybersecurity,Consulting,Placed,7-8.99,80-84,75-79,<5.5,Placed
+1,Tier 3,India,100-300,1,Data Science,Tech,Placed,7-8.99,50-54,90-94,<5.5,Placed
+3,Tier 3,Germany,100-300,2,Core CS,Healthcare,Not Placed,5.5-6.99,70-74,75-79,<5.5,Not Placed
+1,Tier 2,USA,100-300,2,AI/ML,Other,Not Placed,5.5-6.99,80-84,60-64,<5.5,Placed
+1,Tier 1,UK,100-300,1,Cybersecurity,Consulting,Placed,7-8.99,60-64,95-99,5.5-6.99,Placed
+1,Tier 3,Germany,100-300,0,Cybersecurity,Healthcare,Placed,7-8.99,80-84,75-79,5.5-6.99,Placed
+0,Tier 3,India,100-300,2,Data Science,Healthcare,Placed,5.5-6.99,60-64,60-64,<5.5,Placed
+0,Tier 2,India,300+,2,AI/ML,Other,Placed,5.5-6.99,75-79,60-64,5.5-6.99,Placed
+2,Tier 2,Germany,100-300,1,Cloud,Tech,Placed,7-8.99,90-94,65-69,<5.5,Placed
+0,Tier 1,USA,100-300,2,Core CS,Finance,Not Placed,5.5-6.99,45-49,70-74,<5.5,Placed
+1,Tier 2,Germany,100-300,0,Core CS,Manufacturing,Not Placed,<5.5,80-84,60-64,<5.5,Not Placed
+0,Tier 1,USA,Top 100,2,Cybersecurity,Healthcare,Placed,5.5-6.99,50-54,40-44,7-8.99,Placed
+0,Tier 3,Canada,Top 100,2,AI/ML,Finance,Placed,7-8.99,50-54,50-54,<5.5,Placed
+2,Tier 2,Germany,100-300,4,Data Science,Consulting,Placed,5.5-6.99,65-69,40-44,<5.5,Placed
+0,Tier 3,USA,100-300,1,Cloud,Manufacturing,Placed,7-8.99,65-69,75-79,<5.5,Placed
+1,Tier 2,Canada,300+,0,Cybersecurity,Consulting,Not Placed,5.5-6.99,75-79,75-79,5.5-6.99,Placed
+1,Tier 1,UK,300+,2,Data Science,Consulting,Placed,7-8.99,70-74,90-94,5.5-6.99,Placed
+2,Tier 3,Canada,100-300,2,Data Science,Tech,Placed,<5.5,80-84,50-54,<5.5,Not Placed
+1,Tier 2,USA,300+,1,Core CS,Finance,Placed,7-8.99,70-74,55-59,5.5-6.99,Placed
+1,Tier 3,Germany,300+,1,Cybersecurity,Manufacturing,Not Placed,5.5-6.99,60-64,75-79,5.5-6.99,Not Placed
+2,Tier 2,Germany,100-300,1,AI/ML,Other,Placed,7-8.99,70-74,80-84,<5.5,Placed
+1,Tier 2,Canada,300+,0,Cloud,Healthcare,Not Placed,7-8.99,65-69,65-69,<5.5,Placed
+1,Tier 2,Canada,100-300,2,Data Science,Healthcare,Placed,7-8.99,90-94,80-84,<5.5,Placed
+0,Tier 2,UK,100-300,3,Cloud,Tech,Placed,7-8.99,50-54,75-79,<5.5,Placed
+2,Tier 2,Germany,300+,2,AI/ML,Other,Not Placed,7-8.99,65-69,70-74,7-8.99,Placed
+2,Tier 1,India,Top 100,3,Core CS,Consulting,Placed,7-8.99,40-44,50-54,5.5-6.99,Placed
+1,Tier 1,UK,100-300,4,Cybersecurity,Healthcare,Placed,7-8.99,65-69,50-54,<5.5,Placed
+0,Tier 2,India,300+,0,Cloud,Tech,Not Placed,5.5-6.99,70-74,60-64,<5.5,Placed
+1,Tier 2,Canada,100-300,1,Core CS,Other,Placed,5.5-6.99,60-64,55-59,<5.5,Not Placed
+0,Tier 1,Germany,300+,0,AI/ML,Consulting,Not Placed,7-8.99,55-59,80-84,<5.5,Placed
+1,Tier 3,India,100-300,1,Cloud,Healthcare,Not Placed,5.5-6.99,60-64,70-74,<5.5,Placed
+1,Tier 3,UK,100-300,1,Core CS,Other,Placed,7-8.99,35-39,45-49,<5.5,Not Placed
+1,Tier 1,Canada,Top 100,2,Cybersecurity,Manufacturing,Placed,5.5-6.99,45-49,80-84,5.5-6.99,Placed
+0,Tier 1,USA,300+,1,Core CS,Finance,Placed,7-8.99,60-64,65-69,<5.5,Placed
+2,Tier 2,UK,100-300,3,Core CS,Consulting,Not Placed,5.5-6.99,80-84,45-49,<5.5,Not Placed
+1,Tier 1,Germany,300+,2,Core CS,Healthcare,Placed,5.5-6.99,100-104,75-79,<5.5,Placed
+0,Tier 3,Germany,100-300,1,Cybersecurity,Other,Placed,5.5-6.99,95-99,60-64,5.5-6.99,Placed
+2,Tier 1,USA,300+,3,Data Science,Manufacturing,Not Placed,5.5-6.99,55-59,90-94,<5.5,Not Placed
+1,Tier 1,India,Top 100,2,Data Science,Other,Not Placed,5.5-6.99,65-69,40-44,<5.5,Placed
+2,Tier 3,UK,100-300,2,AI/ML,Other,Placed,5.5-6.99,60-64,65-69,<5.5,Not Placed
+0,Tier 3,India,100-300,3,Core CS,Manufacturing,Placed,5.5-6.99,80-84,60-64,<5.5,Placed
+0,Tier 3,India,300+,2,Core CS,Healthcare,Placed,9-10,65-69,90-94,5.5-6.99,Placed
+1,Tier 3,India,100-300,0,Cybersecurity,Healthcare,Placed,7-8.99,100-104,50-54,<5.5,Placed
+4,Tier 2,USA,300+,2,Core CS,Finance,Not Placed,5.5-6.99,85-89,70-74,<5.5,Not Placed
+1,Tier 1,USA,Top 100,0,Cybersecurity,Healthcare,Placed,7-8.99,65-69,65-69,5.5-6.99,Placed
+0,Tier 2,USA,100-300,4,AI/ML,Healthcare,Placed,7-8.99,85-89,55-59,<5.5,Placed
+0,Tier 2,Germany,Top 100,1,Cybersecurity,Healthcare,Placed,7-8.99,65-69,50-54,<5.5,Placed
+2,Tier 1,Germany,300+,2,Core CS,Finance,Placed,7-8.99,55-59,80-84,<5.5,Placed
+2,Tier 3,Germany,300+,4,Core CS,Manufacturing,Placed,7-8.99,75-79,55-59,7-8.99,Placed
+3,Tier 2,UK,300+,1,Data Science,Tech,Not Placed,5.5-6.99,70-74,100-104,<5.5,Not Placed
+0,Tier 2,USA,100-300,0,Cloud,Manufacturing,Placed,5.5-6.99,75-79,90-94,<5.5,Placed
+1,Tier 2,Germany,300+,0,AI/ML,Healthcare,Placed,7-8.99,90-94,100-104,5.5-6.99,Placed
+3,Tier 2,Canada,300+,1,Core CS,Manufacturing,Not Placed,5.5-6.99,70-74,70-74,<5.5,Not Placed
+1,Tier 3,Canada,300+,3,Cloud,Finance,Placed,7-8.99,80-84,30-34,<5.5,Placed
+0,Tier 3,Canada,300+,1,Core CS,Consulting,Not Placed,5.5-6.99,35-39,60-64,7-8.99,Placed
+0,Tier 2,USA,100-300,0,Cybersecurity,Consulting,Placed,7-8.99,95-99,60-64,5.5-6.99,Placed
+1,Tier 2,Canada,100-300,2,Cloud,Healthcare,Placed,7-8.99,55-59,45-49,5.5-6.99,Placed
+5,Tier 1,USA,100-300,1,Core CS,Tech,Not Placed,5.5-6.99,60-64,50-54,<5.5,Not Placed
+1,Tier 2,India,300+,2,Cybersecurity,Tech,Not Placed,5.5-6.99,80-84,80-84,<5.5,Placed
+2,Tier 1,USA,100-300,1,Core CS,Manufacturing,Not Placed,5.5-6.99,70-74,70-74,<5.5,Not Placed
+1,Tier 2,USA,300+,1,Cloud,Healthcare,Not Placed,7-8.99,50-54,55-59,<5.5,Placed
+2,Tier 1,Canada,Top 100,1,Cloud,Tech,Placed,7-8.99,60-64,45-49,5.5-6.99,Placed
+4,Tier 2,Canada,100-300,0,Cloud,Healthcare,Not Placed,7-8.99,65-69,45-49,<5.5,Not Placed
+2,Tier 3,USA,100-300,1,Cybersecurity,Tech,Not Placed,7-8.99,85-89,55-59,<5.5,Placed
+1,Tier 3,India,300+,0,AI/ML,Consulting,Placed,5.5-6.99,75-79,60-64,7-8.99,Placed
+0,Tier 1,Germany,100-300,2,Data Science,Finance,Placed,7-8.99,50-54,55-59,5.5-6.99,Placed
+0,Tier 2,India,Top 100,3,Cybersecurity,Healthcare,Placed,7-8.99,65-69,60-64,<5.5,Placed
+1,Tier 3,UK,100-300,3,Data Science,Finance,Not Placed,5.5-6.99,50-54,80-84,<5.5,Placed
+1,Tier 3,Germany,100-300,1,AI/ML,Manufacturing,Placed,7-8.99,90-94,75-79,5.5-6.99,Placed
+2,Tier 3,Canada,100-300,1,Data Science,Finance,Placed,7-8.99,65-69,65-69,<5.5,Placed
+1,Tier 2,Germany,100-300,1,Cloud,Finance,Not Placed,5.5-6.99,50-54,55-59,<5.5,Not Placed
+0,Tier 2,Germany,100-300,1,Core CS,Finance,Placed,7-8.99,55-59,70-74,7-8.99,Placed
+1,Tier 2,UK,300+,0,Cloud,Consulting,Not Placed,5.5-6.99,90-94,60-64,<5.5,Not Placed
+1,Tier 1,Germany,100-300,1,Core CS,Manufacturing,Placed,7-8.99,75-79,65-69,7-8.99,Placed
+0,Tier 2,Germany,300+,1,Data Science,Manufacturing,Placed,5.5-6.99,95-99,65-69,<5.5,Placed
+0,Tier 3,India,100-300,2,Core CS,Consulting,Placed,7-8.99,80-84,45-49,<5.5,Placed
+0,Tier 2,UK,100-300,5,Cybersecurity,Manufacturing,Placed,5.5-6.99,80-84,60-64,5.5-6.99,Placed
+1,Tier 1,India,300+,3,Cybersecurity,Manufacturing,Placed,5.5-6.99,65-69,65-69,<5.5,Placed
+0,Tier 1,UK,100-300,2,AI/ML,Consulting,Placed,7-8.99,80-84,50-54,<5.5,Placed
+0,Tier 2,Canada,300+,1,Cloud,Consulting,Placed,7-8.99,80-84,50-54,5.5-6.99,Placed
+0,Tier 2,USA,Top 100,1,Cybersecurity,Manufacturing,Placed,7-8.99,75-79,75-79,5.5-6.99,Placed
+0,Tier 3,UK,100-300,1,Cloud,Healthcare,Placed,5.5-6.99,90-94,80-84,<5.5,Placed
+1,Tier 2,Canada,Top 100,2,Core CS,Manufacturing,Placed,7-8.99,45-49,85-89,<5.5,Placed
+2,Tier 1,UK,300+,1,Cloud,Other,Not Placed,7-8.99,95-99,50-54,<5.5,Not Placed
+2,Tier 2,Germany,Top 100,2,Cloud,Tech,Placed,5.5-6.99,70-74,70-74,<5.5,Placed
+0,Tier 2,USA,300+,1,AI/ML,Other,Placed,7-8.99,55-59,45-49,<5.5,Placed
+1,Tier 2,USA,300+,1,Core CS,Manufacturing,Not Placed,7-8.99,70-74,75-79,<5.5,Placed
+0,Tier 3,Germany,300+,2,Data Science,Consulting,Not Placed,7-8.99,70-74,50-54,7-8.99,Placed
+3,Tier 2,USA,300+,3,Cloud,Finance,Placed,5.5-6.99,95-99,50-54,<5.5,Not Placed
+3,Tier 2,UK,100-300,0,Core CS,Consulting,Not Placed,7-8.99,60-64,55-59,<5.5,Not Placed
+0,Tier 2,UK,300+,1,AI/ML,Tech,Placed,7-8.99,95-99,70-74,<5.5,Placed
+0,Tier 3,India,300+,0,Data Science,Consulting,Placed,7-8.99,70-74,85-89,7-8.99,Placed
+0,Tier 1,Germany,300+,2,Cybersecurity,Tech,Placed,5.5-6.99,75-79,65-69,<5.5,Placed
+0,Tier 3,Canada,Top 100,1,Data Science,Healthcare,Placed,7-8.99,85-89,75-79,7-8.99,Placed
+1,Tier 1,USA,300+,1,Cybersecurity,Finance,Placed,5.5-6.99,60-64,75-79,<5.5,Not Placed
+1,Tier 3,Germany,300+,2,Cybersecurity,Consulting,Placed,7-8.99,75-79,50-54,<5.5,Placed
+3,Tier 2,India,Top 100,4,AI/ML,Tech,Placed,5.5-6.99,75-79,95-99,<5.5,Placed
+1,Tier 3,UK,100-300,2,Data Science,Consulting,Not Placed,5.5-6.99,80-84,45-49,<5.5,Placed
+0,Tier 1,India,100-300,2,Data Science,Consulting,Placed,7-8.99,60-64,75-79,<5.5,Placed
+1,Tier 1,Germany,300+,1,Cloud,Finance,Placed,7-8.99,65-69,60-64,<5.5,Placed
+0,Tier 2,Canada,300+,1,Core CS,Finance,Placed,7-8.99,80-84,75-79,<5.5,Placed
+1,Tier 3,Germany,100-300,3,Cybersecurity,Finance,Placed,5.5-6.99,50-54,65-69,<5.5,Placed
+0,Tier 1,Germany,Top 100,1,Cloud,Manufacturing,Placed,5.5-6.99,85-89,70-74,<5.5,Placed
+1,Tier 1,USA,300+,5,Cloud,Healthcare,Placed,5.5-6.99,50-54,85-89,<5.5,Placed
+0,Tier 2,Germany,300+,0,Core CS,Manufacturing,Placed,7-8.99,65-69,50-54,5.5-6.99,Placed
+1,Tier 1,USA,100-300,1,AI/ML,Healthcare,Placed,7-8.99,60-64,35-39,5.5-6.99,Placed
+0,Tier 3,Germany,300+,2,AI/ML,Other,Placed,7-8.99,55-59,40-44,<5.5,Placed
+1,Tier 1,Germany,Top 100,3,Cloud,Consulting,Placed,5.5-6.99,75-79,85-89,<5.5,Placed
+1,Tier 3,UK,100-300,0,Data Science,Healthcare,Placed,7-8.99,60-64,95-99,5.5-6.99,Placed
+1,Tier 2,USA,300+,3,AI/ML,Tech,Placed,7-8.99,75-79,55-59,<5.5,Placed
+1,Tier 1,UK,100-300,4,Cloud,Healthcare,Placed,7-8.99,60-64,50-54,5.5-6.99,Placed
+1,Tier 3,India,300+,2,Cybersecurity,Finance,Placed,5.5-6.99,85-89,75-79,<5.5,Placed
+0,Tier 1,USA,300+,1,AI/ML,Finance,Placed,5.5-6.99,70-74,70-74,5.5-6.99,Placed
+1,Tier 3,Germany,100-300,0,Cybersecurity,Tech,Placed,5.5-6.99,70-74,100-104,<5.5,Placed
+1,Tier 2,Canada,100-300,2,AI/ML,Finance,Placed,5.5-6.99,70-74,45-49,5.5-6.99,Placed
+2,Tier 1,Canada,100-300,1,Cybersecurity,Tech,Placed,7-8.99,80-84,65-69,<5.5,Placed
+0,Tier 2,India,100-300,5,Core CS,Finance,Placed,7-8.99,85-89,40-44,7-8.99,Placed
+2,Tier 2,Canada,Top 100,3,Core CS,Finance,Placed,5.5-6.99,65-69,60-64,<5.5,Placed
+2,Tier 3,Germany,100-300,1,AI/ML,Healthcare,Placed,5.5-6.99,100-104,55-59,5.5-6.99,Not Placed
+1,Tier 2,UK,300+,3,Data Science,Healthcare,Placed,7-8.99,85-89,60-64,7-8.99,Placed
+1,Tier 3,Canada,300+,1,Core CS,Finance,Not Placed,5.5-6.99,70-74,55-59,<5.5,Not Placed
+2,Tier 2,India,100-300,1,Cloud,Tech,Placed,5.5-6.99,80-84,65-69,<5.5,Not Placed
+2,Tier 3,UK,300+,2,Cybersecurity,Healthcare,Not Placed,5.5-6.99,80-84,60-64,<5.5,Not Placed
+0,Tier 1,Germany,100-300,2,Data Science,Consulting,Placed,7-8.99,55-59,55-59,<5.5,Placed
+3,Tier 2,Canada,300+,2,Cloud,Manufacturing,Not Placed,5.5-6.99,55-59,80-84,<5.5,Not Placed
+1,Tier 3,India,300+,0,Cloud,Healthcare,Not Placed,7-8.99,35-39,95-99,5.5-6.99,Placed
+3,Tier 2,Germany,100-300,1,Core CS,Other,Placed,7-8.99,90-94,75-79,5.5-6.99,Placed
+0,Tier 2,Canada,Top 100,1,Cloud,Other,Not Placed,5.5-6.99,60-64,75-79,<5.5,Placed
+2,Tier 2,Canada,300+,1,Core CS,Other,Placed,7-8.99,50-54,65-69,<5.5,Not Placed
+0,Tier 3,UK,Top 100,1,Cybersecurity,Manufacturing,Placed,7-8.99,100-104,50-54,7-8.99,Placed
+0,Tier 3,Canada,300+,1,Core CS,Finance,Placed,5.5-6.99,75-79,70-74,<5.5,Placed
+2,Tier 1,USA,300+,3,Core CS,Finance,Not Placed,<5.5,45-49,60-64,<5.5,Not Placed
+3,Tier 3,Canada,Top 100,2,Data Science,Healthcare,Not Placed,5.5-6.99,65-69,70-74,<5.5,Not Placed
+0,Tier 2,India,300+,2,Core CS,Consulting,Not Placed,5.5-6.99,70-74,55-59,7-8.99,Placed
+1,Tier 3,Canada,300+,2,Data Science,Other,Not Placed,7-8.99,90-94,30-34,<5.5,Placed
+5,Tier 2,USA,300+,2,Cloud,Consulting,Not Placed,7-8.99,50-54,50-54,<5.5,Not Placed
+1,Tier 1,UK,100-300,1,Data Science,Finance,Not Placed,5.5-6.99,60-64,40-44,<5.5,Not Placed
+1,Tier 3,India,100-300,2,Cybersecurity,Healthcare,Not Placed,5.5-6.99,75-79,60-64,<5.5,Placed
+3,Tier 1,UK,300+,0,Cybersecurity,Manufacturing,Placed,7-8.99,65-69,85-89,<5.5,Not Placed
+0,Tier 2,Germany,300+,3,Core CS,Consulting,Placed,7-8.99,50-54,85-89,<5.5,Placed
+1,Tier 3,USA,300+,3,Cloud,Consulting,Placed,7-8.99,55-59,50-54,<5.5,Placed
+0,Tier 2,Germany,300+,0,Data Science,Healthcare,Placed,7-8.99,75-79,75-79,<5.5,Placed
+1,Tier 2,USA,100-300,3,Data Science,Tech,Placed,7-8.99,80-84,65-69,5.5-6.99,Placed
+0,Tier 2,USA,300+,1,Cloud,Consulting,Placed,5.5-6.99,55-59,90-94,7-8.99,Placed
+0,Tier 3,Germany,300+,1,Cybersecurity,Consulting,Placed,5.5-6.99,100-104,65-69,<5.5,Placed
+0,Tier 3,USA,300+,1,AI/ML,Manufacturing,Placed,7-8.99,70-74,55-59,<5.5,Placed
+1,Tier 1,Canada,100-300,1,Cloud,Consulting,Placed,5.5-6.99,95-99,40-44,7-8.99,Placed
+1,Tier 2,USA,Top 100,0,Data Science,Healthcare,Not Placed,5.5-6.99,60-64,95-99,<5.5,Placed
+0,Tier 2,USA,100-300,1,Core CS,Other,Placed,5.5-6.99,30-34,70-74,<5.5,Not Placed
+0,Tier 1,Canada,300+,2,Core CS,Finance,Placed,7-8.99,80-84,50-54,7-8.99,Placed
+1,Tier 1,USA,100-300,2,Data Science,Finance,Placed,7-8.99,55-59,50-54,5.5-6.99,Placed
+2,Tier 1,USA,100-300,1,Core CS,Manufacturing,Placed,7-8.99,80-84,75-79,5.5-6.99,Placed
+2,Tier 2,Germany,300+,1,Cybersecurity,Healthcare,Placed,7-8.99,55-59,90-94,7-8.99,Placed
+2,Tier 2,Canada,Top 100,2,Cybersecurity,Consulting,Placed,5.5-6.99,75-79,60-64,<5.5,Placed
+3,Tier 1,USA,100-300,0,Core CS,Finance,Placed,5.5-6.99,90-94,95-99,<5.5,Not Placed
+0,Tier 1,India,100-300,0,Core CS,Tech,Placed,7-8.99,70-74,60-64,<5.5,Placed
+2,Tier 1,UK,300+,1,Cybersecurity,Other,Not Placed,7-8.99,75-79,80-84,<5.5,Placed
+0,Tier 1,UK,300+,1,Cloud,Healthcare,Placed,5.5-6.99,95-99,80-84,5.5-6.99,Placed
+0,Tier 2,India,100-300,3,Cybersecurity,Manufacturing,Placed,7-8.99,70-74,80-84,5.5-6.99,Placed
+1,Tier 3,Germany,100-300,1,Core CS,Manufacturing,Placed,5.5-6.99,50-54,50-54,5.5-6.99,Not Placed
+0,Tier 3,Germany,100-300,2,AI/ML,Consulting,Placed,5.5-6.99,70-74,80-84,5.5-6.99,Placed
+1,Tier 1,Canada,300+,0,Cybersecurity,Other,Not Placed,7-8.99,90-94,70-74,<5.5,Placed
+0,Tier 1,Canada,100-300,1,Data Science,Manufacturing,Not Placed,5.5-6.99,90-94,70-74,5.5-6.99,Placed
+0,Tier 2,USA,300+,2,Data Science,Other,Placed,7-8.99,50-54,70-74,<5.5,Placed
+0,Tier 3,India,Top 100,0,Data Science,Tech,Placed,7-8.99,70-74,80-84,5.5-6.99,Placed
+2,Tier 3,USA,300+,1,AI/ML,Consulting,Not Placed,7-8.99,75-79,75-79,<5.5,Placed
+2,Tier 3,India,300+,1,Cloud,Tech,Not Placed,5.5-6.99,70-74,55-59,<5.5,Not Placed
+2,Tier 2,UK,300+,2,Core CS,Tech,Not Placed,5.5-6.99,80-84,80-84,5.5-6.99,Placed
+2,Tier 1,UK,300+,2,Cloud,Other,Placed,7-8.99,80-84,55-59,<5.5,Not Placed
+1,Tier 1,UK,100-300,1,AI/ML,Tech,Placed,7-8.99,45-49,35-39,7-8.99,Placed
+0,Tier 1,Germany,100-300,0,Core CS,Finance,Not Placed,7-8.99,80-84,65-69,<5.5,Placed
+1,Tier 3,India,300+,0,AI/ML,Consulting,Not Placed,7-8.99,65-69,50-54,<5.5,Placed
+2,Tier 3,India,Top 100,1,Cloud,Other,Placed,5.5-6.99,60-64,45-49,<5.5,Not Placed
+0,Tier 3,India,100-300,0,Cloud,Manufacturing,Placed,5.5-6.99,60-64,60-64,7-8.99,Placed
+0,Tier 3,UK,100-300,3,Core CS,Other,Placed,7-8.99,65-69,45-49,<5.5,Placed
+2,Tier 1,UK,Top 100,0,Core CS,Healthcare,Placed,7-8.99,55-59,50-54,<5.5,Not Placed
+1,Tier 2,USA,100-300,0,AI/ML,Tech,Placed,7-8.99,90-94,60-64,<5.5,Placed
+1,Tier 1,USA,300+,1,Core CS,Finance,Placed,5.5-6.99,70-74,65-69,<5.5,Not Placed
+1,Tier 3,Germany,100-300,2,AI/ML,Tech,Placed,5.5-6.99,65-69,30-34,7-8.99,Placed
+3,Tier 3,Canada,300+,0,Data Science,Consulting,Not Placed,5.5-6.99,75-79,40-44,5.5-6.99,Not Placed
+2,Tier 2,India,100-300,2,Cybersecurity,Healthcare,Placed,7-8.99,85-89,60-64,<5.5,Placed
+2,Tier 2,UK,100-300,2,AI/ML,Manufacturing,Placed,5.5-6.99,65-69,60-64,5.5-6.99,Not Placed
+3,Tier 2,Germany,300+,1,Core CS,Healthcare,Not Placed,5.5-6.99,55-59,80-84,5.5-6.99,Not Placed
+1,Tier 2,Canada,300+,1,Cloud,Healthcare,Not Placed,7-8.99,80-84,40-44,<5.5,Placed
+1,Tier 1,India,100-300,3,Core CS,Finance,Placed,7-8.99,65-69,70-74,<5.5,Placed
+3,Tier 3,UK,300+,3,AI/ML,Healthcare,Not Placed,5.5-6.99,80-84,50-54,<5.5,Not Placed
+1,Tier 3,Germany,100-300,2,AI/ML,Consulting,Placed,5.5-6.99,55-59,60-64,5.5-6.99,Placed
+3,Tier 3,India,100-300,0,AI/ML,Manufacturing,Placed,7-8.99,70-74,65-69,<5.5,Not Placed
+2,Tier 2,USA,300+,2,Cloud,Manufacturing,Not Placed,5.5-6.99,75-79,45-49,5.5-6.99,Not Placed
+1,Tier 2,Canada,300+,0,Cybersecurity,Healthcare,Not Placed,7-8.99,70-74,80-84,5.5-6.99,Placed
+1,Tier 2,Canada,Top 100,1,Data Science,Tech,Placed,7-8.99,50-54,55-59,<5.5,Placed
+3,Tier 2,Canada,Top 100,1,Cloud,Finance,Not Placed,5.5-6.99,65-69,50-54,<5.5,Not Placed
+1,Tier 3,India,100-300,1,Core CS,Manufacturing,Placed,7-8.99,70-74,60-64,5.5-6.99,Placed
+1,Tier 2,Canada,300+,0,Data Science,Finance,Not Placed,7-8.99,65-69,65-69,5.5-6.99,Placed
+3,Tier 2,Germany,300+,2,Cybersecurity,Tech,Placed,7-8.99,50-54,95-99,<5.5,Not Placed
+3,Tier 2,Germany,300+,0,Cybersecurity,Healthcare,Not Placed,5.5-6.99,65-69,95-99,<5.5,Not Placed
+1,Tier 2,India,300+,0,AI/ML,Consulting,Placed,7-8.99,100-104,60-64,<5.5,Placed
+1,Tier 3,Germany,100-300,1,Data Science,Manufacturing,Not Placed,5.5-6.99,95-99,60-64,<5.5,Not Placed
+1,Tier 3,India,300+,4,AI/ML,Manufacturing,Placed,5.5-6.99,75-79,75-79,7-8.99,Placed
+2,Tier 2,Germany,100-300,1,Cybersecurity,Tech,Placed,7-8.99,80-84,30-34,5.5-6.99,Placed
+1,Tier 2,UK,300+,1,Cybersecurity,Finance,Placed,7-8.99,90-94,70-74,<5.5,Placed
+3,Tier 2,USA,300+,0,AI/ML,Other,Not Placed,5.5-6.99,75-79,30-34,<5.5,Not Placed
+2,Tier 2,Germany,100-300,0,AI/ML,Tech,Not Placed,5.5-6.99,70-74,40-44,<5.5,Not Placed
+1,Tier 1,Germany,300+,4,AI/ML,Healthcare,Not Placed,7-8.99,35-39,85-89,<5.5,Placed
+2,Tier 1,Germany,100-300,1,AI/ML,Other,Not Placed,5.5-6.99,55-59,45-49,5.5-6.99,Not Placed
+0,Tier 2,UK,300+,1,Data Science,Finance,Placed,5.5-6.99,75-79,90-94,<5.5,Placed
+1,Tier 3,India,300+,1,Cloud,Other,Placed,7-8.99,45-49,55-59,<5.5,Not Placed
+6,Tier 2,India,Top 100,1,Core CS,Healthcare,Not Placed,5.5-6.99,65-69,70-74,<5.5,Not Placed
+3,Tier 1,USA,Top 100,1,AI/ML,Consulting,Not Placed,5.5-6.99,70-74,55-59,<5.5,Not Placed
+0,Tier 2,Germany,100-300,1,AI/ML,Manufacturing,Placed,5.5-6.99,75-79,75-79,5.5-6.99,Placed
+1,Tier 2,India,100-300,3,AI/ML,Tech,Not Placed,5.5-6.99,55-59,45-49,<5.5,Placed
+1,Tier 1,Germany,300+,2,Cybersecurity,Consulting,Not Placed,7-8.99,50-54,55-59,<5.5,Placed
+3,Tier 2,Germany,300+,0,AI/ML,Consulting,Not Placed,5.5-6.99,75-79,70-74,<5.5,Not Placed
+5,Tier 3,USA,100-300,2,Core CS,Other,Not Placed,<5.5,95-99,50-54,7-8.99,Not Placed
+0,Tier 1,Canada,300+,1,Cybersecurity,Healthcare,Placed,5.5-6.99,75-79,70-74,5.5-6.99,Placed
+2,Tier 3,Germany,300+,1,Cybersecurity,Finance,Not Placed,5.5-6.99,80-84,70-74,5.5-6.99,Not Placed
+2,Tier 2,India,100-300,3,AI/ML,Finance,Placed,7-8.99,60-64,60-64,9-10,Placed
+2,Tier 2,Canada,100-300,0,Data Science,Other,Not Placed,7-8.99,50-54,45-49,<5.5,Not Placed
+2,Tier 2,India,100-300,1,Cybersecurity,Manufacturing,Not Placed,7-8.99,90-94,65-69,5.5-6.99,Placed
+0,Tier 2,USA,100-300,1,Data Science,Consulting,Placed,5.5-6.99,55-59,55-59,<5.5,Placed
