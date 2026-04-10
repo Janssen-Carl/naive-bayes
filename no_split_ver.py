@@ -1,4 +1,5 @@
 # main.py for Job Placement Dataset Analysis using Naive Bayes Algorithm
+# dataset are all train and test 
 
 import functions
 
